@@ -1437,3 +1437,211 @@ hannel CineA same as -- CINESTAR ACTION & THRILLER -- time offset 0 hour(s)
 
 [  Debug ] 
 [  Info  ] (  56/73  ) A1.HR -- chan. (xmltv_id=SPORTSKA TV) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 25/11/2019 23:55
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 27/11/2019 04:05:00 stop = 27/11/2019 06:10:00 title = Džudoosaka
+[  Info  ]       Replaces ----- start = 27/11/2019 04:05:00 stop = 27/11/2019 07:00:00 title = Džudoosaka
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 27/11/2019 06:10:00 stop = 27/11/2019 07:00:00 title = Svijet Jedrenja
+[  Info  ]       Replaces ----- start = 27/11/2019 04:05:00 stop = 27/11/2019 07:00:00 title = Džudoosaka
+[  Info  ] 
+[  Info  ]    Summary for update of       SPORTSKA TV
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     2
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 141
+[  Info  ]      total after update        143
+
+[  Debug ] 
+[  Info  ] channel SPTV same as -- SPORTSKA TV -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       SPTV
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     143
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        285
+
+[  Debug ] 
+[  Info  ] (  58/73  ) A1.HR -- chan. (xmltv_id=INFO KANAL) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Bnet same as -- INFO KANAL -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  60/73  ) A1.HR -- chan. (xmltv_id=SK 1) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 25/11/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       SK 1
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           3
+[  Info  ]      unchanged shows inspected 118
+[  Info  ]      total after update        121
+
+[  Debug ] 
+[  Info  ] (  61/73  ) A1.HR -- chan. (xmltv_id=SK 3) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 25/11/2019 23:25
+[  Info  ] 
+[  Info  ]    Summary for update of       SK 3
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           4
+[  Info  ]      unchanged shows inspected 108
+[  Info  ]      total after update        112
+
+[  Debug ] 
+[  Info  ] (  62/73  ) A1.HR -- chan. (xmltv_id=CARTOON NETWORK) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 25/11/2019 23:53
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 27/11/2019 09:47:00 stop = 27/11/2019 09:58:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 27/11/2019 09:45:00 stop = 27/11/2019 09:55:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 27/11/2019 09:55:00 stop = 27/11/2019 10:15:00 title = Craig Of The Creek
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 27/11/2019 09:58:00 stop = 27/11/2019 10:15:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 27/11/2019 09:55:00 stop = 27/11/2019 10:15:00 title = Craig Of The Creek
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 27/11/2019 15:15:00 stop = 27/11/2019 15:26:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 27/11/2019 15:15:00 stop = 27/11/2019 15:25:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 27/11/2019 15:25:00 stop = 27/11/2019 15:45:00 title = Craig Of The Creek
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 27/11/2019 15:26:00 stop = 27/11/2019 15:44:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 27/11/2019 15:25:00 stop = 27/11/2019 15:45:00 title = Craig Of The Creek
+[  Info  ] 
+[  Info  ]    Summary for update of       CARTOON NETWORK
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     100
+[  Info  ]      new shows added           111
+[  Info  ]      unchanged shows inspected 578
+[  Info  ]      total after update        789
+
+[  Debug ] 
+[  Info  ] channel CN same as -- CARTOON NETWORK -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       CN
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     789
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        1467
+
+[  Debug ] 
+[  Info  ] (  64/73  ) A1.HR -- chan. (xmltv_id=NICKELODEON) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 25/11/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       NICKELODEON
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 369
+[  Info  ]      total after update        369
+
+[  Debug ] 
+[  Info  ] channel Nicke same as -- NICKELODEON -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       Nicke
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     369
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        738
+
+[  Debug ] 
+[  Info  ] (  66/73  ) A1.HR -- chan. (xmltv_id=DISNEY CHANNEL) -- mode Incremental
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Disne same as -- DISNEY CHANNEL -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  68/73  ) A1.HR -- chan. (xmltv_id=MINI TV) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 25/11/2019 23:20
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 26/11/2019 05:55:00 stop = 26/11/2019 06:20:00 title = Talking Tom I Prijatelji
+[  Info  ]       Replaces ----- start = 26/11/2019 05:00:00 stop = 26/11/2019 06:10:00 title = Čovjek S Mjeseca
+[  Info  ]       Replaces ----- start = 26/11/2019 06:10:00 stop = 26/11/2019 06:30:00 title = Talking Tom I Prijatelji
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 26/11/2019 06:20:00 stop = 26/11/2019 06:35:00 title = More Jump With Joey
+[  Info  ]       Replaces ----- start = 26/11/2019 06:10:00 stop = 26/11/2019 06:30:00 title = Talking Tom I Prijatelji
+[  Info  ]       Replaces ----- start = 26/11/2019 06:30:00 stop = 26/11/2019 06:40:00 title = More Jump With Joey
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 26/11/2019 07:00:00 stop = 26/11/2019 07:55:00 title = Robocar Poli
+[  Info  ]       Replaces ----- start = 26/11/2019 07:00:00 stop = 26/11/2019 07:45:00 title = Robocar Poli
+[  Info  ]       Replaces ----- start = 26/11/2019 07:45:00 stop = 26/11/2019 08:15:00 title = 44 Cats: Ekipa Malih Maca
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 26/11/2019 07:55:00 stop = 26/11/2019 08:20:00 title = 44 Cats: Ekipa Malih Maca
+[  Info  ]       Replaces ----- start = 26/11/2019 07:45:00 stop = 26/11/2019 08:15:00 title = 44 Cats: Ekipa Malih Maca
+[  Info  ]       Replaces ----- start = 26/11/2019 08:15:00 stop = 26/11/2019 09:05:00 title = Pleme Monchhichi
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 26/11/2019 16:05:00 stop = 26/11/2019 17:05:00 title = Robocar Poli
+[  Info  ]       Replaces ----- start = 26/11/2019 15:40:00 stop = 26/11/2019 16:10:00 title = Bobi I Bero
+[  Info  ]       Replaces ----- start = 26/11/2019 16:10:00 stop = 26/11/2019 17:05:00 title = Robocar Poli
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 26/11/2019 17:05:00 stop = 26/11/2019 17:25:00 title = 44 Cats: Ekipa Malih Maca
+[  Info  ]       Replaces ----- start = 26/11/2019 17:05:00 stop = 26/11/2019 17:30:00 title = 44 Cats: Ekipa Malih Maca
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 26/11/2019 19:35:00 stop = 26/11/2019 20:00:00 title = Talking Tom I Prijatelji
+[  Info  ]       Replaces ----- start = 26/11/2019 18:50:00 stop = 26/11/2019 19:40:00 title = Maggie I Bianca
+[  Info  ]       Replaces ----- start = 26/11/2019 19:40:00 stop = 26/11/2019 20:00:00 title = Talking Tom I Prijatelji
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 27/11/2019 00:05:00 stop = 27/11/2019 05:00:00 title = Kraj Programa
+[  Info  ]       Replaces ----- start = 26/11/2019 23:20:00 stop = 27/11/2019 00:10:00 title = Maggie I Bianca
+[  Info  ]       Replaces ----- start = 27/11/2019 00:10:00 stop = 27/11/2019 05:00:00 title = Kraj Programa
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Mini same as -- MINI TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  70/73  ) A1.HR -- chan. (xmltv_id=MTV) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 25/11/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           22
+[  Info  ]      unchanged shows inspected 147
+[  Info  ]      total after update        169
+
+[  Debug ] 
+[  Info  ] (  71/73  ) A1.HR -- chan. (xmltv_id=VH1) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 25/11/2019 23:35
+[  Info  ] 
+[  Info  ]    Summary for update of       VH1
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           15
+[  Info  ]      unchanged shows inspected 85
+[  Info  ]      total after update        100
+
+[  Debug ] 
+[  Info  ] (  72/73  ) A1.HR -- chan. (xmltv_id=CROATIAN MUSIC CHANNEL) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 25/11/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       CROATIAN MUSIC CHANNEL
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 88
+[  Info  ]      total after update        88
+
+[  Debug ] 
+[  Info  ] channel CMC same as -- CROATIAN MUSIC CHANNEL -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       CMC
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     88
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        176
+
+[  Debug ] 
+[  Debug ] 16656 shows in 73 channels
+[  Debug ] 249 updated shows
+[  Debug ] 955 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 26/11/2019 12:11:05 done in 9m 50s
+[  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
