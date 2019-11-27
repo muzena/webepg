@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 27/11/2019 16:38:44
+[        ] Job started at 27/11/2019 17:34:27
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.0.50400
 [  Debug ] Environment: 4.0.30319.42000
@@ -605,6 +605,8 @@
 
 [  Debug ] 
 [  Info  ] (  58/73  ) A1.HR -- chan. (xmltv_id=INFO KANAL) -- mode Incremental
+[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
+[Warning ] pausing 1 of 4 times for 7 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Bnet same as -- INFO KANAL -- time offset 0 hour(s)
@@ -646,3 +648,87 @@
 
 [  Debug ] 
 [  Info  ] (  64/73  ) A1.HR -- chan. (xmltv_id=NICKELODEON) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 26/11/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       NICKELODEON
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 297
+[  Info  ]      total after update        297
+
+[  Debug ] 
+[  Info  ] channel Nicke same as -- NICKELODEON -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       Nicke
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     297
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        594
+
+[  Debug ] 
+[  Info  ] (  66/73  ) A1.HR -- chan. (xmltv_id=DISNEY CHANNEL) -- mode Incremental
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Disne same as -- DISNEY CHANNEL -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  68/73  ) A1.HR -- chan. (xmltv_id=MINI TV) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 26/11/2019 23:20
+[  Info  ] 
+[  Info  ]    Summary for update of       MINI TV
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 266
+[  Info  ]      total after update        266
+
+[  Debug ] 
+[  Info  ] channel Mini same as -- MINI TV -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       Mini
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     266
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        532
+
+[  Debug ] 
+[  Info  ] (  70/73  ) A1.HR -- chan. (xmltv_id=MTV) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 26/11/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 169
+[  Info  ]      total after update        169
+
+[  Debug ] 
+[  Info  ] (  71/73  ) A1.HR -- chan. (xmltv_id=VH1) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 26/11/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       VH1
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 100
+[  Info  ]      total after update        100
+
+[  Debug ] 
+[  Info  ] (  72/73  ) A1.HR -- chan. (xmltv_id=CROATIAN MUSIC CHANNEL) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 26/11/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       CROATIAN MUSIC CHANNEL
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 63
+[  Info  ]      total after update        63
+
+[  Debug ] 
+[  Info  ] channel CMC same as -- CROATIAN MUSIC CHANNEL -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       CMC
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     63
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        126
+
+[  Debug ] 
+[  Debug ] 16080 shows in 73 channels
+[  Debug ] 0 updated shows
+[  Debug ] 0 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 27/11/2019 17:43:17 done in 8m 49s
+[  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
