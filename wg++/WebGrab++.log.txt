@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 14/12/2019 17:00:01
+[        ] Job started at 14/12/2019 17:22:19
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.3.50403
 [  Debug ] Environment: 4.0.30319.42000
@@ -298,7 +298,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 14/12/2019 17:03:26
+[Error   ] computer date/time format: 14/12/2019 17:25:40
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Cines same as -- CINESTAR TV -- time offset 0 hour(s)
@@ -447,40 +447,10 @@
 [  Debug ] 
 [  Info  ] (  36/73  ) A1.HR -- chan. (xmltv_id=DOKUTV) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 13/12/2019 23:31
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 16/12/2019 10:01:00 stop = 16/12/2019 11:02:00 title = Nasljedstvo
-[  Info  ]       Replaces ----- start = 16/12/2019 09:02:00 stop = 16/12/2019 10:02:00 title = Nano Revolucija
-[  Info  ]       Replaces ----- start = 16/12/2019 10:02:00 stop = 16/12/2019 11:02:00 title = Nasljedstvo
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 16/12/2019 18:01:00 stop = 16/12/2019 19:01:00 title = Nasljedstvo
-[  Info  ]       Replaces ----- start = 16/12/2019 17:02:00 stop = 16/12/2019 18:02:00 title = U Plavetnilu Antartike
-[  Info  ]       Replaces ----- start = 16/12/2019 18:02:00 stop = 16/12/2019 19:02:00 title = Nasljedstvo
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 16/12/2019 20:01:00 stop = 16/12/2019 21:01:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]       Replaces ----- start = 16/12/2019 19:02:00 stop = 16/12/2019 20:02:00 title = Zadnji Dani Sssr A
-[  Info  ]       Replaces ----- start = 16/12/2019 20:02:00 stop = 16/12/2019 21:02:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 18/12/2019 06:02:00 stop = 18/12/2019 07:02:00 title = Romantični Gradovi Svijeta
-[  Info  ]       Replaces ----- start = 18/12/2019 06:02:00 stop = 18/12/2019 07:03:00 title = Romantični Gradovi Svijeta
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 19/12/2019 03:02:00 stop = 19/12/2019 04:02:00 title = Preopterećeni Mozak
-[  Info  ]       Replaces ----- start = 19/12/2019 03:02:00 stop = 19/12/2019 04:03:00 title = Preopterećeni Mozak
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 20/12/2019 14:03:00 stop = 20/12/2019 15:03:00 title = Doktori U Ekstremnim Situacijama
-[  Info  ]       Replaces ----- start = 20/12/2019 13:03:00 stop = 20/12/2019 14:04:00 title = Svijet Mirisa
-[  Info  ]       Replaces ----- start = 20/12/2019 14:04:00 stop = 20/12/2019 15:03:00 title = Doktori U Ekstremnim Situacijama
 [  Info  ] 
 [  Info  ]    Summary for update of       DOKUTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     63
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 104
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 167
 [  Info  ]      total after update        167
 
 [  Debug ] 
@@ -744,6 +714,8 @@
 
 [  Debug ] 
 [  Info  ] (  70/73  ) A1.HR -- chan. (xmltv_id=VH1) -- mode Incremental
+[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
+[Warning ] pausing 1 of 4 times for 7 seconds before re-try.
 [  Debug ]    skipped : show that happened before 'today' @ 13/12/2019 23:35
 [  Info  ] 
 [  Info  ]    Summary for update of       VH1
@@ -771,9 +743,9 @@
 
 [  Debug ] 
 [  Debug ] 17322 shows in 73 channels
-[  Debug ] 69 updated shows
+[  Debug ] 6 updated shows
 [  Debug ] 5 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 14/12/2019 17:09:37 done in 9m 36s
+[        ] Job finished at 14/12/2019 17:31:56 done in 9m 37s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
