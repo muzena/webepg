@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 15/12/2019 12:01:13
+[        ] Job started at 15/12/2019 22:08:09
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.3.50403
 [  Debug ] Environment: 4.0.30319.42000
@@ -225,10 +225,21 @@
 [  Debug ] 
 [  Info  ] (  14/73  ) A1.HR -- chan. (xmltv_id=RTL2) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 14/12/2019 23:30
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 15/12/2019 13:15:00 stop = 15/12/2019 14:20:00 title = Top.hr
+[  Info  ]       Replaces ----- start = 15/12/2019 13:15:00 stop = 15/12/2019 14:15:00 title = Top.hr
+[  Info  ]       Replaces ----- start = 15/12/2019 14:15:00 stop = 15/12/2019 15:15:00 title = Moderna Čuda
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 15/12/2019 16:10:00 stop = 15/12/2019 17:05:00 title = Drevni Izvanzemaljci
+[  Info  ]       Replaces ----- start = 15/12/2019 16:10:00 stop = 15/12/2019 17:10:00 title = Drevni Izvanzemaljci
 [  Info  ] 
 [  Info  ]    Summary for update of       RTL2
-[  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 292
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     6
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 286
 [  Info  ]      total after update        292
 
 [  Debug ] 
@@ -243,10 +254,27 @@
 [  Debug ] 
 [  Info  ] (  16/73  ) A1.HR -- chan. (xmltv_id=RTL KOCKICA) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 14/12/2019 23:35
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 16/12/2019 03:10:00 stop = 16/12/2019 03:25:00 title = Sportske Igre Mladih
+[  Info  ]       Replaces ----- start = 16/12/2019 02:30:00 stop = 16/12/2019 03:15:00 title = Soy Luna
+[  Info  ]       Replaces ----- start = 16/12/2019 03:15:00 stop = 16/12/2019 03:30:00 title = Sportske Igre Mladih
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 16/12/2019 03:25:00 stop = 16/12/2019 03:35:00 title = Sportske Igre Mladih
+[  Info  ]       Replaces ----- start = 16/12/2019 03:15:00 stop = 16/12/2019 03:30:00 title = Sportske Igre Mladih
+[  Info  ]       Replaces ----- start = 16/12/2019 03:30:00 stop = 16/12/2019 03:40:00 title = Sportske Igre Mladih
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 16/12/2019 03:35:00 stop = 16/12/2019 05:15:00 title = Sportske Igre Mladih
+[  Info  ]       Replaces ----- start = 16/12/2019 03:30:00 stop = 16/12/2019 03:40:00 title = Sportske Igre Mladih
+[  Info  ]       Replaces ----- start = 16/12/2019 03:40:00 stop = 16/12/2019 05:15:00 title = Sportske Igre Mladih
 [  Info  ] 
 [  Info  ]    Summary for update of       RTL KOCKICA
-[  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 400
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     7
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 393
 [  Info  ]      total after update        400
 
 [  Debug ] 
@@ -295,7 +323,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 15/12/2019 12:04:30
+[Error   ] computer date/time format: 15/12/2019 22:11:45
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Cines same as -- CINESTAR TV -- time offset 0 hour(s)
@@ -643,10 +671,30 @@
 [  Debug ] 
 [  Info  ] (  61/73  ) A1.HR -- chan. (xmltv_id=CARTOON NETWORK) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 14/12/2019 23:52
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 17/12/2019 09:42:00 stop = 17/12/2019 09:52:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 17/12/2019 09:40:00 stop = 17/12/2019 09:50:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 17/12/2019 09:50:00 stop = 17/12/2019 10:10:00 title = Craig Of The Creek
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 17/12/2019 09:52:00 stop = 17/12/2019 10:10:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 17/12/2019 09:50:00 stop = 17/12/2019 10:10:00 title = Craig Of The Creek
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 17/12/2019 15:16:00 stop = 17/12/2019 15:26:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 17/12/2019 15:15:00 stop = 17/12/2019 15:25:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 17/12/2019 15:25:00 stop = 17/12/2019 15:45:00 title = Craig Of The Creek
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 17/12/2019 15:26:00 stop = 17/12/2019 15:44:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 17/12/2019 15:25:00 stop = 17/12/2019 15:45:00 title = Craig Of The Creek
 [  Info  ] 
 [  Info  ]    Summary for update of       CARTOON NETWORK
-[  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 773
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     95
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 678
 [  Info  ]      total after update        773
 
 [  Debug ] 
@@ -738,9 +786,9 @@
 
 [  Debug ] 
 [  Debug ] 17125 shows in 73 channels
-[  Debug ] 4 updated shows
+[  Debug ] 112 updated shows
 [  Debug ] 5 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 15/12/2019 12:10:28 done in 9m 15s
+[        ] Job finished at 15/12/2019 22:17:56 done in 9m 47s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
