@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 31/12/2019 15:39:32
+[        ] Job started at 31/12/2019 17:22:41
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.6.50406
 [  Debug ] Environment: 4.0.30319.42000
@@ -284,7 +284,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 31/12/2019 15:42:50
+[Error   ] computer date/time format: 31/12/2019 17:25:49
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Cines same as -- CINESTAR TV -- time offset 0 hour(s)
@@ -558,8 +558,6 @@
 
 [  Debug ] 
 [  Info  ] (  50/73  ) A1.HR -- chan. (xmltv_id=JABUKA TV) -- mode Incremental
-[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
-[Warning ] pausing 1 of 4 times for 7 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Jabuk same as -- JABUKA TV -- time offset 0 hour(s)
@@ -733,5 +731,5 @@
 [  Debug ] 10 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 31/12/2019 15:49:08 done in 9m 36s
+[        ] Job finished at 31/12/2019 17:31:30 done in 8m 49s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
