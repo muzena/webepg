@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 01/01/2020 12:01:14
+[        ] Job started at 01/01/2020 14:56:19
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.7.50407
 [  Debug ] Environment: 4.0.30319.42000
@@ -108,10 +108,8 @@
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:15
 [  Info  ] 
 [  Info  ]    Summary for update of       HTV 1
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           41
-[  Info  ]      unchanged shows inspected 290
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 331
 [  Info  ]      total after update        331
 
 [  Debug ] 
@@ -121,63 +119,15 @@
 [  Info  ]      changed shows updated     331
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        621
+[  Info  ]      total after update        662
 
 [  Debug ] 
 [  Info  ] (   3/73  ) A1.HR -- chan. (xmltv_id=HTV 2) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:53
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 05:13:00 stop = 01/01/2020 05:46:00 title = Bez Naslova
-[  Info  ]       Replaces ----- start = 01/01/2020 05:03:00 stop = 01/01/2020 05:36:00 title = Bez Naslova
-[  Info  ]       Replaces ----- start = 01/01/2020 05:36:00 stop = 01/01/2020 06:20:00 title = Regionalni Dnevnik
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 05:46:00 stop = 01/01/2020 06:31:00 title = Regionalni Dnevnik
-[  Info  ]       Replaces ----- start = 01/01/2020 05:36:00 stop = 01/01/2020 06:20:00 title = Regionalni Dnevnik
-[  Info  ]       Replaces ----- start = 01/01/2020 06:20:00 stop = 01/01/2020 06:31:00 title = Vrtuljići
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 06:42:00 stop = 01/01/2020 06:43:00 title = Juhuhu
-[  Info  ]       Replaces ----- start = 01/01/2020 06:42:00 stop = 01/01/2020 06:44:00 title = Juhuhu
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 06:43:00 stop = 01/01/2020 06:45:00 title = Juhuhu: Din Don
-[  Info  ]       Replaces ----- start = 01/01/2020 06:42:00 stop = 01/01/2020 06:44:00 title = Juhuhu
-[  Info  ]       Replaces ----- start = 01/01/2020 06:44:00 stop = 01/01/2020 06:46:00 title = Juhuhu: Din Don
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 06:45:00 stop = 01/01/2020 06:47:00 title = Juhuhu
-[  Info  ]       Replaces ----- start = 01/01/2020 06:44:00 stop = 01/01/2020 06:46:00 title = Juhuhu: Din Don
-[  Info  ]       Replaces ----- start = 01/01/2020 06:46:00 stop = 01/01/2020 06:48:00 title = Juhuhu
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 06:52:00 stop = 01/01/2020 06:54:00 title = Juhuhu
-[  Info  ]       Replaces ----- start = 01/01/2020 06:48:00 stop = 01/01/2020 06:53:00 title = Rita I Krokodil
-[  Info  ]       Replaces ----- start = 01/01/2020 06:53:00 stop = 01/01/2020 06:54:00 title = Juhuhu
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 07:36:00 stop = 01/01/2020 07:37:00 title = Juhuhu
-[  Info  ]       Replaces ----- start = 01/01/2020 07:35:00 stop = 01/01/2020 07:37:00 title = Juhuhu
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 07:43:00 stop = 01/01/2020 07:45:00 title = Juhuhu: Din Don
-[  Info  ]       Replaces ----- start = 01/01/2020 07:42:00 stop = 01/01/2020 07:45:00 title = Juhuhu: Din Don
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 09:31:00 stop = 01/01/2020 09:33:00 title = Juhuhu: Din Don
-[  Info  ]       Replaces ----- start = 01/01/2020 09:30:00 stop = 01/01/2020 09:32:00 title = Juhuhu: Din Don
-[  Info  ]       Replaces ----- start = 01/01/2020 09:32:00 stop = 01/01/2020 09:33:00 title = Juhuhu
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 09:33:00 stop = 01/01/2020 09:34:00 title = Juhuhu
-[  Info  ]       Replaces ----- start = 01/01/2020 09:33:00 stop = 01/01/2020 09:58:00 title = Anadroidi (1)za Djecu
 [  Info  ] 
 [  Info  ]    Summary for update of       HTV 2
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     26
-[  Info  ]      new shows added           59
-[  Info  ]      unchanged shows inspected 309
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 394
 [  Info  ]      total after update        394
 
 [  Debug ] 
@@ -187,58 +137,15 @@
 [  Info  ]      changed shows updated     394
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        730
+[  Info  ]      total after update        788
 
 [  Debug ] 
 [  Info  ] (   5/73  ) A1.HR -- chan. (xmltv_id=HTV 3) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 22:59
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 09:22:00 stop = 01/01/2020 11:17:00 title = Silvestarski Koncert Berlinske Filharmonije
-[  Info  ]       Replaces ----- start = 01/01/2020 08:32:00 stop = 01/01/2020 09:25:00 title = Živi Svemir: Drugi Postanak
-[  Info  ]       Replaces ----- start = 01/01/2020 09:25:00 stop = 01/01/2020 09:41:00 title = Kulturna Baština: Zagrebačke Tržnice
-[  Info  ]       Replaces ----- start = 01/01/2020 09:41:00 stop = 01/01/2020 11:11:00 title = Silvestarski Koncert Berlinske Filharmonije
-[  Info  ]       Replaces ----- start = 01/01/2020 11:11:00 stop = 01/01/2020 12:59:00 title = Prodavačica Ljubičica Talijanski Film
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 11:17:00 stop = 01/01/2020 13:05:00 title = Prodavačica Ljubičica Talijanski Film
-[  Info  ]       Replaces ----- start = 01/01/2020 11:11:00 stop = 01/01/2020 12:59:00 title = Prodavačica Ljubičica Talijanski Film
-[  Info  ]       Replaces ----- start = 01/01/2020 12:59:00 stop = 01/01/2020 13:46:00 title = Mala Kuća U Preriji
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 17:26:00 stop = 01/01/2020 18:10:00 title = Putovanja U Daleke Krajeve (4): Markižansko Otočje Zaboravljeni Otoci Južnog Pacifika
-[  Info  ]       Replaces ----- start = 01/01/2020 17:22:00 stop = 01/01/2020 18:06:00 title = Putovanja U Daleke Krajeve (4): Markižansko Otočje Zaboravljeni Otoci Južnog Pacifika
-[  Info  ]       Replaces ----- start = 01/01/2020 18:06:00 stop = 01/01/2020 19:04:00 title = Zagonetni Slučajevi Dr. Blakea
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 19:08:00 stop = 01/01/2020 20:09:00 title = Gala Večer: Novogodišnje Zvjezdice Hnk.12
-[  Info  ]       Replaces ----- start = 01/01/2020 19:04:00 stop = 01/01/2020 20:05:00 title = Gala Večer: Novogodišnje Zvjezdice Hnk.12
-[  Info  ]       Replaces ----- start = 01/01/2020 20:05:00 stop = 01/01/2020 21:05:00 title = Antologija Dramskog Programa: Putovanje U Vučjak
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 23:37:00 stop = 02/01/2020 01:28:00 title = Stogodišnjak Koji Se Spustio Kroz Prozor I Nestao Rusko Francusko Britansko Njemački Film
-[  Info  ]       Replaces ----- start = 01/01/2020 23:35:00 stop = 02/01/2020 01:26:00 title = Stogodišnjak Koji Se Spustio Kroz Prozor I Nestao Rusko Francusko Britansko Njemački Film
-[  Info  ]       Replaces ----- start = 02/01/2020 01:26:00 stop = 02/01/2020 02:11:00 title = Zvjezdane Staze: Voyager
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/01/2020 02:56:00 stop = 02/01/2020 03:58:00 title = Gala Večer: Novogodišnje Zvjezdice Hnk.12
-[  Info  ]       Replaces ----- start = 02/01/2020 02:55:00 stop = 02/01/2020 03:56:00 title = Gala Večer: Novogodišnje Zvjezdice Hnk.12
-[  Info  ]       Replaces ----- start = 02/01/2020 03:56:00 stop = 02/01/2020 04:08:00 title = Skica Za Portret: Zavičaj Ivana Meštrovića
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/01/2020 03:58:00 stop = 02/01/2020 04:10:00 title = Skica Za Portret: Zavičaj Ivana Meštrovića
-[  Info  ]       Replaces ----- start = 02/01/2020 03:56:00 stop = 02/01/2020 04:08:00 title = Skica Za Portret: Zavičaj Ivana Meštrovića
-[  Info  ]       Replaces ----- start = 02/01/2020 04:08:00 stop = 02/01/2020 05:58:00 title = Stogodišnjak Koji Se Spustio Kroz Prozor I Nestao Rusko Francusko Britansko Njemački Film
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/01/2020 04:10:00 stop = 02/01/2020 05:59:00 title = Stogodišnjak Koji Se Spustio Kroz Prozor I Nestao Rusko Francusko Britansko Njemački Film
-[  Info  ]       Replaces ----- start = 02/01/2020 04:08:00 stop = 02/01/2020 05:58:00 title = Stogodišnjak Koji Se Spustio Kroz Prozor I Nestao Rusko Francusko Britansko Njemački Film
 [  Info  ] 
 [  Info  ]    Summary for update of       HTV 3
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     27
-[  Info  ]      new shows added           26
-[  Info  ]      unchanged shows inspected 135
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 188
 [  Info  ]      total after update        188
 
 [  Debug ] 
@@ -248,47 +155,17 @@
 [  Info  ]      changed shows updated     188
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        352
+[  Info  ]      total after update        376
 
 [  Debug ] 
 [  Info  ] (   7/73  ) A1.HR -- chan. (xmltv_id=HTV 4) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:55
 [  Debug ]    conflicting stoptime or duration in show starting at 01/01/2020 05:51
 [  Debug ]    stoptime 01/01/2020 06:03               corrected to 01/01/2020 06:02
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 05:51:00 stop = 01/01/2020 06:02:00 title = Dw: Shift
-[  Info  ]       Replaces ----- start = 01/01/2020 05:51:00 stop = 01/01/2020 06:03:00 title = Dw: Shift
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 06:02:00 stop = 01/01/2020 06:09:00 title = Vijesti Na Engleskom Jeziku
-[  Info  ]       Replaces ----- start = 01/01/2020 05:51:00 stop = 01/01/2020 06:03:00 title = Dw: Shift
-[  Info  ]       Replaces ----- start = 01/01/2020 06:03:00 stop = 01/01/2020 06:10:00 title = Vijesti Na Engleskom Jeziku
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 06:09:00 stop = 01/01/2020 06:50:00 title = Dnevnik 2
-[  Info  ]       Replaces ----- start = 01/01/2020 06:03:00 stop = 01/01/2020 06:10:00 title = Vijesti Na Engleskom Jeziku
-[  Info  ]       Replaces ----- start = 01/01/2020 06:10:00 stop = 01/01/2020 06:52:00 title = Dnevnik 2
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 06:50:00 stop = 01/01/2020 06:51:00 title = Vrijeme Rh Danas
-[  Info  ]       Replaces ----- start = 01/01/2020 06:10:00 stop = 01/01/2020 06:52:00 title = Dnevnik 2
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 06:51:00 stop = 01/01/2020 06:53:00 title = Vrijeme Europa Sutra
-[  Info  ]       Replaces ----- start = 01/01/2020 06:10:00 stop = 01/01/2020 06:52:00 title = Dnevnik 2
-[  Info  ]       Replaces ----- start = 01/01/2020 06:52:00 stop = 01/01/2020 06:54:00 title = Vrijeme Rh Danas
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 01/01/2020 06:56:00 stop = 01/01/2020 06:58:00 title = Bez Komentara: Večera
-[  Info  ]       Replaces ----- start = 01/01/2020 06:54:00 stop = 01/01/2020 06:57:00 title = #tvornica: Heklanje
-[  Info  ]       Replaces ----- start = 01/01/2020 06:57:00 stop = 01/01/2020 06:58:00 title = Bez Komentara
 [  Info  ] 
 [  Info  ]    Summary for update of       HTV 4
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     7
-[  Info  ]      new shows added           72
-[  Info  ]      unchanged shows inspected 645
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 724
 [  Info  ]      total after update        724
 
 [  Debug ] 
@@ -298,17 +175,15 @@
 [  Info  ]      changed shows updated     724
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        1375
+[  Info  ]      total after update        1448
 
 [  Debug ] 
 [  Info  ] (   9/73  ) A1.HR -- chan. (xmltv_id=NOVA TV) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 20:15
 [  Info  ] 
 [  Info  ]    Summary for update of       NOVA TV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           28
-[  Info  ]      unchanged shows inspected 161
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 189
 [  Info  ]      total after update        189
 
 [  Debug ] 
@@ -318,17 +193,15 @@
 [  Info  ]      changed shows updated     189
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        350
+[  Info  ]      total after update        378
 
 [  Debug ] 
 [  Info  ] (  11/73  ) A1.HR -- chan. (xmltv_id=RTL) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 22:10
 [  Info  ] 
 [  Info  ]    Summary for update of       RTL
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           23
-[  Info  ]      unchanged shows inspected 145
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 168
 [  Info  ]      total after update        168
 
 [  Debug ] 
@@ -336,10 +209,8 @@
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 21:00
 [  Info  ] 
 [  Info  ]    Summary for update of       DOMA TV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           39
-[  Info  ]      unchanged shows inspected 207
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 246
 [  Info  ]      total after update        246
 
 [  Debug ] 
@@ -349,17 +220,15 @@
 [  Info  ]      changed shows updated     246
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        453
+[  Info  ]      total after update        492
 
 [  Debug ] 
 [  Info  ] (  14/73  ) A1.HR -- chan. (xmltv_id=RTL2) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:45
 [  Info  ] 
 [  Info  ]    Summary for update of       RTL2
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           31
-[  Info  ]      unchanged shows inspected 236
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 267
 [  Info  ]      total after update        267
 
 [  Debug ] 
@@ -369,17 +238,15 @@
 [  Info  ]      changed shows updated     267
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        503
+[  Info  ]      total after update        534
 
 [  Debug ] 
 [  Info  ] (  16/73  ) A1.HR -- chan. (xmltv_id=RTL KOCKICA) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:40
 [  Info  ] 
 [  Info  ]    Summary for update of       RTL KOCKICA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           49
-[  Info  ]      unchanged shows inspected 349
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 398
 [  Info  ]      total after update        398
 
 [  Debug ] 
@@ -389,17 +256,15 @@
 [  Info  ]      changed shows updated     398
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        747
+[  Info  ]      total after update        796
 
 [  Debug ] 
 [  Info  ] (  18/73  ) A1.HR -- chan. (xmltv_id=RTL LIVING) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:20
 [  Info  ] 
 [  Info  ]    Summary for update of       RTL LIVING
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           30
-[  Info  ]      unchanged shows inspected 213
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 243
 [  Info  ]      total after update        243
 
 [  Debug ] 
@@ -409,7 +274,7 @@
 [  Info  ]      changed shows updated     243
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        456
+[  Info  ]      total after update        486
 
 [  Debug ] 
 [  Info  ] (  20/73  ) A1.HR -- chan. (xmltv_id=CINESTAR TV) -- mode Incremental
@@ -420,7 +285,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 01/01/2020 12:04:14
+[Error   ] computer date/time format: 01/01/2020 14:59:25
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Cines same as -- CINESTAR TV -- time offset 0 hour(s)
@@ -436,10 +301,8 @@
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 22:10
 [  Info  ] 
 [  Info  ]    Summary for update of       CINESTAR ACTION & THRILLER
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           9
-[  Info  ]      unchanged shows inspected 70
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 79
 [  Info  ]      total after update        79
 
 [  Debug ] 
@@ -449,7 +312,7 @@
 [  Info  ]      changed shows updated     79
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        149
+[  Info  ]      total after update        158
 
 [  Debug ] 
 [  Info  ] (  23/73  ) A1.HR -- chan. (xmltv_id=VIASAT TV1000) -- mode Incremental
@@ -460,7 +323,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 01/01/2020 12:04:31
+[Error   ] computer date/time format: 01/01/2020 14:59:37
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Tv100 same as -- VIASAT TV1000 -- time offset 0 hour(s)
@@ -476,10 +339,8 @@
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:55
 [  Info  ] 
 [  Info  ]    Summary for update of       FOX
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           26
-[  Info  ]      unchanged shows inspected 201
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 227
 [  Info  ]      total after update        227
 
 [  Debug ] 
@@ -489,17 +350,15 @@
 [  Info  ]      changed shows updated     227
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        428
+[  Info  ]      total after update        454
 
 [  Debug ] 
 [  Info  ] (  26/73  ) A1.HR -- chan. (xmltv_id=FOX LIFE) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:50
 [  Info  ] 
 [  Info  ]    Summary for update of       FOX LIFE
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           23
-[  Info  ]      unchanged shows inspected 181
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 204
 [  Info  ]      total after update        204
 
 [  Debug ] 
@@ -509,17 +368,15 @@
 [  Info  ]      changed shows updated     204
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        385
+[  Info  ]      total after update        408
 
 [  Debug ] 
 [  Info  ] (  28/73  ) A1.HR -- chan. (xmltv_id=EPIC DRAMA) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:55
 [  Info  ] 
 [  Info  ]    Summary for update of       EPIC DRAMA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           23
-[  Info  ]      unchanged shows inspected 168
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 191
 [  Info  ]      total after update        191
 
 [  Debug ] 
@@ -529,7 +386,7 @@
 [  Info  ]      changed shows updated     191
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        359
+[  Info  ]      total after update        382
 
 [  Debug ] 
 [  Info  ] (  30/73  ) A1.HR -- chan. (xmltv_id=KLASIK TV) -- mode Incremental
@@ -545,10 +402,8 @@
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 22:00
 [  Info  ] 
 [  Info  ]    Summary for update of       KINOTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           10
-[  Info  ]      unchanged shows inspected 89
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 99
 [  Info  ]      total after update        99
 
 [  Debug ] 
@@ -556,10 +411,8 @@
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:40
 [  Info  ] 
 [  Info  ]    Summary for update of       COMEDY CENTRAL EXTRA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           40
-[  Info  ]      unchanged shows inspected 337
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 377
 [  Info  ]      total after update        377
 
 [  Debug ] 
@@ -569,28 +422,44 @@
 [  Info  ]      changed shows updated     377
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        714
+[  Info  ]      total after update        754
 
 [  Debug ] 
 [  Info  ] (  34/73  ) A1.HR -- chan. (xmltv_id=DIVA) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:45
 [  Info  ] 
 [  Info  ]    Summary for update of       DIVA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           15
-[  Info  ]      unchanged shows inspected 98
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 113
 [  Info  ]      total after update        113
 
 [  Debug ] 
 [  Info  ] (  35/73  ) A1.HR -- chan. (xmltv_id=DOKUTV) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:30
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 02/01/2020 11:01:00 stop = 02/01/2020 12:01:00 title = Čudesna Putovanja Vlakom
+[  Info  ]       Replaces ----- start = 02/01/2020 10:12:00 stop = 02/01/2020 11:02:00 title = Bijeg Na Selo
+[  Info  ]       Replaces ----- start = 02/01/2020 11:02:00 stop = 02/01/2020 12:01:00 title = Čudesna Putovanja Vlakom
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 04/01/2020 07:02:00 stop = 04/01/2020 08:03:00 title = Čudesna Putovanja Vlakom
+[  Info  ]       Replaces ----- start = 04/01/2020 06:02:00 stop = 04/01/2020 07:03:00 title = Bijeg U Europu
+[  Info  ]       Replaces ----- start = 04/01/2020 07:03:00 stop = 04/01/2020 08:03:00 title = Čudesna Putovanja Vlakom
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 06/01/2020 11:04:00 stop = 06/01/2020 12:03:00 title = Čudesna Putovanja Vlakom
+[  Info  ]       Replaces ----- start = 06/01/2020 11:04:00 stop = 06/01/2020 12:04:00 title = Čudesna Putovanja Vlakom
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 06/01/2020 19:04:00 stop = 06/01/2020 20:03:00 title = Čudesna Putovanja Vlakom
+[  Info  ]       Replaces ----- start = 06/01/2020 19:04:00 stop = 06/01/2020 20:04:00 title = Čudesna Putovanja Vlakom
 [  Info  ] 
 [  Info  ]    Summary for update of       DOKUTV
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           17
-[  Info  ]      unchanged shows inspected 139
+[  Info  ]      changed shows updated     10
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 146
 [  Info  ]      total after update        156
 
 [  Debug ] 
@@ -600,17 +469,15 @@
 [  Info  ]      changed shows updated     156
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        295
+[  Info  ]      total after update        312
 
 [  Debug ] 
 [  Info  ] (  37/73  ) A1.HR -- chan. (xmltv_id=NATIONAL GEOGRAPHIC) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:00
 [  Info  ] 
 [  Info  ]    Summary for update of       NATIONAL GEOGRAPHIC
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           25
-[  Info  ]      unchanged shows inspected 222
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 247
 [  Info  ]      total after update        247
 
 [  Debug ] 
@@ -620,17 +487,15 @@
 [  Info  ]      changed shows updated     247
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        469
+[  Info  ]      total after update        494
 
 [  Debug ] 
 [  Info  ] (  39/73  ) A1.HR -- chan. (xmltv_id=VIASAT HISTORY) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:40
 [  Info  ] 
 [  Info  ]    Summary for update of       VIASAT HISTORY
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           19
-[  Info  ]      unchanged shows inspected 166
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 185
 [  Info  ]      total after update        185
 
 [  Debug ] 
@@ -640,17 +505,15 @@
 [  Info  ]      changed shows updated     185
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        351
+[  Info  ]      total after update        370
 
 [  Debug ] 
 [  Info  ] (  41/73  ) A1.HR -- chan. (xmltv_id=VIASAT EXPLORE) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:20
 [  Info  ] 
 [  Info  ]    Summary for update of       VIASAT EXPLORE
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           28
-[  Info  ]      unchanged shows inspected 211
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 239
 [  Info  ]      total after update        239
 
 [  Debug ] 
@@ -660,17 +523,15 @@
 [  Info  ]      changed shows updated     239
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        450
+[  Info  ]      total after update        478
 
 [  Debug ] 
 [  Info  ] (  43/73  ) A1.HR -- chan. (xmltv_id=FINE LIVING) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:30
 [  Info  ] 
 [  Info  ]    Summary for update of       FINE LIVING
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           40
-[  Info  ]      unchanged shows inspected 320
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 360
 [  Info  ]      total after update        360
 
 [  Debug ] 
@@ -680,17 +541,15 @@
 [  Info  ]      changed shows updated     360
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        680
+[  Info  ]      total after update        720
 
 [  Debug ] 
 [  Info  ] (  45/73  ) A1.HR -- chan. (xmltv_id=WNESS TV) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 22:00
 [  Info  ] 
 [  Info  ]    Summary for update of       WNESS TV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           25
-[  Info  ]      unchanged shows inspected 161
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 186
 [  Info  ]      total after update        186
 
 [  Debug ] 
@@ -700,17 +559,15 @@
 [  Info  ]      changed shows updated     186
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        347
+[  Info  ]      total after update        372
 
 [  Debug ] 
 [  Info  ] (  47/73  ) A1.HR -- chan. (xmltv_id=WOMAN) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:32
 [  Info  ] 
 [  Info  ]    Summary for update of       WOMAN
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           30
-[  Info  ]      unchanged shows inspected 224
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 254
 [  Info  ]      total after update        254
 
 [  Debug ] 
@@ -800,10 +657,8 @@
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:54
 [  Info  ] 
 [  Info  ]    Summary for update of       CARTOON NETWORK
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           91
-[  Info  ]      unchanged shows inspected 726
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 817
 [  Info  ]      total after update        817
 
 [  Debug ] 
@@ -813,17 +668,15 @@
 [  Info  ]      changed shows updated     817
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        1543
+[  Info  ]      total after update        1634
 
 [  Debug ] 
 [  Info  ] (  62/73  ) A1.HR -- chan. (xmltv_id=NICKELODEON) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:45
 [  Info  ] 
 [  Info  ]    Summary for update of       NICKELODEON
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           62
-[  Info  ]      unchanged shows inspected 485
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 547
 [  Info  ]      total after update        547
 
 [  Debug ] 
@@ -833,7 +686,7 @@
 [  Info  ]      changed shows updated     547
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        1032
+[  Info  ]      total after update        1094
 
 [  Debug ] 
 [  Info  ] (  64/73  ) A1.HR -- chan. (xmltv_id=DISNEY CHANNEL) -- mode Incremental
@@ -845,17 +698,27 @@
 [  Info  ] (  66/73  ) A1.HR -- chan. (xmltv_id=MINI TV) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:10
 [  Info  ] 
+[  Info  ]    Summary for update of       MINI TV
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 266
+[  Info  ]      total after update        266
+
 [  Debug ] 
 [  Info  ] channel Mini same as -- MINI TV -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       Mini
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     266
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        532
+
 [  Debug ] 
 [  Info  ] (  68/73  ) A1.HR -- chan. (xmltv_id=MTV) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:00
 [  Info  ] 
 [  Info  ]    Summary for update of       MTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           18
-[  Info  ]      unchanged shows inspected 145
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 163
 [  Info  ]      total after update        163
 
 [  Debug ] 
@@ -872,10 +735,8 @@
 [  Debug ]    skipped : show that happened before 'today' @ 31/12/2019 23:00
 [  Info  ] 
 [  Info  ]    Summary for update of       CROATIAN MUSIC CHANNEL
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           17
-[  Info  ]      unchanged shows inspected 114
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 131
 [  Info  ]      total after update        131
 
 [  Debug ] 
@@ -885,13 +746,13 @@
 [  Info  ]      changed shows updated     131
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        245
+[  Info  ]      total after update        262
 
 [  Debug ] 
 [  Debug ] 16707 shows in 73 channels
-[  Debug ] 60 updated shows
-[  Debug ] 964 new shows added
+[  Debug ] 10 updated shows
+[  Debug ] 10 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 01/01/2020 12:09:48 done in 8m 34s
+[        ] Job finished at 01/01/2020 15:05:05 done in 8m 45s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
