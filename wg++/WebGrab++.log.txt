@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 05/01/2020 13:23:26
+[        ] Job started at 05/01/2020 19:28:52
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.4.8.50408
 [  Debug ] Environment: 4.0.30319.42000
@@ -124,22 +124,53 @@
 [  Debug ] 
 [  Info  ] (   3/73  ) A1.HR -- chan. (xmltv_id=HTV 2) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 04/01/2020 23:17
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 05/01/2020 17:20:00 stop = 05/01/2020 17:34:00 title = Sljeme: Svjetski Skijaški Kup Emisija
+[  Info  ]       Replaces ----- start = 05/01/2020 17:20:00 stop = 05/01/2020 17:35:00 title = Sljeme: Svjetski Skijaški Kup Emisija
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 05/01/2020 17:34:00 stop = 05/01/2020 18:42:00 title = Sljeme: Svjetski Skijaški Kup Slalom (m).vožnje
+[  Info  ]       Replaces ----- start = 05/01/2020 17:20:00 stop = 05/01/2020 17:35:00 title = Sljeme: Svjetski Skijaški Kup Emisija
+[  Info  ]       Replaces ----- start = 05/01/2020 17:35:00 stop = 05/01/2020 18:43:00 title = Sljeme: Svjetski Skijaški Kup Slalom (m).vožnje
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 05/01/2020 18:42:00 stop = 05/01/2020 18:59:00 title = Sljeme: Svjetski Skijaški Kup Emisija
+[  Info  ]       Replaces ----- start = 05/01/2020 17:35:00 stop = 05/01/2020 18:43:00 title = Sljeme: Svjetski Skijaški Kup Slalom (m).vožnje
+[  Info  ]       Replaces ----- start = 05/01/2020 18:43:00 stop = 05/01/2020 19:00:00 title = Sljeme: Svjetski Skijaški Kup Emisija
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 05/01/2020 19:02:00 stop = 05/01/2020 20:00:00 title = Mia Negovetić & Zagreb Stars Orchestra 1.dio
+[  Info  ]       Replaces ----- start = 05/01/2020 19:00:00 stop = 05/01/2020 19:06:00 title = Cesarica Hit Prosinca
+[  Info  ]       Replaces ----- start = 05/01/2020 19:06:00 stop = 05/01/2020 20:03:00 title = Mia Negovetić & Zagreb Stars Orchestra 1.dio
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 06/01/2020 07:21:00 stop = 06/01/2020 07:29:00 title = Ninin Kutak Za Male: Vlak Brojeva
+[  Info  ]       Replaces ----- start = 06/01/2020 07:21:00 stop = 06/01/2020 07:22:00 title = Ninin Kutak Za Male: Vlak Brojeva
+[  Info  ]       Replaces ----- start = 06/01/2020 07:22:00 stop = 06/01/2020 07:29:00 title = Napomena Velečasni Brown (5)(rezerva Za Skijanje)
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 06/01/2020 08:10:00 stop = 06/01/2020 08:21:00 title = Vedranovi Velikani: Ante Barbalić I Franka Jeličić
+[  Info  ]       Replaces ----- start = 06/01/2020 08:10:00 stop = 06/01/2020 08:17:00 title = Vedranovi Velikani: Ante Barbalić I Franka Jeličić
+[  Info  ]       Replaces ----- start = 06/01/2020 08:17:00 stop = 06/01/2020 08:21:00 title = Napomena Velečasni Brown (5)(rezerva Za Skijanje)
 [  Debug ]    skipped show without a title at 11/01/2020 09:40:00
 [  Debug ]    skipped show without a title at 11/01/2020 15:44:00
 [  Info  ] 
 [  Info  ]    Summary for update of       HTV 2
-[  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 390
-[  Info  ]      total after update        391
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     9
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 377
+[  Info  ]      total after update        388
 
 [  Debug ] 
 [  Info  ] channel HRT 2 same as -- HTV 2 -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       HRT 2
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     391
+[  Info  ]      changed shows updated     388
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        782
+[  Info  ]      total after update        779
 
 [  Debug ] 
 [  Info  ] (   5/73  ) A1.HR -- chan. (xmltv_id=HTV 3) -- mode Incremental
@@ -285,7 +316,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 05/01/2020 13:26:35
+[Error   ] computer date/time format: 05/01/2020 19:31:54
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Cines same as -- CINESTAR TV -- time offset 0 hour(s)
@@ -721,10 +752,10 @@
 [  Info  ]      total after update        238
 
 [  Debug ] 
-[  Debug ] 16568 shows in 73 channels
-[  Debug ] 0 updated shows
+[  Debug ] 16562 shows in 73 channels
+[  Debug ] 9 updated shows
 [  Debug ] 10 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 05/01/2020 13:31:55 done in 8m 28s
+[        ] Job finished at 05/01/2020 19:37:29 done in 8m 37s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
