@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 02/02/2020 14:17:24
+[        ] Job started at 03/02/2020 00:01:15
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.5.1.50501
 [  Debug ] Environment: 4.0.30319.42000
@@ -105,1395 +105,320 @@
 [  Info  ] (   1/73  ) A1.HR -- chan. (xmltv_id=HTV 1) -- mode Incremental
 [Warning ] no robots data found
 [Warning ] skipped robots check
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 22:15
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 06:04:00 stop = 02/02/2020 06:48:00 title = Veterani Mira
-[  Info  ]       Replaces ----- start = 02/02/2020 06:04:00 stop = 02/02/2020 06:49:00 title = Veterani Mira
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 06:48:00 stop = 02/02/2020 07:33:00 title = Prizma
-[  Info  ]       Replaces ----- start = 02/02/2020 06:04:00 stop = 02/02/2020 06:49:00 title = Veterani Mira
-[  Info  ]       Replaces ----- start = 02/02/2020 06:49:00 stop = 02/02/2020 07:34:00 title = Prizma
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 18:09:00 stop = 03/02/2020 19:00:00 title = Potjera
-[  Info  ]       Replaces ----- start = 03/02/2020 18:09:00 stop = 03/02/2020 18:46:00 title = Potjera
-[  Info  ]       Replaces ----- start = 03/02/2020 18:46:00 stop = 03/02/2020 19:00:00 title = Najava
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 22:53
 [  Info  ] 
 [  Info  ]    Summary for update of       HTV 1
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     3
-[  Info  ]      new shows added           85
-[  Info  ]      unchanged shows inspected 266
-[  Info  ]      total after update        354
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 306
+[  Info  ]      total after update        318
 
 [  Debug ] 
 [  Info  ] channel HRT 1 same as -- HTV 1 -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       HRT 1
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     354
+[  Info  ]      changed shows updated     318
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
 [  Info  ]      total after update        624
 
 [  Debug ] 
 [  Info  ] (   3/73  ) A1.HR -- chan. (xmltv_id=HTV 2) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:57
 [  Info  ]    epg correction : 
 [  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 00:46:00 stop = 02/02/2020 03:53:00 title = Noćni Glazbeni Program Spotovi
-[  Info  ]       Replaces ----- start = 02/02/2020 00:29:00 stop = 02/02/2020 03:40:00 title = Noćni Glazbeni Program Spotovi
-[  Info  ]       Replaces ----- start = 02/02/2020 03:40:00 stop = 02/02/2020 05:25:00 title = Noćni Glazbeni Program: Oliver I Gibonni In Live Cesarica (14.6
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 03:53:00 stop = 02/02/2020 05:29:00 title = Noćni Glazbeni Program: Oliver I Gibonni In Live Cesarica (14.6
-[  Info  ]       Replaces ----- start = 02/02/2020 03:40:00 stop = 02/02/2020 05:25:00 title = Noćni Glazbeni Program: Oliver I Gibonni In Live Cesarica (14.6
-[  Info  ]       Replaces ----- start = 02/02/2020 05:25:00 stop = 02/02/2020 05:29:00 title = Napomena Puls
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 05:29:00 stop = 02/02/2020 05:37:00 title = Regionalni Dnevnik
-[  Info  ]       Replaces ----- start = 02/02/2020 05:29:00 stop = 02/02/2020 05:35:00 title = Regionalni Dnevnik
-[  Info  ]       Replaces ----- start = 02/02/2020 05:35:00 stop = 02/02/2020 05:58:00 title = Napomena: Prošlost U Sadašnjosti: Ivan Lupis Izumitelj Torpeda(rezerva Za Prijenos Iz Rijeke 19.30)
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 05:37:00 stop = 02/02/2020 05:38:00 title = Odjava
-[  Info  ]       Replaces ----- start = 02/02/2020 05:35:00 stop = 02/02/2020 05:58:00 title = Napomena: Prošlost U Sadašnjosti: Ivan Lupis Izumitelj Torpeda(rezerva Za Prijenos Iz Rijeke 19.30)
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:24:00 stop = 02/02/2020 11:33:00 title = Garmisch Partenkirchen: Svjetski Skijaški Kup Vsl (m). Vožnje
-[  Info  ]       Replaces ----- start = 02/02/2020 10:24:00 stop = 02/02/2020 11:32:00 title = Garmisch Partenkirchen: Svjetski Skijaški Kup Vsl (m). Vožnje
-[  Info  ]       Replaces ----- start = 02/02/2020 11:32:00 stop = 02/02/2020 12:57:00 title = Rukomet(ž): Magura Podravka
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 11:33:00 stop = 02/02/2020 12:57:00 title = Rukomet(ž): Magura Podravka
-[  Info  ]       Replaces ----- start = 02/02/2020 11:32:00 stop = 02/02/2020 12:57:00 title = Rukomet(ž): Magura Podravka
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 04:04:00 stop = 03/02/2020 04:56:00 title = Noćni Glazbeni Program: Damir Poša Live In Korčula
-[  Info  ]       Replaces ----- start = 03/02/2020 04:04:00 stop = 03/02/2020 04:57:00 title = Noćni Glazbeni Program: Damir Poša Live In Korčula
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 04:56:00 stop = 03/02/2020 04:57:00 title = Odjava
-[  Info  ]       Replaces ----- start = 03/02/2020 04:04:00 stop = 03/02/2020 04:57:00 title = Noćni Glazbeni Program: Damir Poša Live In Korčula
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 04:57:00 stop = 03/02/2020 05:57:00 title = Peti Dan
-[  Info  ]       Replaces ----- start = 03/02/2020 04:59:00 stop = 03/02/2020 05:59:00 title = Peti Dan
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 05:58:00 stop = 03/02/2020 06:28:00 title = Ekumenizam I Religije
-[  Info  ]       Replaces ----- start = 03/02/2020 04:59:00 stop = 03/02/2020 05:59:00 title = Peti Dan
-[  Info  ]       Replaces ----- start = 03/02/2020 05:59:00 stop = 03/02/2020 06:28:00 title = Ekumenizam I Religije
+[  Info  ]       show with ---- start = 03/02/2020 04:04:00 stop = 03/02/2020 04:57:00 title = Noćni Glazbeni Program: Damir Poša Live In Korčula
+[  Info  ]       Replaces ----- start = 03/02/2020 04:04:00 stop = 03/02/2020 04:56:00 title = Noćni Glazbeni Program: Damir Poša Live In Korčula
+[  Info  ]       Replaces ----- start = 03/02/2020 04:56:00 stop = 03/02/2020 04:57:00 title = Odjava
 [  Info  ] 
 [  Info  ]    Summary for update of       HTV 2
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     12
-[  Info  ]      new shows added           131
-[  Info  ]      unchanged shows inspected 268
-[  Info  ]      total after update        411
+[  Info  ]      changed shows updated     1
+[  Info  ]      new shows added           3
+[  Info  ]      unchanged shows inspected 371
+[  Info  ]      total after update        375
 
 [  Debug ] 
 [  Info  ] channel HRT 2 same as -- HTV 2 -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       HRT 2
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     411
+[  Info  ]      changed shows updated     375
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        692
+[  Info  ]      total after update        748
 
 [  Debug ] 
 [  Info  ] (   5/73  ) A1.HR -- chan. (xmltv_id=HTV 3) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:54
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:59:00 stop = 02/02/2020 08:29:00 title = Mir Na Zemlji Lourdes 2018
-[  Info  ]       Replaces ----- start = 02/02/2020 06:20:00 stop = 02/02/2020 08:00:00 title = Bojnik I Derište
-[  Info  ]       Replaces ----- start = 02/02/2020 08:00:00 stop = 02/02/2020 08:30:00 title = Mir Na Zemlji Lourdes 2018
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 08:29:00 stop = 02/02/2020 09:00:00 title = Karnevale: Paški Ričavcii Predajne Kulture
-[  Info  ]       Replaces ----- start = 02/02/2020 08:00:00 stop = 02/02/2020 08:30:00 title = Mir Na Zemlji Lourdes 2018
-[  Info  ]       Replaces ----- start = 02/02/2020 08:30:00 stop = 02/02/2020 09:00:00 title = Karnevale: Paški Ričavcii Predajne Kulture
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:35:00 stop = 02/02/2020 10:48:00 title = Kokice (1. Dio)
-[  Info  ]       Replaces ----- start = 02/02/2020 10:35:00 stop = 02/02/2020 10:49:00 title = Kokice (1. Dio)
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:48:00 stop = 02/02/2020 10:59:00 title = Kokice (2. Dio)
-[  Info  ]       Replaces ----- start = 02/02/2020 10:35:00 stop = 02/02/2020 10:49:00 title = Kokice (1. Dio)
-[  Info  ]       Replaces ----- start = 02/02/2020 10:49:00 stop = 02/02/2020 11:00:00 title = Kokice (2. Dio)
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:59:00 stop = 02/02/2020 12:59:00 title = Moj Posljednji Tango Filmovi Sare Montiel
-[  Info  ]       Replaces ----- start = 02/02/2020 10:49:00 stop = 02/02/2020 11:00:00 title = Kokice (2. Dio)
-[  Info  ]       Replaces ----- start = 02/02/2020 11:00:00 stop = 02/02/2020 13:00:00 title = Moj Posljednji Tango Filmovi Sare Montiel (117')
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 12:59:00 stop = 02/02/2020 14:35:00 title = Enrico Dindo I Simfonijski Orkestar Hrt A Pod Ravnanjem Daniela Kawke V. Lisinski.2
-[  Info  ]       Replaces ----- start = 02/02/2020 11:00:00 stop = 02/02/2020 13:00:00 title = Moj Posljednji Tango Filmovi Sare Montiel (117')
-[  Info  ]       Replaces ----- start = 02/02/2020 13:00:00 stop = 02/02/2020 14:35:00 title = Enrico Dindo I Simfonijski Orkestar Hrt A Pod Ravnanjem Daniela Kawke (v. Lisinski.2. (94'24")
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 22:10:00 stop = 02/02/2020 22:51:00 title = The Sixties
-[  Info  ]       Replaces ----- start = 02/02/2020 22:10:00 stop = 02/02/2020 22:50:00 title = The Sixties
-[  Info  ]       Replaces ----- start = 02/02/2020 22:50:00 stop = 03/02/2020 00:20:00 title = Art A La Carte: Plesni Epk I Site Specific
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 00:20:00 stop = 03/02/2020 00:51:00 title = Proćulić Iz Smokvice
-[  Info  ]       Replaces ----- start = 03/02/2020 00:20:00 stop = 03/02/2020 00:50:00 title = Proćulić Iz Smokvice
-[  Info  ]       Replaces ----- start = 03/02/2020 00:50:00 stop = 03/02/2020 01:00:00 title = Vijesti Iz Kulture
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 00:51:00 stop = 03/02/2020 01:01:00 title = Vijesti Iz Kulture
-[  Info  ]       Replaces ----- start = 03/02/2020 00:50:00 stop = 03/02/2020 01:00:00 title = Vijesti Iz Kulture
-[  Info  ]       Replaces ----- start = 03/02/2020 01:00:00 stop = 03/02/2020 01:21:00 title = Brooklyn 99
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 03:45:00 stop = 03/02/2020 03:56:00 title = Vijesti Iz Kulture
-[  Info  ]       Replaces ----- start = 03/02/2020 03:45:00 stop = 03/02/2020 03:55:00 title = Vijesti Iz Kulture
-[  Info  ]       Replaces ----- start = 03/02/2020 03:55:00 stop = 03/02/2020 05:57:00 title = Tai Pan
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 10:29:00 stop = 05/02/2020 11:00:00 title = Knjiga Ili Život
-[  Info  ]       Replaces ----- start = 05/02/2020 10:00:00 stop = 05/02/2020 10:30:00 title = Spuga
-[  Info  ]       Replaces ----- start = 05/02/2020 10:30:00 stop = 05/02/2020 11:00:00 title = Knjiga Ili Život
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 15:37:00 stop = 05/02/2020 15:40:00 title = Najava Izložbe "priča O Dori
-[  Info  ]       Replaces ----- start = 05/02/2020 15:35:00 stop = 05/02/2020 15:40:00 title = Najave + Najava Izložbe "priča O Dori
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 18:50:00 stop = 05/02/2020 20:04:00 title = "zimsko Putovanje" Bo Skovhus I Stefan Vladar Hrvatski Državni Arhiv.01
-[  Info  ]       Replaces ----- start = 05/02/2020 18:50:00 stop = 05/02/2020 20:05:00 title = "zimsko Putovanje" Bo Skovhus I Stefan Vladar Hrvatski Državni Arhiv.01
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 22:05:00 stop = 06/02/2020 22:35:00 title = Svijet Klasike
-[  Info  ]       Replaces ----- start = 06/02/2020 22:05:00 stop = 06/02/2020 22:35:00 title = Svijet Jazza / Svijet Klasike
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 22:51
 [  Info  ] 
 [  Info  ]    Summary for update of       HTV 3
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     37
-[  Info  ]      new shows added           55
-[  Info  ]      unchanged shows inspected 132
-[  Info  ]      total after update        224
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           6
+[  Info  ]      unchanged shows inspected 198
+[  Info  ]      total after update        204
 
 [  Debug ] 
 [  Info  ] channel HRT 3 same as -- HTV 3 -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       HRT 3
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     224
+[  Info  ]      changed shows updated     204
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        394
+[  Info  ]      total after update        402
 
 [  Debug ] 
 [  Info  ] (   7/73  ) A1.HR -- chan. (xmltv_id=HTV 4) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:47
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 00:00:00 stop = 02/02/2020 00:08:00 title = Vijesti
-[  Info  ]       Replaces ----- start = 02/02/2020 00:00:00 stop = 02/02/2020 00:10:00 title = Vijesti
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 00:08:00 stop = 02/02/2020 00:53:00 title = Prizma
-[  Info  ]       Replaces ----- start = 02/02/2020 00:00:00 stop = 02/02/2020 00:10:00 title = Vijesti
-[  Info  ]       Replaces ----- start = 02/02/2020 00:10:00 stop = 02/02/2020 00:55:00 title = Prizma
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 00:56:00 stop = 02/02/2020 01:00:00 title = Bez Komentara: Kina Gradnja Bolnice Za Liječenje Zaraženih Korona Virusom
-[  Info  ]       Replaces ----- start = 02/02/2020 00:55:00 stop = 02/02/2020 00:58:00 title = #tvornica: Crtež
-[  Info  ]       Replaces ----- start = 02/02/2020 00:58:00 stop = 02/02/2020 01:00:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 01:50:00 stop = 02/02/2020 01:53:00 title = Bez Komentara: Njemačka Yuan I Xiang U Prvom Izlasku U Javnost
-[  Info  ]       Replaces ----- start = 02/02/2020 01:50:00 stop = 02/02/2020 01:54:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 02:44:00 stop = 02/02/2020 02:52:00 title = Vijesti Iz Kulture
-[  Info  ]       Replaces ----- start = 02/02/2020 02:41:00 stop = 02/02/2020 02:45:00 title = #tvornica: Najlon
-[  Info  ]       Replaces ----- start = 02/02/2020 02:45:00 stop = 02/02/2020 02:55:00 title = Vijesti Iz Kulture
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 02:52:00 stop = 02/02/2020 02:55:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 02/02/2020 02:45:00 stop = 02/02/2020 02:55:00 title = Vijesti Iz Kulture
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 03:00:00 stop = 02/02/2020 03:08:00 title = Fotografija U Hrvatskoj: Fotografija U Rovinju I Puli
-[  Info  ]       Replaces ----- start = 02/02/2020 03:00:00 stop = 02/02/2020 03:09:00 title = Fotografija U Hrvatskoj: Fotografija U Rovinju I Puli
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 03:08:00 stop = 02/02/2020 04:00:00 title = Normalan Život
-[  Info  ]       Replaces ----- start = 02/02/2020 03:00:00 stop = 02/02/2020 03:09:00 title = Fotografija U Hrvatskoj: Fotografija U Rovinju I Puli
-[  Info  ]       Replaces ----- start = 02/02/2020 03:09:00 stop = 02/02/2020 04:00:00 title = Normalan Život
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 05:35:00 stop = 02/02/2020 06:01:00 title = Intervju Tjedna: Vili Beroš
-[  Info  ]       Replaces ----- start = 02/02/2020 05:35:00 stop = 02/02/2020 06:00:00 title = Intervju Tjedna
-[  Info  ]       Replaces ----- start = 02/02/2020 06:00:00 stop = 02/02/2020 06:08:00 title = Vijesti Na Engleskom Jeziku
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 06:01:00 stop = 02/02/2020 06:10:00 title = Vijesti Na Engleskom Jeziku
-[  Info  ]       Replaces ----- start = 02/02/2020 06:00:00 stop = 02/02/2020 06:08:00 title = Vijesti Na Engleskom Jeziku
-[  Info  ]       Replaces ----- start = 02/02/2020 06:08:00 stop = 02/02/2020 06:10:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 06:54:00 stop = 02/02/2020 06:56:00 title = Vrijeme Svijet Danas
-[  Info  ]       Replaces ----- start = 02/02/2020 06:54:00 stop = 02/02/2020 06:55:00 title = Vrijeme Svijet Danas
-[  Info  ]       Replaces ----- start = 02/02/2020 06:55:00 stop = 02/02/2020 06:59:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 06:56:00 stop = 02/02/2020 06:58:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 02/02/2020 06:55:00 stop = 02/02/2020 06:59:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:07:00 stop = 02/02/2020 07:09:00 title = Vrijeme Svijet Danas
-[  Info  ]       Replaces ----- start = 02/02/2020 07:07:00 stop = 02/02/2020 07:08:00 title = Vrijeme Svijet Danas
-[  Info  ]       Replaces ----- start = 02/02/2020 07:08:00 stop = 02/02/2020 07:10:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:09:00 stop = 02/02/2020 07:10:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 02/02/2020 07:08:00 stop = 02/02/2020 07:10:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:10:00 stop = 02/02/2020 07:18:00 title = Vijesti Iz Kulture
-[  Info  ]       Replaces ----- start = 02/02/2020 07:10:00 stop = 02/02/2020 07:20:00 title = Vijesti Iz Kulture
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:18:00 stop = 02/02/2020 07:20:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 02/02/2020 07:10:00 stop = 02/02/2020 07:20:00 title = Vijesti Iz Kulture
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:45:00 stop = 02/02/2020 07:54:00 title = Abeceda Zdravlja: Paraliza Glasnica
-[  Info  ]       Replaces ----- start = 02/02/2020 07:45:00 stop = 02/02/2020 07:55:00 title = Abeceda Zdravlja
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 08:00:00 stop = 02/02/2020 08:04:00 title = Vijesti
-[  Info  ]       Replaces ----- start = 02/02/2020 08:00:00 stop = 02/02/2020 08:05:00 title = Vijesti
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 08:04:00 stop = 02/02/2020 08:49:00 title = Prizma
-[  Info  ]       Replaces ----- start = 02/02/2020 08:00:00 stop = 02/02/2020 08:05:00 title = Vijesti
-[  Info  ]       Replaces ----- start = 02/02/2020 08:05:00 stop = 02/02/2020 08:50:00 title = Prizma
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 08:49:00 stop = 02/02/2020 09:00:00 title = Financijalac: Nepuno Radno Vrijeme
-[  Info  ]       Replaces ----- start = 02/02/2020 08:05:00 stop = 02/02/2020 08:50:00 title = Prizma
-[  Info  ]       Replaces ----- start = 02/02/2020 08:50:00 stop = 02/02/2020 09:00:00 title = Financijalac
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 09:58:00 stop = 02/02/2020 10:00:00 title = Vrijeme Rh Danas
-[  Info  ]       Replaces ----- start = 02/02/2020 09:58:00 stop = 02/02/2020 09:59:00 title = Vrijeme Rh Danas
-[  Info  ]       Replaces ----- start = 02/02/2020 09:59:00 stop = 02/02/2020 10:00:00 title = Vrijeme Europa Danas
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:09:00 stop = 02/02/2020 10:34:00 title = Zdrav Život
-[  Info  ]       Replaces ----- start = 02/02/2020 10:09:00 stop = 02/02/2020 10:35:00 title = Zdrav Život
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:34:00 stop = 02/02/2020 11:00:00 title = Treća Dob
-[  Info  ]       Replaces ----- start = 02/02/2020 10:09:00 stop = 02/02/2020 10:35:00 title = Zdrav Život
-[  Info  ]       Replaces ----- start = 02/02/2020 10:35:00 stop = 02/02/2020 11:00:00 title = Treća Dob
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 11:39:00 stop = 02/02/2020 11:54:00 title = Kulturna Baština: Obnova Šibenske Katedrale
-[  Info  ]       Replaces ----- start = 02/02/2020 11:10:00 stop = 02/02/2020 11:40:00 title = Kultura S Nogu
-[  Info  ]       Replaces ----- start = 02/02/2020 11:40:00 stop = 02/02/2020 11:55:00 title = Kulturna Baština: Obnova Šibenske Katedrale
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 11:54:00 stop = 02/02/2020 11:56:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 02/02/2020 11:40:00 stop = 02/02/2020 11:55:00 title = Kulturna Baština: Obnova Šibenske Katedrale
-[  Info  ]       Replaces ----- start = 02/02/2020 11:55:00 stop = 02/02/2020 11:57:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 11:56:00 stop = 02/02/2020 11:57:00 title = Vrijeme Rh Danas
-[  Info  ]       Replaces ----- start = 02/02/2020 11:55:00 stop = 02/02/2020 11:57:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 11:57:00 stop = 02/02/2020 12:00:00 title = Vrijeme Europa Danas
-[  Info  ]       Replaces ----- start = 02/02/2020 11:57:00 stop = 02/02/2020 11:58:00 title = Vrijeme Rh Danas
-[  Info  ]       Replaces ----- start = 02/02/2020 11:58:00 stop = 02/02/2020 12:00:00 title = Vrijeme Europa Danas
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 12:20:00 stop = 02/02/2020 12:44:00 title = Glas Domovine
-[  Info  ]       Replaces ----- start = 02/02/2020 12:20:00 stop = 02/02/2020 12:45:00 title = Glas Domovine
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 12:44:00 stop = 02/02/2020 12:57:00 title = Dw: Shift
-[  Info  ]       Replaces ----- start = 02/02/2020 12:20:00 stop = 02/02/2020 12:45:00 title = Glas Domovine
-[  Info  ]       Replaces ----- start = 02/02/2020 12:45:00 stop = 02/02/2020 12:57:00 title = Dw: Shift
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 15:05:00 stop = 02/02/2020 15:31:00 title = Posljednji Pohod Kralja Artura
-[  Info  ]       Replaces ----- start = 02/02/2020 15:05:00 stop = 02/02/2020 15:32:00 title = Posljednji Pohod Kralja Artura
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 15:31:00 stop = 02/02/2020 15:35:00 title = Bez Komentara: Francuska Afrika Na Modnoj Pisti
-[  Info  ]       Replaces ----- start = 02/02/2020 15:05:00 stop = 02/02/2020 15:32:00 title = Posljednji Pohod Kralja Artura
-[  Info  ]       Replaces ----- start = 02/02/2020 15:32:00 stop = 02/02/2020 15:35:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 16:10:00 stop = 02/02/2020 16:39:00 title = Pozitivno
-[  Info  ]       Replaces ----- start = 02/02/2020 16:10:00 stop = 02/02/2020 16:40:00 title = Pozitivno
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 16:39:00 stop = 02/02/2020 16:50:00 title = Skica Za Portret: Ivo Dulčić
-[  Info  ]       Replaces ----- start = 02/02/2020 16:10:00 stop = 02/02/2020 16:40:00 title = Pozitivno
-[  Info  ]       Replaces ----- start = 02/02/2020 16:40:00 stop = 02/02/2020 16:51:00 title = Skica Za Portret: Ivo Dulčić
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 16:50:00 stop = 02/02/2020 16:57:00 title = Nagrada Za Europskog Izumitelja (2): Alex Kipman
-[  Info  ]       Replaces ----- start = 02/02/2020 16:40:00 stop = 02/02/2020 16:51:00 title = Skica Za Portret: Ivo Dulčić
-[  Info  ]       Replaces ----- start = 02/02/2020 16:51:00 stop = 02/02/2020 17:00:00 title = Nagrada Za Europskog Izumitelja (2): Alex Kipman
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 16:57:00 stop = 02/02/2020 17:00:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 02/02/2020 16:51:00 stop = 02/02/2020 17:00:00 title = Nagrada Za Europskog Izumitelja (2): Alex Kipman
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 18:57:00 stop = 02/02/2020 19:00:00 title = Vrijeme Europa Sutra
-[  Info  ]       Replaces ----- start = 02/02/2020 18:57:00 stop = 02/02/2020 18:58:00 title = Vrijeme Europa Sutra
-[  Info  ]       Replaces ----- start = 02/02/2020 18:58:00 stop = 02/02/2020 19:00:00 title = Vrijeme Svijet Sutra
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 22:40:00 stop = 02/02/2020 22:49:00 title = Abeceda Zdravlja: Paraliza Glasnica
-[  Info  ]       Replaces ----- start = 02/02/2020 22:40:00 stop = 02/02/2020 22:50:00 title = Abeceda Zdravlja
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 22:49:00 stop = 02/02/2020 23:00:00 title = Reportaže Iz Djh
-[  Info  ]       Replaces ----- start = 02/02/2020 22:40:00 stop = 02/02/2020 22:50:00 title = Abeceda Zdravlja
-[  Info  ]       Replaces ----- start = 02/02/2020 22:50:00 stop = 02/02/2020 23:00:00 title = Reportaže Iz Djh
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 00:00:00 stop = 03/02/2020 00:08:00 title = Vijesti
-[  Info  ]       Replaces ----- start = 03/02/2020 00:00:00 stop = 03/02/2020 00:10:00 title = Vijesti
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 00:08:00 stop = 03/02/2020 00:33:00 title = Mir I Dobro
-[  Info  ]       Replaces ----- start = 03/02/2020 00:00:00 stop = 03/02/2020 00:10:00 title = Vijesti
-[  Info  ]       Replaces ----- start = 03/02/2020 00:10:00 stop = 03/02/2020 00:35:00 title = Mir I Dobro
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 00:33:00 stop = 03/02/2020 00:57:00 title = Glas Domovine
-[  Info  ]       Replaces ----- start = 03/02/2020 00:10:00 stop = 03/02/2020 00:35:00 title = Mir I Dobro
-[  Info  ]       Replaces ----- start = 03/02/2020 00:35:00 stop = 03/02/2020 01:00:00 title = Glas Domovine
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 00:57:00 stop = 03/02/2020 01:00:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 03/02/2020 00:35:00 stop = 03/02/2020 01:00:00 title = Glas Domovine
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 03:32:00 stop = 03/02/2020 03:58:00 title = Posljednji Pohod Kralja Artura
-[  Info  ]       Replaces ----- start = 03/02/2020 03:32:00 stop = 03/02/2020 03:59:00 title = Posljednji Pohod Kralja Artura
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 03:58:00 stop = 03/02/2020 04:00:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 03/02/2020 03:32:00 stop = 03/02/2020 03:59:00 title = Posljednji Pohod Kralja Artura
-[  Info  ]       Replaces ----- start = 03/02/2020 03:59:00 stop = 03/02/2020 04:00:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 04:08:00 stop = 03/02/2020 04:53:00 title = Prizma
-[  Info  ]       Replaces ----- start = 03/02/2020 04:05:00 stop = 03/02/2020 04:09:00 title = #tvornica: Rezina
-[  Info  ]       Replaces ----- start = 03/02/2020 04:09:00 stop = 03/02/2020 04:54:00 title = Prizma
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 04:57:00 stop = 03/02/2020 05:00:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 03/02/2020 04:54:00 stop = 03/02/2020 04:58:00 title = #tvornica: Ljuljačka
-[  Info  ]       Replaces ----- start = 03/02/2020 04:58:00 stop = 03/02/2020 05:00:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 06:54:00 stop = 03/02/2020 06:56:00 title = Vrijeme Svijet Danas
-[  Info  ]       Replaces ----- start = 03/02/2020 06:54:00 stop = 03/02/2020 06:55:00 title = Vrijeme Svijet Danas
-[  Info  ]       Replaces ----- start = 03/02/2020 06:55:00 stop = 03/02/2020 06:59:00 title = Bez Komentara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 06:56:00 stop = 03/02/2020 06:58:00 title = Bez Komentara
-[  Info  ]       Replaces ----- start = 03/02/2020 06:55:00 stop = 03/02/2020 06:59:00 title = Bez Komentara
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:59
 [  Info  ] 
 [  Info  ]    Summary for update of       HTV 4
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     55
-[  Info  ]      new shows added           175
-[  Info  ]      unchanged shows inspected 459
-[  Info  ]      total after update        689
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 582
+[  Info  ]      total after update        603
 
 [  Debug ] 
 [  Info  ] channel HRT 4 same as -- HTV 4 -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       HRT 4
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     689
+[  Info  ]      changed shows updated     603
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        1202
+[  Info  ]      total after update        1185
 
 [  Debug ] 
 [  Info  ] (   9/73  ) A1.HR -- chan. (xmltv_id=NOVA TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 22:30
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 04:40:00 stop = 02/02/2020 04:45:00 title = Kraj Programa
-[  Info  ]       Replaces ----- start = 02/02/2020 04:40:00 stop = 02/02/2020 04:50:00 title = Kraj Programa
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 04:45:00 stop = 02/02/2020 05:45:00 title = Dnevnik Nove Tv
-[  Info  ]       Replaces ----- start = 02/02/2020 04:40:00 stop = 02/02/2020 04:50:00 title = Kraj Programa
-[  Info  ]       Replaces ----- start = 02/02/2020 04:50:00 stop = 02/02/2020 05:45:00 title = Dnevnik Nove Tv
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 06:30:00 stop = 02/02/2020 07:05:00 title = Informer
-[  Info  ]       Replaces ----- start = 02/02/2020 06:30:00 stop = 02/02/2020 07:00:00 title = Informer
-[  Info  ]       Replaces ----- start = 02/02/2020 07:00:00 stop = 02/02/2020 07:30:00 title = Zdravlje Na Kvadrat
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:05:00 stop = 02/02/2020 07:30:00 title = Zdravlje Na Kvadrat
-[  Info  ]       Replaces ----- start = 02/02/2020 07:00:00 stop = 02/02/2020 07:30:00 title = Zdravlje Na Kvadrat
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 08:15:00 stop = 02/02/2020 08:25:00 title = Talking Tom I Prijatelji
-[  Info  ]       Replaces ----- start = 02/02/2020 08:15:00 stop = 02/02/2020 08:30:00 title = Robocar Poli
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 08:25:00 stop = 02/02/2020 08:35:00 title = Talking Tom I Prijatelji
-[  Info  ]       Replaces ----- start = 02/02/2020 08:15:00 stop = 02/02/2020 08:30:00 title = Robocar Poli
-[  Info  ]       Replaces ----- start = 02/02/2020 08:30:00 stop = 02/02/2020 08:45:00 title = Robocar Poli
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 08:35:00 stop = 02/02/2020 08:50:00 title = Talking Tom I Prijatelji
-[  Info  ]       Replaces ----- start = 02/02/2020 08:30:00 stop = 02/02/2020 08:45:00 title = Robocar Poli
-[  Info  ]       Replaces ----- start = 02/02/2020 08:45:00 stop = 02/02/2020 09:10:00 title = Aladdin
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 06:00:00 stop = 03/02/2020 06:05:00 title = Kraj Programa
-[  Info  ]       Replaces ----- start = 03/02/2020 05:45:00 stop = 03/02/2020 06:45:00 title = Dnevnik Nove Tv
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 06:05:00 stop = 03/02/2020 06:40:00 title = Dnevnik Nove Tv
-[  Info  ]       Replaces ----- start = 03/02/2020 05:45:00 stop = 03/02/2020 06:45:00 title = Dnevnik Nove Tv
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 07:35:00 stop = 03/02/2020 07:45:00 title = Talking Tom I Prijatelji
-[  Info  ]       Replaces ----- start = 03/02/2020 07:35:00 stop = 03/02/2020 07:50:00 title = Robocar Poli
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 14:10:00 stop = 03/02/2020 15:15:00 title = Nad Lipom 35
-[  Info  ]       Replaces ----- start = 03/02/2020 14:10:00 stop = 03/02/2020 15:05:00 title = Nad Lipom 35
-[  Info  ]       Replaces ----- start = 03/02/2020 15:05:00 stop = 03/02/2020 15:35:00 title = Zauvijek Susjedi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 19:15:00 stop = 03/02/2020 20:20:00 title = Dnevnik Nove Tv
-[  Info  ]       Replaces ----- start = 03/02/2020 19:15:00 stop = 03/02/2020 20:15:00 title = Dnevnik Nove Tv
-[  Info  ]       Replaces ----- start = 03/02/2020 20:15:00 stop = 03/02/2020 21:15:00 title = Drugo Ime Ljubavi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 03:25:00 stop = 04/02/2020 04:25:00 title = Astro Savjetnik
-[  Info  ]       Replaces ----- start = 04/02/2020 02:50:00 stop = 04/02/2020 03:35:00 title = Blindspot
-[  Info  ]       Replaces ----- start = 04/02/2020 03:35:00 stop = 04/02/2020 04:35:00 title = Astro Savjetnik
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 04:25:00 stop = 04/02/2020 04:45:00 title = Kraj Programa
-[  Info  ]       Replaces ----- start = 04/02/2020 03:35:00 stop = 04/02/2020 04:35:00 title = Astro Savjetnik
-[  Info  ]       Replaces ----- start = 04/02/2020 04:35:00 stop = 04/02/2020 04:45:00 title = Kraj Programa
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:50
 [  Info  ] 
 [  Info  ]    Summary for update of       NOVA TV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     54
-[  Info  ]      new shows added           60
-[  Info  ]      unchanged shows inspected 106
-[  Info  ]      total after update        220
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 189
+[  Info  ]      total after update        189
 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       NOVA
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     220
+[  Info  ]      changed shows updated     189
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        377
+[  Info  ]      total after update        378
 
 [  Debug ] 
 [  Info  ] (  11/73  ) A1.HR -- chan. (xmltv_id=RTL) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:40
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:20:00 stop = 02/02/2020 08:10:00 title = Rtl Vrijeme
-[  Info  ]       Replaces ----- start = 02/02/2020 06:55:00 stop = 02/02/2020 07:40:00 title = Rtl Vrijeme
-[  Info  ]       Replaces ----- start = 02/02/2020 07:40:00 stop = 02/02/2020 08:10:00 title = Exkluziv
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 09:10:00 stop = 02/02/2020 09:25:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 08:55:00 stop = 02/02/2020 09:25:00 title = Pingvini S Madagaskara
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:40:00 stop = 02/02/2020 10:55:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 10:40:00 stop = 02/02/2020 11:35:00 title = Spašavanje Vrta
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:55:00 stop = 02/02/2020 11:55:00 title = Spašavanje Vrta
-[  Info  ]       Replaces ----- start = 02/02/2020 10:40:00 stop = 02/02/2020 11:35:00 title = Spašavanje Vrta
-[  Info  ]       Replaces ----- start = 02/02/2020 11:35:00 stop = 02/02/2020 11:50:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 11:50:00 stop = 02/02/2020 14:00:00 title = Umorstva U Midsomeru
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 11:55:00 stop = 02/02/2020 12:10:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 11:50:00 stop = 02/02/2020 14:00:00 title = Umorstva U Midsomeru
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 16:30:00 stop = 02/02/2020 16:50:00 title = Rtl Vijesti
-[  Info  ]       Replaces ----- start = 02/02/2020 16:30:00 stop = 02/02/2020 16:55:00 title = Rtl Vijesti
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:45
 [  Info  ] 
 [  Info  ]    Summary for update of       RTL
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     17
-[  Info  ]      new shows added           49
-[  Info  ]      unchanged shows inspected 137
-[  Info  ]      total after update        203
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 178
+[  Info  ]      total after update        183
 
 [  Debug ] 
 [  Info  ] (  12/73  ) A1.HR -- chan. (xmltv_id=DOMA TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:55
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 10:10:00 stop = 03/02/2020 10:25:00 title = Smrtonosni Ulov
-[  Info  ]       Replaces ----- start = 03/02/2020 09:55:00 stop = 03/02/2020 10:40:00 title = Smrtonosni Ulov
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 10:40:00 stop = 03/02/2020 11:15:00 title = Smrtonosni Ulov
-[  Info  ]       Replaces ----- start = 03/02/2020 10:40:00 stop = 03/02/2020 10:55:00 title = Tv Izlog
-[  Info  ]       Replaces ----- start = 03/02/2020 10:55:00 stop = 03/02/2020 11:30:00 title = Smrtonosni Ulov
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 11:30:00 stop = 03/02/2020 12:25:00 title = Smrtonosni Ulov
-[  Info  ]       Replaces ----- start = 03/02/2020 11:30:00 stop = 03/02/2020 11:45:00 title = Tv Izlog
-[  Info  ]       Replaces ----- start = 03/02/2020 11:45:00 stop = 03/02/2020 12:00:00 title = Smrtonosni Ulov
-[  Info  ]       Replaces ----- start = 03/02/2020 12:00:00 stop = 03/02/2020 12:15:00 title = Tv Izlog
-[  Info  ]       Replaces ----- start = 03/02/2020 12:15:00 stop = 03/02/2020 13:00:00 title = Gorski Liječnik
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:45
 [  Info  ] 
+[  Info  ]    Summary for update of       DOMA TV
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 227
+[  Info  ]      total after update        227
+
 [  Debug ] 
 [  Info  ] channel Doma same as -- DOMA TV -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       Doma
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     227
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        454
+
 [  Debug ] 
 [  Info  ] (  14/73  ) A1.HR -- chan. (xmltv_id=RTL2) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:15
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 08:45:00 stop = 02/02/2020 09:00:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 08:35:00 stop = 02/02/2020 08:50:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 08:50:00 stop = 02/02/2020 09:45:00 title = Ruža Vjetrova
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 09:55:00 stop = 02/02/2020 10:10:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 09:45:00 stop = 02/02/2020 10:00:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 10:00:00 stop = 02/02/2020 10:30:00 title = Bebeceda
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:10:00 stop = 02/02/2020 10:45:00 title = Bebeceda
-[  Info  ]       Replaces ----- start = 02/02/2020 10:00:00 stop = 02/02/2020 10:30:00 title = Bebeceda
-[  Info  ]       Replaces ----- start = 02/02/2020 10:30:00 stop = 02/02/2020 11:20:00 title = Krv Nije Voda
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 11:35:00 stop = 02/02/2020 11:45:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 11:35:00 stop = 02/02/2020 12:25:00 title = Krv Nije Voda
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 14:05:00 stop = 02/02/2020 15:00:00 title = Top.hr
-[  Info  ]       Replaces ----- start = 02/02/2020 13:55:00 stop = 02/02/2020 14:50:00 title = Top.hr
-[  Info  ]       Replaces ----- start = 02/02/2020 14:50:00 stop = 02/02/2020 15:15:00 title = Likvidator
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 15:45:00 stop = 02/02/2020 16:20:00 title = Bitka Za Skladište: Teksas
-[  Info  ]       Replaces ----- start = 02/02/2020 15:40:00 stop = 02/02/2020 16:10:00 title = Bitka Za Skladište: Teksas
-[  Info  ]       Replaces ----- start = 02/02/2020 16:10:00 stop = 02/02/2020 16:35:00 title = Bitka Za Skladište: Teksas
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 16:20:00 stop = 02/02/2020 16:40:00 title = Bitka Za Skladište: Teksas
-[  Info  ]       Replaces ----- start = 02/02/2020 16:10:00 stop = 02/02/2020 16:35:00 title = Bitka Za Skladište: Teksas
-[  Info  ]       Replaces ----- start = 02/02/2020 16:35:00 stop = 02/02/2020 17:25:00 title = Drevni Izvanzemaljci
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 16:40:00 stop = 02/02/2020 17:30:00 title = Drevni Izvanzemaljci
-[  Info  ]       Replaces ----- start = 02/02/2020 16:35:00 stop = 02/02/2020 17:25:00 title = Drevni Izvanzemaljci
-[  Info  ]       Replaces ----- start = 02/02/2020 17:25:00 stop = 02/02/2020 18:15:00 title = Istrage Zrakoplovnih Nesreća
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:15
 [  Info  ] 
-[  Info  ]    Summary for update of       RTL2
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     23
-[  Info  ]      new shows added           69
-[  Info  ]      unchanged shows inspected 172
-[  Info  ]      total after update        264
-
 [  Debug ] 
 [  Info  ] channel RTL 2 same as -- RTL2 -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       RTL 2
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     264
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        459
-
 [  Debug ] 
 [  Info  ] (  16/73  ) A1.HR -- chan. (xmltv_id=RTL KOCKICA) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:35
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 02:30:00 stop = 02/02/2020 02:45:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 02/02/2020 02:05:00 stop = 02/02/2020 02:55:00 title = Soy Luna
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 02:45:00 stop = 02/02/2020 02:55:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 02/02/2020 02:05:00 stop = 02/02/2020 02:55:00 title = Soy Luna
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 02:55:00 stop = 02/02/2020 06:20:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 02/02/2020 02:55:00 stop = 02/02/2020 03:10:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 02/02/2020 03:10:00 stop = 02/02/2020 03:25:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 02/02/2020 03:25:00 stop = 02/02/2020 05:45:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 02/02/2020 05:45:00 stop = 02/02/2020 06:00:00 title = Monkart
-[  Info  ]       Replaces ----- start = 02/02/2020 06:00:00 stop = 02/02/2020 06:10:00 title = Mala Sportska Akademija
-[  Info  ]       Replaces ----- start = 02/02/2020 06:10:00 stop = 02/02/2020 06:30:00 title = Miraculous: Pustolovine Bubamare I Crnog Mačka
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 06:35:00 stop = 02/02/2020 06:50:00 title = Mala Sportska Akademija
-[  Info  ]       Replaces ----- start = 02/02/2020 06:30:00 stop = 02/02/2020 06:40:00 title = Robo Vlakovi
-[  Info  ]       Replaces ----- start = 02/02/2020 06:40:00 stop = 02/02/2020 09:00:00 title = Kockići
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:30:00 stop = 02/02/2020 09:30:00 title = Kockići
-[  Info  ]       Replaces ----- start = 02/02/2020 06:40:00 stop = 02/02/2020 09:00:00 title = Kockići
-[  Info  ]       Replaces ----- start = 02/02/2020 09:00:00 stop = 02/02/2020 09:15:00 title = Hello Carbot
-[  Info  ]       Replaces ----- start = 02/02/2020 09:15:00 stop = 02/02/2020 09:20:00 title = Crtež Dana
-[  Info  ]       Replaces ----- start = 02/02/2020 09:20:00 stop = 02/02/2020 09:30:00 title = Stari Zanati
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 09:45:00 stop = 02/02/2020 09:50:00 title = Crtež Dana
-[  Info  ]       Replaces ----- start = 02/02/2020 09:45:00 stop = 02/02/2020 10:10:00 title = Mickey Mouse Clubhouse
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 09:50:00 stop = 02/02/2020 09:55:00 title = Stari Zanati
-[  Info  ]       Replaces ----- start = 02/02/2020 09:45:00 stop = 02/02/2020 10:10:00 title = Mickey Mouse Clubhouse
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 12:55:00 stop = 02/02/2020 13:00:00 title = Vremeplov
-[  Info  ]       Replaces ----- start = 02/02/2020 12:55:00 stop = 02/02/2020 13:15:00 title = Yoohoo I Prijatelji
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 13:00:00 stop = 02/02/2020 13:25:00 title = Tobot
-[  Info  ]       Replaces ----- start = 02/02/2020 12:55:00 stop = 02/02/2020 13:15:00 title = Yoohoo I Prijatelji
-[  Info  ]       Replaces ----- start = 02/02/2020 13:15:00 stop = 02/02/2020 13:25:00 title = Mala Sportska Akademija
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 13:40:00 stop = 02/02/2020 13:50:00 title = Mala Sportska Akademija
-[  Info  ]       Replaces ----- start = 02/02/2020 13:40:00 stop = 02/02/2020 13:50:00 title = Superzings
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 14:05:00 stop = 02/02/2020 14:15:00 title = Superzings
-[  Info  ]       Replaces ----- start = 02/02/2020 14:00:00 stop = 02/02/2020 14:15:00 title = Monkart
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 14:45:00 stop = 02/02/2020 15:00:00 title = Gormiti
-[  Info  ]       Replaces ----- start = 02/02/2020 14:40:00 stop = 02/02/2020 14:50:00 title = Gormiti
-[  Info  ]       Replaces ----- start = 02/02/2020 14:50:00 stop = 02/02/2020 15:05:00 title = Robo Vlakovi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 15:00:00 stop = 02/02/2020 15:10:00 title = Gormiti
-[  Info  ]       Replaces ----- start = 02/02/2020 14:50:00 stop = 02/02/2020 15:05:00 title = Robo Vlakovi
-[  Info  ]       Replaces ----- start = 02/02/2020 15:05:00 stop = 02/02/2020 15:20:00 title = Hello Carbot
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 16:05:00 stop = 02/02/2020 16:10:00 title = Stari Zanati
-[  Info  ]       Replaces ----- start = 02/02/2020 16:05:00 stop = 02/02/2020 16:20:00 title = Bakugan
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:55
 [  Info  ] 
-[  Info  ]    Summary for update of       RTL KOCKICA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     49
-[  Info  ]      new shows added           108
-[  Info  ]      unchanged shows inspected 251
-[  Info  ]      total after update        408
-
 [  Debug ] 
 [  Info  ] channel RTLko same as -- RTL KOCKICA -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       RTLko
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     408
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        708
-
 [  Debug ] 
 [  Info  ] (  18/73  ) A1.HR -- chan. (xmltv_id=RTL LIVING) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:55
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 07:55:00 stop = 02/02/2020 08:45:00 title = 10 Godina Mlađi
-[  Info  ]       Replaces ----- start = 02/02/2020 07:50:00 stop = 02/02/2020 08:40:00 title = 10 Godina Mlađi
-[  Info  ]       Replaces ----- start = 02/02/2020 08:40:00 stop = 02/02/2020 09:30:00 title = 10 Godina Mlađi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 08:45:00 stop = 02/02/2020 09:30:00 title = 10 Godina Mlađi
-[  Info  ]       Replaces ----- start = 02/02/2020 08:40:00 stop = 02/02/2020 09:30:00 title = 10 Godina Mlađi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 09:30:00 stop = 02/02/2020 10:25:00 title = 10 Godina Mlađi
-[  Info  ]       Replaces ----- start = 02/02/2020 09:30:00 stop = 02/02/2020 10:20:00 title = 10 Godina Mlađi
-[  Info  ]       Replaces ----- start = 02/02/2020 10:20:00 stop = 02/02/2020 10:35:00 title = Tv Prodaja
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 10:25:00 stop = 02/02/2020 10:40:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 10:20:00 stop = 02/02/2020 10:35:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 10:35:00 stop = 02/02/2020 12:00:00 title = Tri Kuhaj
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 12:10:00 stop = 02/02/2020 12:25:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 12:00:00 stop = 02/02/2020 12:15:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 12:15:00 stop = 02/02/2020 12:45:00 title = Gastro Lutalica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 13:45:00 stop = 02/02/2020 14:00:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 13:35:00 stop = 02/02/2020 13:50:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 13:50:00 stop = 02/02/2020 14:40:00 title = Lovci Na Nekretnine
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 15:35:00 stop = 02/02/2020 15:55:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 15:30:00 stop = 02/02/2020 15:45:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 15:45:00 stop = 02/02/2020 16:35:00 title = Lovci Na Nekretnine
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 16:40:00 stop = 02/02/2020 16:55:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 16:35:00 stop = 02/02/2020 16:50:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 16:50:00 stop = 02/02/2020 17:40:00 title = Lovci Na Nekretnine
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 17:45:00 stop = 02/02/2020 18:00:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 17:40:00 stop = 02/02/2020 17:55:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 17:55:00 stop = 02/02/2020 18:45:00 title = Spašavanje Vrta
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 18:00:00 stop = 02/02/2020 18:50:00 title = Spašavanje Vrta
-[  Info  ]       Replaces ----- start = 02/02/2020 17:55:00 stop = 02/02/2020 18:45:00 title = Spašavanje Vrta
-[  Info  ]       Replaces ----- start = 02/02/2020 18:45:00 stop = 02/02/2020 19:00:00 title = Tv Prodaja
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 18:50:00 stop = 02/02/2020 19:05:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 18:45:00 stop = 02/02/2020 19:00:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 02/02/2020 19:00:00 stop = 02/02/2020 19:30:00 title = Lovci Na Glave
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:55
 [  Info  ] 
-[  Info  ]    Summary for update of       RTL LIVING
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     39
-[  Info  ]      new shows added           62
-[  Info  ]      unchanged shows inspected 143
-[  Info  ]      total after update        244
-
 [  Debug ] 
 [  Info  ] channel RTLli same as -- RTL LIVING -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       RTLli
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     244
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        428
-
 [  Debug ] 
 [  Info  ] (  20/73  ) A1.HR -- chan. (xmltv_id=CINESTAR TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:30
 [  Info  ] 
 [  Info  ]    Summary for update of       CINESTAR TV
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           19
-[  Info  ]      unchanged shows inspected 66
-[  Info  ]      total after update        85
+[  Info  ]      new shows added           2
+[  Info  ]      unchanged shows inspected 74
+[  Info  ]      total after update        76
 
 [  Debug ] 
 [  Info  ] channel Cines same as -- CINESTAR TV -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       Cines
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     85
+[  Info  ]      changed shows updated     76
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        151
+[  Info  ]      total after update        150
 
 [  Debug ] 
 [  Info  ] (  22/73  ) A1.HR -- chan. (xmltv_id=CINESTAR ACTION & THRILLER) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:45
 [  Info  ] 
 [  Info  ]    Summary for update of       CINESTAR ACTION & THRILLER
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           23
-[  Info  ]      unchanged shows inspected 62
-[  Info  ]      total after update        85
+[  Info  ]      new shows added           3
+[  Info  ]      unchanged shows inspected 73
+[  Info  ]      total after update        76
 
 [  Debug ] 
 [  Info  ] channel CineA same as -- CINESTAR ACTION & THRILLER -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       CineA
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     85
+[  Info  ]      changed shows updated     76
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        147
+[  Info  ]      total after update        149
 
 [  Debug ] 
 [  Info  ] (  24/73  ) A1.HR -- chan. (xmltv_id=VIASAT TV1000) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:40
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:00
 [  Info  ] 
-[  Info  ]    Summary for update of       VIASAT TV1000
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           22
-[  Info  ]      unchanged shows inspected 65
-[  Info  ]      total after update        87
-
 [  Debug ] 
 [  Info  ] channel Tv100 same as -- VIASAT TV1000 -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Tv100
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     87
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        152
-
 [  Debug ] 
 [  Info  ] (  26/73  ) A1.HR -- chan. (xmltv_id=FOX) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:00
 [  Info  ] 
-[  Info  ]    Summary for update of       FOX
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           51
-[  Info  ]      unchanged shows inspected 164
-[  Info  ]      total after update        215
-
 [  Debug ] 
 [  Info  ] channel Fox same as -- FOX -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Fox
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     215
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        379
-
 [  Debug ] 
 [  Info  ] (  28/73  ) A1.HR -- chan. (xmltv_id=FOX LIFE) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:50
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:50
 [  Info  ] 
-[  Info  ]    Summary for update of       FOX LIFE
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           53
-[  Info  ]      unchanged shows inspected 171
-[  Info  ]      total after update        224
-
 [  Debug ] 
 [  Info  ] channel FoxLi same as -- FOX LIFE -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       FoxLi
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     224
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        395
-
 [  Debug ] 
 [  Info  ] (  30/73  ) A1.HR -- chan. (xmltv_id=EPIC DRAMA) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:35
 [  Info  ] 
-[  Info  ]    Summary for update of       EPIC DRAMA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     54
-[  Info  ]      new shows added           43
-[  Info  ]      unchanged shows inspected 98
-[  Info  ]      total after update        195
-
 [  Debug ] 
 [  Info  ] channel EpicD same as -- EPIC DRAMA -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       EpicD
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     195
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        345
-
 [  Debug ] 
 [  Info  ] (  32/73  ) A1.HR -- chan. (xmltv_id=KLASIK TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:48
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 04:21:00 stop = 02/02/2020 05:11:00 title = Bogdan Diklić
-[  Info  ]       Replaces ----- start = 02/02/2020 04:20:00 stop = 02/02/2020 05:10:00 title = Bogdan Diklić
-[  Info  ]       Replaces ----- start = 02/02/2020 05:10:00 stop = 02/02/2020 05:45:00 title = Crnci Su Izdržali
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 23:39:00 stop = 03/02/2020 01:00:00 title = Direktan Prenos
-[  Info  ]       Replaces ----- start = 02/02/2020 23:38:00 stop = 03/02/2020 00:59:00 title = Direktan Prenos
-[  Info  ]       Replaces ----- start = 03/02/2020 00:59:00 stop = 03/02/2020 02:38:00 title = Piran/pirano
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 05:32:00 stop = 03/02/2020 05:42:00 title = Karanfil
-[  Info  ]       Replaces ----- start = 03/02/2020 05:31:00 stop = 03/02/2020 05:41:00 title = Karanfil
-[  Info  ]       Replaces ----- start = 03/02/2020 05:41:00 stop = 03/02/2020 05:54:00 title = Foto Atelje
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 05:42:00 stop = 03/02/2020 05:55:00 title = Foto Atelje
-[  Info  ]       Replaces ----- start = 03/02/2020 05:41:00 stop = 03/02/2020 05:54:00 title = Foto Atelje
-[  Info  ]       Replaces ----- start = 03/02/2020 05:54:00 stop = 03/02/2020 06:00:00 title = Noćna
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 05:55:00 stop = 03/02/2020 06:00:00 title = Cura Koja Je Voljela Bajke
-[  Info  ]       Replaces ----- start = 03/02/2020 05:54:00 stop = 03/02/2020 06:00:00 title = Noćna
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 15:54:00 stop = 03/02/2020 16:01:00 title = 37 Istraga
-[  Info  ]       Replaces ----- start = 03/02/2020 15:53:00 stop = 03/02/2020 16:00:00 title = 37 Istraga
-[  Info  ]       Replaces ----- start = 03/02/2020 16:00:00 stop = 03/02/2020 18:48:00 title = Bitka Na Neretvi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 11:24:00 stop = 05/02/2020 11:48:00 title = Slavoljub Muslin
-[  Info  ]       Replaces ----- start = 05/02/2020 11:23:00 stop = 05/02/2020 11:47:00 title = Slavoljub Muslin
-[  Info  ]       Replaces ----- start = 05/02/2020 11:47:00 stop = 05/02/2020 12:00:00 title = Zameteni Trag
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 13:56:00 stop = 05/02/2020 14:01:00 title = 03 Buljumator
-[  Info  ]       Replaces ----- start = 05/02/2020 13:56:00 stop = 05/02/2020 14:00:00 title = 03 Buljumator
-[  Info  ]       Replaces ----- start = 05/02/2020 14:00:00 stop = 05/02/2020 15:24:00 title = Sarajevski Atentat
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 15:24:00 stop = 05/02/2020 15:47:00 title = Nedjelja ( Kratki )
-[  Info  ]       Replaces ----- start = 05/02/2020 15:24:00 stop = 05/02/2020 15:46:00 title = Nedjelja ( Kratki )
-[  Info  ]       Replaces ----- start = 05/02/2020 15:46:00 stop = 05/02/2020 16:00:00 title = Ispred Zastava
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 16:00:00 stop = 05/02/2020 17:49:00 title = Novinar
-[  Info  ]       Replaces ----- start = 05/02/2020 16:00:00 stop = 05/02/2020 17:48:00 title = Novinar
-[  Info  ]       Replaces ----- start = 05/02/2020 17:48:00 stop = 05/02/2020 18:36:00 title = Sfrj Za Početnike Ep06
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 23:03:00 stop = 06/02/2020 00:33:00 title = Enklava
-[  Info  ]       Replaces ----- start = 05/02/2020 23:01:00 stop = 06/02/2020 00:31:00 title = Enklava
-[  Info  ]       Replaces ----- start = 06/02/2020 00:31:00 stop = 06/02/2020 01:50:00 title = Ajmo Žuti
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 03:01:00 stop = 06/02/2020 04:41:00 title = Sve Se Može
-[  Info  ]       Replaces ----- start = 06/02/2020 03:00:00 stop = 06/02/2020 04:40:00 title = Sve Se Može
-[  Info  ]       Replaces ----- start = 06/02/2020 04:40:00 stop = 06/02/2020 05:34:00 title = Dečko Kojem Se Žurilo
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:39
 [  Info  ] 
+[  Info  ]    Summary for update of       KLASIK TV
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 137
+[  Info  ]      total after update        137
+
 [  Debug ] 
 [  Info  ] (  33/73  ) A1.HR -- chan. (xmltv_id=KINOTV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:45
 [  Info  ] 
-[  Info  ]    Summary for update of       KINOTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           22
-[  Info  ]      unchanged shows inspected 70
-[  Info  ]      total after update        92
-
 [  Debug ] 
 [  Info  ] (  34/73  ) A1.HR -- chan. (xmltv_id=COMEDY CENTRAL EXTRA) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:40
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:40
 [  Info  ] 
-[  Info  ]    Summary for update of       COMEDY CENTRAL EXTRA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           94
-[  Info  ]      unchanged shows inspected 284
-[  Info  ]      total after update        378
-
 [  Debug ] 
 [  Info  ] channel Comed same as -- COMEDY CENTRAL EXTRA -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Comed
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     378
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        662
-
 [  Debug ] 
 [  Info  ] (  36/73  ) A1.HR -- chan. (xmltv_id=DIVA) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 22:00
 [  Info  ] 
-[  Info  ]    Summary for update of       DIVA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           35
-[  Info  ]      unchanged shows inspected 112
-[  Info  ]      total after update        147
-
 [  Debug ] 
 [  Info  ] (  37/73  ) A1.HR -- chan. (xmltv_id=DOKUTV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:35
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 12:00:00 stop = 02/02/2020 13:00:00 title = Velika Europska Putovanja Željeznicom
-[  Info  ]       Replaces ----- start = 02/02/2020 11:01:00 stop = 02/02/2020 12:01:00 title = Crno Tržište: Hrana
-[  Info  ]       Replaces ----- start = 02/02/2020 12:01:00 stop = 02/02/2020 13:01:00 title = Velika Europska Putovanja Željeznicom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 13:00:00 stop = 02/02/2020 14:00:00 title = Velika Europska Putovanja Željeznicom
-[  Info  ]       Replaces ----- start = 02/02/2020 12:01:00 stop = 02/02/2020 13:01:00 title = Velika Europska Putovanja Željeznicom
-[  Info  ]       Replaces ----- start = 02/02/2020 13:01:00 stop = 02/02/2020 14:01:00 title = Velika Europska Putovanja Željeznicom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 22:51:00 stop = 02/02/2020 23:51:00 title = Velika Europska Putovanja Željeznicom
-[  Info  ]       Replaces ----- start = 02/02/2020 21:01:00 stop = 02/02/2020 22:52:00 title = Sex Pistols: The Filth And The Fury
-[  Info  ]       Replaces ----- start = 02/02/2020 22:52:00 stop = 02/02/2020 23:51:00 title = Velika Europska Putovanja Željeznicom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 11:01:00 stop = 03/02/2020 12:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 03/02/2020 10:12:00 stop = 03/02/2020 11:02:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 03/02/2020 11:02:00 stop = 03/02/2020 12:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 13:01:00 stop = 03/02/2020 14:01:00 title = Nasljedstvo
-[  Info  ]       Replaces ----- start = 03/02/2020 12:02:00 stop = 03/02/2020 13:02:00 title = Cia: Tajni Ratovi
-[  Info  ]       Replaces ----- start = 03/02/2020 13:02:00 stop = 03/02/2020 14:02:00 title = Nasljedstvo
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 16:01:00 stop = 03/02/2020 17:01:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 03/02/2020 14:02:00 stop = 03/02/2020 16:02:00 title = Alfabet
-[  Info  ]       Replaces ----- start = 03/02/2020 16:02:00 stop = 03/02/2020 17:02:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 19:01:00 stop = 03/02/2020 20:01:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 03/02/2020 18:02:00 stop = 03/02/2020 19:02:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 03/02/2020 19:02:00 stop = 03/02/2020 20:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 23:31:00 stop = 04/02/2020 00:31:00 title = Nasljedstvo
-[  Info  ]       Replaces ----- start = 03/02/2020 22:32:00 stop = 03/02/2020 23:32:00 title = Cia: Tajni Ratovi
-[  Info  ]       Replaces ----- start = 03/02/2020 23:32:00 stop = 04/02/2020 00:32:00 title = Nasljedstvo
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 01:16:00 stop = 04/02/2020 02:16:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 04/02/2020 00:32:00 stop = 04/02/2020 01:17:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 04/02/2020 01:17:00 stop = 04/02/2020 02:17:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 04:11:00 stop = 04/02/2020 05:11:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 04/02/2020 02:17:00 stop = 04/02/2020 04:12:00 title = Alfabet
-[  Info  ]       Replaces ----- start = 04/02/2020 04:12:00 stop = 04/02/2020 05:12:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 06:31:00 stop = 04/02/2020 07:32:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 04/02/2020 06:02:00 stop = 04/02/2020 06:32:00 title = Čudesne Svete Građevine
-[  Info  ]       Replaces ----- start = 04/02/2020 06:32:00 stop = 04/02/2020 07:32:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 11:02:00 stop = 04/02/2020 12:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 04/02/2020 10:03:00 stop = 04/02/2020 11:03:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 04/02/2020 11:03:00 stop = 04/02/2020 12:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 16:02:00 stop = 04/02/2020 17:01:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 04/02/2020 14:02:00 stop = 04/02/2020 16:03:00 title = Demokracija
-[  Info  ]       Replaces ----- start = 04/02/2020 16:03:00 stop = 04/02/2020 17:02:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 17:01:00 stop = 04/02/2020 18:02:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 04/02/2020 16:03:00 stop = 04/02/2020 17:02:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 04/02/2020 17:02:00 stop = 04/02/2020 18:03:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 19:02:00 stop = 04/02/2020 20:01:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 04/02/2020 18:03:00 stop = 04/02/2020 19:03:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 04/02/2020 19:03:00 stop = 04/02/2020 20:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 01:02:00 stop = 05/02/2020 02:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 05/02/2020 00:03:00 stop = 05/02/2020 01:03:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 05/02/2020 01:03:00 stop = 05/02/2020 02:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 04:02:00 stop = 05/02/2020 05:02:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 05/02/2020 02:03:00 stop = 05/02/2020 04:03:00 title = Demokracija
-[  Info  ]       Replaces ----- start = 05/02/2020 04:03:00 stop = 05/02/2020 05:03:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 05:02:00 stop = 05/02/2020 06:01:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 05/02/2020 04:03:00 stop = 05/02/2020 05:03:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 05/02/2020 05:03:00 stop = 05/02/2020 06:02:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 07:02:00 stop = 05/02/2020 08:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 05/02/2020 06:02:00 stop = 05/02/2020 07:03:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 05/02/2020 07:03:00 stop = 05/02/2020 08:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 11:02:00 stop = 05/02/2020 12:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 05/02/2020 10:03:00 stop = 05/02/2020 11:03:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 05/02/2020 11:03:00 stop = 05/02/2020 12:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 14:02:00 stop = 05/02/2020 15:32:00 title = Cenzurirani Glasovi
-[  Info  ]       Replaces ----- start = 05/02/2020 13:03:00 stop = 05/02/2020 14:03:00 title = Obalne Željeznice S Julie Walters
-[  Info  ]       Replaces ----- start = 05/02/2020 14:03:00 stop = 05/02/2020 15:33:00 title = Cenzurirani Glasovi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 17:02:00 stop = 05/02/2020 18:02:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 05/02/2020 16:03:00 stop = 05/02/2020 17:03:00 title = Nano Revolucija
-[  Info  ]       Replaces ----- start = 05/02/2020 17:03:00 stop = 05/02/2020 18:03:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 19:02:00 stop = 05/02/2020 20:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 05/02/2020 18:03:00 stop = 05/02/2020 19:03:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 05/02/2020 19:03:00 stop = 05/02/2020 20:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 01:02:00 stop = 06/02/2020 02:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 06/02/2020 00:03:00 stop = 06/02/2020 01:03:00 title = Obalne Željeznice S Julie Walters
-[  Info  ]       Replaces ----- start = 06/02/2020 01:03:00 stop = 06/02/2020 02:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 02:02:00 stop = 06/02/2020 03:32:00 title = Cenzurirani Glasovi
-[  Info  ]       Replaces ----- start = 06/02/2020 01:03:00 stop = 06/02/2020 02:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 06/02/2020 02:03:00 stop = 06/02/2020 03:33:00 title = Cenzurirani Glasovi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 05:02:00 stop = 06/02/2020 06:02:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 06/02/2020 04:03:00 stop = 06/02/2020 05:03:00 title = Nano Revolucija
-[  Info  ]       Replaces ----- start = 06/02/2020 05:03:00 stop = 06/02/2020 06:03:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 06:02:00 stop = 06/02/2020 07:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 06/02/2020 05:03:00 stop = 06/02/2020 06:03:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 06/02/2020 06:03:00 stop = 06/02/2020 07:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 11:02:00 stop = 06/02/2020 12:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 06/02/2020 10:03:00 stop = 06/02/2020 11:03:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 06/02/2020 11:03:00 stop = 06/02/2020 12:04:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 16:02:00 stop = 06/02/2020 17:02:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]       Replaces ----- start = 06/02/2020 15:04:00 stop = 06/02/2020 16:03:00 title = Devedesete
-[  Info  ]       Replaces ----- start = 06/02/2020 16:03:00 stop = 06/02/2020 17:03:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 19:03:00 stop = 06/02/2020 20:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 06/02/2020 18:08:00 stop = 06/02/2020 19:04:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 06/02/2020 19:04:00 stop = 06/02/2020 20:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 20:02:00 stop = 06/02/2020 21:02:00 title = Sting
-[  Info  ]       Replaces ----- start = 06/02/2020 19:04:00 stop = 06/02/2020 20:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 06/02/2020 20:03:00 stop = 06/02/2020 21:03:00 title = Sting
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 07/02/2020 01:02:00 stop = 07/02/2020 02:02:00 title = Čudesna Putovanja Vlakom
-[  Info  ]       Replaces ----- start = 07/02/2020 00:04:00 stop = 07/02/2020 01:03:00 title = Bijeg Na Selo
-[  Info  ]       Replaces ----- start = 07/02/2020 01:03:00 stop = 07/02/2020 02:03:00 title = Čudesna Putovanja Vlakom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 07/02/2020 04:02:00 stop = 07/02/2020 04:57:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]       Replaces ----- start = 07/02/2020 03:03:00 stop = 07/02/2020 04:03:00 title = Devedesete
-[  Info  ]       Replaces ----- start = 07/02/2020 04:03:00 stop = 07/02/2020 04:58:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:51
 [  Info  ] 
-[  Info  ]    Summary for update of       DOKUTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     115
-[  Info  ]      new shows added           40
-[  Info  ]      unchanged shows inspected 1
-[  Info  ]      total after update        156
-
 [  Debug ] 
 [  Info  ] channel DokTV same as -- DOKUTV -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       DokTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     156
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        271
-
 [  Debug ] 
 [  Info  ] (  39/73  ) A1.HR -- chan. (xmltv_id=NATIONAL GEOGRAPHIC) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:00
 [  Info  ] 
-[  Info  ]    Summary for update of       NATIONAL GEOGRAPHIC
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           52
-[  Info  ]      unchanged shows inspected 180
-[  Info  ]      total after update        232
-
 [  Debug ] 
 [  Info  ] channel NatGe same as -- NATIONAL GEOGRAPHIC -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       NatGe
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     232
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        412
-
 [  Debug ] 
 [  Info  ] (  41/73  ) A1.HR -- chan. (xmltv_id=VIASAT HISTORY) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:20
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 02/02/2020 17:10:00 stop = 02/02/2020 18:05:00 title = Smrtonosna Inteligencija
-[  Info  ]       Replaces ----- start = 02/02/2020 17:10:00 stop = 02/02/2020 18:00:00 title = Smrtonosna Inteligencija
-[  Info  ]       Replaces ----- start = 02/02/2020 18:00:00 stop = 02/02/2020 18:55:00 title = Nil: 5000 Godina Povijesti
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 06:00:00 stop = 04/02/2020 06:25:00 title = Opaki Izumi
-[  Info  ]       Replaces ----- start = 04/02/2020 04:15:00 stop = 04/02/2020 06:15:00 title = Muzejske Tajne
-[  Info  ]       Replaces ----- start = 04/02/2020 06:15:00 stop = 04/02/2020 07:10:00 title = Mitovi I Čudovišta
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 14:35:00 stop = 04/02/2020 15:50:00 title = Ratišta
-[  Info  ]       Replaces ----- start = 04/02/2020 14:30:00 stop = 04/02/2020 15:25:00 title = Osam Dana Koji Su Stvorili Rim
-[  Info  ]       Replaces ----- start = 04/02/2020 15:25:00 stop = 04/02/2020 16:15:00 title = Osam Dana Koji Su Stvorili Rim
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 15:50:00 stop = 04/02/2020 17:00:00 title = Ratišta
-[  Info  ]       Replaces ----- start = 04/02/2020 15:25:00 stop = 04/02/2020 16:15:00 title = Osam Dana Koji Su Stvorili Rim
-[  Info  ]       Replaces ----- start = 04/02/2020 16:15:00 stop = 04/02/2020 17:10:00 title = Osam Dana Koji Su Stvorili Rim
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/02/2020 17:00:00 stop = 04/02/2020 18:10:00 title = Ratišta
-[  Info  ]       Replaces ----- start = 04/02/2020 16:15:00 stop = 04/02/2020 17:10:00 title = Osam Dana Koji Su Stvorili Rim
-[  Info  ]       Replaces ----- start = 04/02/2020 17:10:00 stop = 04/02/2020 18:15:00 title = Nevidljivi Rimski Grad
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 06:00:00 stop = 05/02/2020 06:30:00 title = Opaki Izumi
-[  Info  ]       Replaces ----- start = 05/02/2020 05:00:00 stop = 05/02/2020 06:15:00 title = Muzejske Tajne
-[  Info  ]       Replaces ----- start = 05/02/2020 06:15:00 stop = 05/02/2020 06:45:00 title = Opaki Izumi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 12:45:00 stop = 05/02/2020 13:40:00 title = Zemljovidi Ubojstava
-[  Info  ]       Replaces ----- start = 05/02/2020 12:05:00 stop = 05/02/2020 12:55:00 title = Smrtonosna Inteligencija
-[  Info  ]       Replaces ----- start = 05/02/2020 12:55:00 stop = 05/02/2020 13:50:00 title = Zemljovidi Ubojstava
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 13:40:00 stop = 05/02/2020 14:35:00 title = Zemljovidi Ubojstava
-[  Info  ]       Replaces ----- start = 05/02/2020 12:55:00 stop = 05/02/2020 13:50:00 title = Zemljovidi Ubojstava
-[  Info  ]       Replaces ----- start = 05/02/2020 13:50:00 stop = 05/02/2020 14:45:00 title = Zemljovidi Ubojstava
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 18:25:00 stop = 05/02/2020 19:20:00 title = Tajne Velikih Britanskih Dvoraca
-[  Info  ]       Replaces ----- start = 05/02/2020 18:20:00 stop = 05/02/2020 19:00:00 title = Tajne Velikih Britanskih Dvoraca
-[  Info  ]       Replaces ----- start = 05/02/2020 19:00:00 stop = 05/02/2020 20:05:00 title = Borbeni Brodovi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 22:55:00 stop = 05/02/2020 23:50:00 title = Neobjašnjene Tajne Drevnog Egipta
-[  Info  ]       Replaces ----- start = 05/02/2020 22:45:00 stop = 05/02/2020 23:40:00 title = Neobjašnjene Tajne Drevnog Egipta
-[  Info  ]       Replaces ----- start = 05/02/2020 23:40:00 stop = 06/02/2020 00:40:00 title = Neobjašnjene Tajne Drevnog Egipta
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/02/2020 04:45:00 stop = 06/02/2020 05:10:00 title = Opaki Izumi
-[  Info  ]       Replaces ----- start = 06/02/2020 04:35:00 stop = 06/02/2020 05:00:00 title = Opaki Izumi
-[  Info  ]       Replaces ----- start = 06/02/2020 05:00:00 stop = 06/02/2020 06:05:00 title = Muzejske Tajne
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:55
 [  Info  ] 
-[  Info  ]    Summary for update of       VIASAT HISTORY
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     71
-[  Info  ]      new shows added           43
-[  Info  ]      unchanged shows inspected 70
-[  Info  ]      total after update        184
-
 [  Debug ] 
 [  Info  ] channel Histo same as -- VIASAT HISTORY -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Histo
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     184
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        324
-
 [  Debug ] 
 [  Info  ] (  43/73  ) A1.HR -- chan. (xmltv_id=VIASAT EXPLORE) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:35
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:25
 [  Info  ] 
-[  Info  ]    Summary for update of       VIASAT EXPLORE
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           57
-[  Info  ]      unchanged shows inspected 167
-[  Info  ]      total after update        224
-
 [  Debug ] 
 [  Info  ] channel Explo same as -- VIASAT EXPLORE -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Explo
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     224
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        391
-
 [  Debug ] 
 [  Info  ] (  45/73  ) A1.HR -- chan. (xmltv_id=FINE LIVING) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:30
 [  Info  ] 
 [  Info  ]    Summary for update of       FINE LIVING
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           86
-[  Info  ]      unchanged shows inspected 274
-[  Info  ]      total after update        360
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 312
+[  Info  ]      total after update        324
 
 [  Debug ] 
 [  Info  ] channel FineL same as -- FINE LIVING -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       FineL
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     360
+[  Info  ]      changed shows updated     324
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        634
+[  Info  ]      total after update        636
 
 [  Debug ] 
 [  Info  ] (  47/73  ) A1.HR -- chan. (xmltv_id=WNESS TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 22:30
 [  Info  ] 
 [  Info  ]    Summary for update of       WNESS TV
 [  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 26
-[  Info  ]      total after update        26
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
 
 [  Debug ] 
 [  Info  ] channel Wness same as -- WNESS TV -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       Wness
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     26
-[  Info  ]      new shows added           0
+[  Info  ]      no changes, no update necessary !
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        52
+[  Info  ]      total after update        0
 
 [  Debug ] 
 [  Info  ] (  49/73  ) A1.HR -- chan. (xmltv_id=WOMAN) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:34
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 04:11:00 stop = 03/02/2020 05:00:00 title = Kokteli Sa Khloé
-[  Info  ]       Replaces ----- start = 03/02/2020 04:11:00 stop = 03/02/2020 04:59:00 title = Kokteli Sa Khloé
-[  Info  ]       Replaces ----- start = 03/02/2020 04:59:00 stop = 03/02/2020 05:45:00 title = Vrhunski Kuhar: Samo Deserti
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/02/2020 05:00:00 stop = 03/02/2020 05:45:00 title = Vrhunski Kuhar: Samo Deserti
-[  Info  ]       Replaces ----- start = 03/02/2020 04:59:00 stop = 03/02/2020 05:45:00 title = Vrhunski Kuhar: Samo Deserti
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 03:25:00 stop = 05/02/2020 03:48:00 title = Tygin Kraljevski Stil
-[  Info  ]       Replaces ----- start = 05/02/2020 03:25:00 stop = 05/02/2020 03:47:00 title = Tygin Kraljevski Stil
-[  Info  ]       Replaces ----- start = 05/02/2020 03:47:00 stop = 05/02/2020 04:11:00 title = Tygin Kraljevski Stil
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/02/2020 03:48:00 stop = 05/02/2020 04:11:00 title = Tygin Kraljevski Stil
-[  Info  ]       Replaces ----- start = 05/02/2020 03:47:00 stop = 05/02/2020 04:11:00 title = Tygin Kraljevski Stil
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:10
 [  Info  ] 
 [  Info  ]    Summary for update of       WOMAN
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     4
-[  Info  ]      new shows added           58
-[  Info  ]      unchanged shows inspected 176
-[  Info  ]      total after update        238
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           10
+[  Info  ]      unchanged shows inspected 205
+[  Info  ]      total after update        215
 
 [  Debug ] 
 [  Info  ] (  50/73  ) A1.HR -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:10
 [  Info  ] 
 [  Info  ]    Summary for update of       Z1
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           49
-[  Info  ]      unchanged shows inspected 233
-[  Info  ]      total after update        282
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 247
+[  Info  ]      total after update        247
 
 [  Debug ] 
 [  Info  ] (  51/73  ) A1.HR -- chan. (xmltv_id=JABUKA TV) -- mode Incremental
@@ -1502,52 +427,50 @@
 [  Info  ] channel Jabuk same as -- JABUKA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  53/73  ) A1.HR -- chan. (xmltv_id=MREŽAZG) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:00
 [  Info  ] 
 [  Info  ]    Summary for update of       MREŽAZG
 [  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 30
-[  Info  ]      total after update        30
+[  Info  ]      unchanged shows inspected 1
+[  Info  ]      total after update        1
 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- MREŽAZG -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       Mreža
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     30
+[  Info  ]      changed shows updated     1
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        60
+[  Info  ]      total after update        2
 
 [  Debug ] 
 [  Info  ] (  55/73  ) A1.HR -- chan. (xmltv_id=N1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:00
 [  Info  ] 
 [  Info  ]    Summary for update of       N1
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           94
-[  Info  ]      unchanged shows inspected 247
-[  Info  ]      total after update        341
+[  Info  ]      new shows added           11
+[  Info  ]      unchanged shows inspected 290
+[  Info  ]      total after update        301
 
 [  Debug ] 
 [  Info  ] (  56/73  ) A1.HR -- chan. (xmltv_id=SPORTSKA TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:55
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:00
 [  Info  ] 
 [  Info  ]    Summary for update of       SPORTSKA TV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           219
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        219
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 190
+[  Info  ]      total after update        190
 
 [  Debug ] 
 [  Info  ] channel SPTV same as -- SPORTSKA TV -- time offset 0 hour(s)
 [  Info  ]    Summary for update of       SPTV
 [  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     219
+[  Info  ]      changed shows updated     190
 [  Info  ]      new shows added           0
 [  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        219
+[  Info  ]      total after update        380
 
 [  Debug ] 
 [  Info  ] (  58/73  ) A1.HR -- chan. (xmltv_id=INFO KANAL) -- mode Incremental
@@ -1556,66 +479,43 @@
 [  Info  ] channel Bnet same as -- INFO KANAL -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  60/73  ) A1.HR -- chan. (xmltv_id=SK 1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 22:55
 [  Info  ] 
 [  Info  ]    Summary for update of       SK 1
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           37
-[  Info  ]      unchanged shows inspected 91
-[  Info  ]      total after update        128
+[  Info  ]      new shows added           3
+[  Info  ]      unchanged shows inspected 112
+[  Info  ]      total after update        115
 
 [  Debug ] 
 [  Info  ] (  61/73  ) A1.HR -- chan. (xmltv_id=SK 3) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:05
 [  Info  ] 
 [  Info  ]    Summary for update of       SK 3
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           33
-[  Info  ]      unchanged shows inspected 96
-[  Info  ]      total after update        129
+[  Info  ]      new shows added           3
+[  Info  ]      unchanged shows inspected 114
+[  Info  ]      total after update        117
 
 [  Debug ] 
 [  Info  ] (  62/73  ) A1.HR -- chan. (xmltv_id=CARTOON NETWORK) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:53
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:53
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 04/02/2020 15:34:00 stop = 04/02/2020 15:45:00 title = Craig Of The Creek
+[  Info  ]       Replaces ----- start = 04/02/2020 15:19:00 stop = 04/02/2020 15:35:00 title = Teen Titans Go! Elements
+[  Info  ]       Replaces ----- start = 04/02/2020 15:35:00 stop = 04/02/2020 15:45:00 title = Craig Of The Creek
 [  Info  ] 
-[  Info  ]    Summary for update of       CARTOON NETWORK
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     96
-[  Info  ]      new shows added           208
-[  Info  ]      unchanged shows inspected 517
-[  Info  ]      total after update        821
-
 [  Debug ] 
 [  Info  ] channel CN same as -- CARTOON NETWORK -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       CN
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     821
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        1434
-
 [  Debug ] 
 [  Info  ] (  64/73  ) A1.HR -- chan. (xmltv_id=NICKELODEON) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:50
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:50
 [  Info  ] 
-[  Info  ]    Summary for update of       NICKELODEON
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           139
-[  Info  ]      unchanged shows inspected 410
-[  Info  ]      total after update        549
-
 [  Debug ] 
 [  Info  ] channel Nicke same as -- NICKELODEON -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Nicke
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     549
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        959
-
 [  Debug ] 
 [  Info  ] (  66/73  ) A1.HR -- chan. (xmltv_id=DISNEY CHANNEL) -- mode Incremental
 [Error   ] no shows in indexpage!
@@ -1624,43 +524,67 @@
 [  Info  ] channel Disne same as -- DISNEY CHANNEL -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  68/73  ) A1.HR -- chan. (xmltv_id=MINI TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:10
 [  Info  ] 
+[  Info  ]    Summary for update of       MINI TV
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 186
+[  Info  ]      total after update        186
+
 [  Debug ] 
 [  Info  ] channel Mini same as -- MINI TV -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       Mini
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     186
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        372
+
 [  Debug ] 
 [  Info  ] (  70/73  ) A1.HR -- chan. (xmltv_id=MTV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:30
 [  Info  ] 
 [  Info  ]    Summary for update of       MTV
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           46
-[  Info  ]      unchanged shows inspected 128
-[  Info  ]      total after update        174
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 148
+[  Info  ]      total after update        153
 
 [  Debug ] 
 [  Info  ] (  71/73  ) A1.HR -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:35
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:00
 [  Info  ] 
 [  Info  ]    Summary for update of       VH1
 [  Info  ]      missing shows added       0
 [  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           26
-[  Info  ]      unchanged shows inspected 74
-[  Info  ]      total after update        100
+[  Info  ]      new shows added           3
+[  Info  ]      unchanged shows inspected 87
+[  Info  ]      total after update        90
 
 [  Debug ] 
 [  Info  ] (  72/73  ) A1.HR -- chan. (xmltv_id=CROATIAN MUSIC CHANNEL) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 01/02/2020 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 02/02/2020 23:00
 [  Info  ] 
+[  Info  ]    Summary for update of       CROATIAN MUSIC CHANNEL
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 105
+[  Info  ]      total after update        105
+
 [  Debug ] 
 [  Info  ] channel CMC same as -- CROATIAN MUSIC CHANNEL -- time offset 0 hour(s)
+[  Info  ]    Summary for update of       CMC
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     105
+[  Info  ]      new shows added           0
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        210
+
 [  Debug ] 
-[  Debug ] 16958 shows in 73 channels
-[  Debug ] 733 updated shows
-[  Debug ] 2546 new shows added
+[  Debug ] 14993 shows in 73 channels
+[  Debug ] 97 updated shows
+[  Debug ] 239 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 02/02/2020 14:26:11 done in 8m 46s
+[        ] Job finished at 03/02/2020 00:08:32 done in 7m 17s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
