@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 03/03/2020 12:01:15
+[        ] Job started at 04/03/2020 00:01:16
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.5.7.50507
 [  Debug ] Environment: 4.0.30319.42000
@@ -105,1303 +105,689 @@
 [  Info  ] (   1/73  ) A1.HR -- chan. (xmltv_id=HTV 1) -- mode Incremental
 [Warning ] no robots data found
 [Warning ] skipped robots check
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:23
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 01:25:00 stop = 03/03/2020 02:07:00 title = Dr. Oz (8) Show
-[  Info  ]       Replaces ----- start = 03/03/2020 01:24:00 stop = 03/03/2020 02:06:00 title = Dr. Oz (8) Show
-[  Info  ]       Replaces ----- start = 03/03/2020 02:06:00 stop = 03/03/2020 02:21:00 title = Dnevnik 3
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 02:07:00 stop = 03/03/2020 02:23:00 title = Dnevnik 3
-[  Info  ]       Replaces ----- start = 03/03/2020 02:06:00 stop = 03/03/2020 02:21:00 title = Dnevnik 3
-[  Info  ]       Replaces ----- start = 03/03/2020 02:21:00 stop = 03/03/2020 02:24:00 title = Sport
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 02:23:00 stop = 03/03/2020 02:26:00 title = Sport
-[  Info  ]       Replaces ----- start = 03/03/2020 02:21:00 stop = 03/03/2020 02:24:00 title = Sport
-[  Info  ]       Replaces ----- start = 03/03/2020 02:24:00 stop = 03/03/2020 02:32:00 title = Vijesti Iz Kulture
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 02:26:00 stop = 03/03/2020 02:35:00 title = Vijesti Iz Kulture
-[  Info  ]       Replaces ----- start = 03/03/2020 02:24:00 stop = 03/03/2020 02:32:00 title = Vijesti Iz Kulture
-[  Info  ]       Replaces ----- start = 03/03/2020 02:32:00 stop = 03/03/2020 03:21:00 title = Neukroćena Italija Glavni Grabežljivci: Rim Krilati Lovci
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 04:52:00 stop = 03/03/2020 04:59:00 title = Fotografija U Hrvatskoj:peter Salcher
-[  Info  ]       Replaces ----- start = 03/03/2020 04:50:00 stop = 03/03/2020 05:04:00 title = Skica Za Portret
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 04:59:00 stop = 03/03/2020 05:44:00 title = Dnevnik 2
-[  Info  ]       Replaces ----- start = 03/03/2020 04:50:00 stop = 03/03/2020 05:04:00 title = Skica Za Portret
-[  Info  ]       Replaces ----- start = 03/03/2020 05:04:00 stop = 03/03/2020 05:46:00 title = Dnevnik 2
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:09:00 stop = 03/03/2020 11:35:00 title = Glas Domovine
-[  Info  ]       Replaces ----- start = 03/03/2020 11:09:00 stop = 03/03/2020 11:34:00 title = Glas Domovine
-[  Info  ]       Replaces ----- start = 03/03/2020 11:34:00 stop = 03/03/2020 11:42:00 title = Informativka: Kiropraktika
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:35:00 stop = 03/03/2020 11:43:00 title = Informativka: Kiropraktika
-[  Info  ]       Replaces ----- start = 03/03/2020 11:34:00 stop = 03/03/2020 11:42:00 title = Informativka: Kiropraktika
-[  Info  ]       Replaces ----- start = 03/03/2020 11:42:00 stop = 03/03/2020 12:00:00 title = Tv Kalendar
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:43:00 stop = 03/03/2020 12:00:00 title = Tv Kalendar
-[  Info  ]       Replaces ----- start = 03/03/2020 11:42:00 stop = 03/03/2020 12:00:00 title = Tv Kalendar
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:18:00 stop = 03/03/2020 12:27:00 title = Vrijeme
-[  Info  ]       Replaces ----- start = 03/03/2020 12:18:00 stop = 03/03/2020 12:26:00 title = Vrijeme
-[  Info  ]       Replaces ----- start = 03/03/2020 12:26:00 stop = 03/03/2020 13:18:00 title = Divlja Zemlja
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 13:19:00 stop = 03/03/2020 14:03:00 title = Dr. Oz (8) Show
-[  Info  ]       Replaces ----- start = 03/03/2020 13:18:00 stop = 03/03/2020 14:03:00 title = Dr. Oz (8) Show
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 14:03:00 stop = 03/03/2020 14:31:00 title = Znanstveni Krugovi
-[  Info  ]       Replaces ----- start = 03/03/2020 14:03:00 stop = 03/03/2020 14:32:00 title = Znanstveni Krugovi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 14:31:00 stop = 03/03/2020 15:00:00 title = Zdrav Život
-[  Info  ]       Replaces ----- start = 03/03/2020 14:03:00 stop = 03/03/2020 14:32:00 title = Znanstveni Krugovi
-[  Info  ]       Replaces ----- start = 03/03/2020 14:32:00 stop = 03/03/2020 15:00:00 title = Zdrav Život
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 04:53:00 stop = 04/03/2020 05:06:00 title = Skica Za Portret
-[  Info  ]       Replaces ----- start = 04/03/2020 04:53:00 stop = 04/03/2020 05:07:00 title = Skica Za Portret
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 05:06:00 stop = 04/03/2020 05:48:00 title = Dnevnik 2
-[  Info  ]       Replaces ----- start = 04/03/2020 04:53:00 stop = 04/03/2020 05:07:00 title = Skica Za Portret
-[  Info  ]       Replaces ----- start = 04/03/2020 05:07:00 stop = 04/03/2020 05:49:00 title = Dnevnik 2
-[  Info  ] 
-[  Info  ]    Summary for update of       HTV 1
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     25
-[  Info  ]      new shows added           40
-[  Info  ]      unchanged shows inspected 284
-[  Info  ]      total after update        349
-
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Error   ] Unable to update channel HTV 1
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from HTV 1
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel HRT 1 same as -- HTV 1 -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       HRT 1
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     349
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        658
-
 [  Debug ] 
-[  Info  ] (   3/73  ) A1.HR -- chan. (xmltv_id=HTV 2) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:31
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 01:53:00 stop = 03/03/2020 04:59:00 title = Noćni Glazbeni Program Spotovi
-[  Info  ]       Replaces ----- start = 03/03/2020 01:51:00 stop = 03/03/2020 04:56:00 title = Noćni Glazbeni Program Spotovi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 08/03/2020 19:05:00 stop = 08/03/2020 19:59:00 title = Đani Stipaničev To Je Tvoja Zemlja(2.dio)
-[  Info  ]       Replaces ----- start = 08/03/2020 19:05:00 stop = 08/03/2020 19:59:00 title = Koncerti I Festivali Zabavne Glazbe
-[  Info  ] 
-[  Info  ]    Summary for update of       HTV 2
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     6
-[  Info  ]      new shows added           68
-[  Info  ]      unchanged shows inspected 370
-[  Info  ]      total after update        444
-
+[  Info  ] (   2/73  ) A1.HR -- chan. (xmltv_id=HTV 2) -- mode Incremental
+[Error   ] Unable to update channel HTV 2
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from HTV 2
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel HRT 2 same as -- HTV 2 -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       HRT 2
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     444
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        820
-
 [  Debug ] 
-[  Info  ] (   5/73  ) A1.HR -- chan. (xmltv_id=HTV 3) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:21
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 06:04:00 stop = 03/03/2020 06:34:00 title = Zlatni Klasici: Legenda O Atlantidi (2. Dio)
-[  Info  ]       Replaces ----- start = 03/03/2020 06:04:00 stop = 03/03/2020 06:35:00 title = Zlatni Klasici: Legenda O Atlantidi (2. Dio)
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 17:35:00 stop = 03/03/2020 18:27:00 title = Kraljičini Otoci: Otočje Scilly
-[  Info  ]       Replaces ----- start = 03/03/2020 17:35:00 stop = 03/03/2020 18:28:00 title = Kraljičini Otoci: Otočje Scilly
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 21:07:00 stop = 03/03/2020 21:37:00 title = Knjiga Ili Život: Dubravka Zimafranolić I Marina Vujčić
-[  Info  ]       Replaces ----- start = 03/03/2020 21:07:00 stop = 03/03/2020 21:38:00 title = Knjiga Ili Život: Dubravka Zimafranolić I Marina Vujčić
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 21:37:00 stop = 03/03/2020 22:27:00 title = Animatik
-[  Info  ]       Replaces ----- start = 03/03/2020 21:07:00 stop = 03/03/2020 21:38:00 title = Knjiga Ili Život: Dubravka Zimafranolić I Marina Vujčić
-[  Info  ]       Replaces ----- start = 03/03/2020 21:38:00 stop = 03/03/2020 22:28:00 title = Animatik
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 22:27:00 stop = 03/03/2020 22:53:00 title = Glazbeni Specijal: Simple Minds Od
-[  Info  ]       Replaces ----- start = 03/03/2020 21:38:00 stop = 03/03/2020 22:28:00 title = Animatik
-[  Info  ]       Replaces ----- start = 03/03/2020 22:28:00 stop = 03/03/2020 22:53:00 title = Glazbeni Specijal: Simple Minds Od
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 00:52:00 stop = 04/03/2020 01:02:00 title = Vijesti Iz Kulture
-[  Info  ]       Replaces ----- start = 03/03/2020 23:15:00 stop = 04/03/2020 00:53:00 title = 71 Fragment Kronologije Slučajnosti Njemački Film Ciklus Michaela Hanekea
-[  Info  ]       Replaces ----- start = 04/03/2020 00:53:00 stop = 04/03/2020 01:02:00 title = Vijesti Iz Kulture
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 02:22:00 stop = 04/03/2020 03:37:00 title = Vrijeme Je Za Jazz: Thana Pavelić Quartet
-[  Info  ]       Replaces ----- start = 04/03/2020 01:33:00 stop = 04/03/2020 02:23:00 title = Od Zemlje Ne Mo'š Bez Zemlje Se Ne Živi
-[  Info  ]       Replaces ----- start = 04/03/2020 02:23:00 stop = 04/03/2020 03:38:00 title = Vrijeme Je Za Jazz: Thana Pavelić Quartet
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 03:37:00 stop = 04/03/2020 04:08:00 title = Svjetski Prvak
-[  Info  ]       Replaces ----- start = 04/03/2020 02:23:00 stop = 04/03/2020 03:38:00 title = Vrijeme Je Za Jazz: Thana Pavelić Quartet
-[  Info  ]       Replaces ----- start = 04/03/2020 03:38:00 stop = 04/03/2020 04:08:00 title = Svjetski Prvak
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/03/2020 08:25:00 stop = 06/03/2020 09:10:00 title = Tate Britain's Great British Walks
-[  Info  ]       Replaces ----- start = 06/03/2020 08:25:00 stop = 06/03/2020 09:15:00 title = Tate Britain's Great British Walks
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/03/2020 10:00:00 stop = 06/03/2020 10:10:00 title = Fotografija U Hrvatskoj: Foto Tonka
-[  Info  ]       Replaces ----- start = 06/03/2020 09:15:00 stop = 06/03/2020 10:10:00 title = Strana Dokumentarna Serija
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/03/2020 10:20:00 stop = 06/03/2020 11:05:00 title = Fabrio Patristika Fluminensia
-[  Info  ]       Replaces ----- start = 06/03/2020 10:20:00 stop = 06/03/2020 10:30:00 title = Dokumentarna Emisija/film Kratka Forma
-[  Info  ]       Replaces ----- start = 06/03/2020 10:30:00 stop = 06/03/2020 11:00:00 title = Dokumentarna Serija Domaća
-[  Info  ]       Replaces ----- start = 06/03/2020 11:00:00 stop = 06/03/2020 11:30:00 title = Svijet Klasike: Lucia Di Lammermoor
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/03/2020 11:05:00 stop = 06/03/2020 11:35:00 title = Svijet Klasike: Lucia Di Lammermoor
-[  Info  ]       Replaces ----- start = 06/03/2020 11:00:00 stop = 06/03/2020 11:30:00 title = Svijet Klasike: Lucia Di Lammermoor
-[  Info  ]       Replaces ----- start = 06/03/2020 11:30:00 stop = 06/03/2020 12:30:00 title = Vrijeme Je Za Jazz: Big Band Hrt A
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/03/2020 11:35:00 stop = 06/03/2020 12:35:00 title = Vrijeme Je Za Jazz: Big Band Hrt A
-[  Info  ]       Replaces ----- start = 06/03/2020 11:30:00 stop = 06/03/2020 12:30:00 title = Vrijeme Je Za Jazz: Big Band Hrt A
-[  Info  ]       Replaces ----- start = 06/03/2020 12:30:00 stop = 06/03/2020 12:40:00 title = Dokumentarna Emisija/film Kratka Forma
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/03/2020 15:25:00 stop = 06/03/2020 15:50:00 title = Zlatni Klasici: Ljepotica I Zvijer (2. Dio)(25:40)
-[  Info  ]       Replaces ----- start = 06/03/2020 15:00:00 stop = 06/03/2020 15:30:00 title = Jeste Li Posluženi
-[  Info  ]       Replaces ----- start = 06/03/2020 15:30:00 stop = 06/03/2020 15:55:00 title = Zlatni Klasici: Ljepotica I Zvijer (2. Dio)(25:40)
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/03/2020 18:45:00 stop = 06/03/2020 20:05:00 title = Chansonfest (1. Dio)
-[  Info  ]       Replaces ----- start = 06/03/2020 18:25:00 stop = 06/03/2020 18:50:00 title = Nove Pustolovine Lucky Lukea: Odvjetnika Za Daltone(22:47)
-[  Info  ]       Replaces ----- start = 06/03/2020 18:50:00 stop = 06/03/2020 20:05:00 title = Koncerti Pop I Rock Glazbe
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 07/03/2020 00:15:00 stop = 07/03/2020 01:00:00 title = Poljički Pastir U Pastvi Gradišća
-[  Info  ]       Replaces ----- start = 07/03/2020 00:15:00 stop = 07/03/2020 00:30:00 title = Dokumentarna Emisija/film Kratka Forma
-[  Info  ]       Replaces ----- start = 07/03/2020 00:30:00 stop = 07/03/2020 01:00:00 title = Dokumentarna Emisija/film Domaći
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 07/03/2020 02:35:00 stop = 07/03/2020 03:55:00 title = Chansonfest (1. Dio)
-[  Info  ]       Replaces ----- start = 07/03/2020 02:30:00 stop = 07/03/2020 03:45:00 title = Koncerti Pop I Rock Glazbe
-[  Info  ]       Replaces ----- start = 07/03/2020 03:45:00 stop = 07/03/2020 03:55:00 title = Dokumentarna Emisija/film Kratka Forma
-[  Info  ] 
-[  Info  ]    Summary for update of       HTV 3
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     38
-[  Info  ]      new shows added           23
-[  Info  ]      unchanged shows inspected 168
-[  Info  ]      total after update        229
-
+[  Info  ] (   3/73  ) A1.HR -- chan. (xmltv_id=HTV 3) -- mode Incremental
+[Error   ] Unable to update channel HTV 3
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from HTV 3
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel HRT 3 same as -- HTV 3 -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       HRT 3
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     229
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        438
-
 [  Debug ] 
-[  Info  ] (   7/73  ) A1.HR -- chan. (xmltv_id=HTV 4) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:35
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 06:00:00 stop = 03/03/2020 06:07:00 title = Vijesti Na Engleskom Jeziku
-[  Info  ]       Replaces ----- start = 03/03/2020 06:00:00 stop = 03/03/2020 06:08:00 title = Vijesti Na Engleskom Jeziku
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 06:07:00 stop = 03/03/2020 06:10:00 title = Bez Komentara: 3d Printer
-[  Info  ]       Replaces ----- start = 03/03/2020 06:00:00 stop = 03/03/2020 06:08:00 title = Vijesti Na Engleskom Jeziku
-[  Info  ]       Replaces ----- start = 03/03/2020 06:08:00 stop = 03/03/2020 06:10:00 title = Bez Komentara
-[  Info  ] 
-[  Info  ]    Summary for update of       HTV 4
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     3
-[  Info  ]      new shows added           73
-[  Info  ]      unchanged shows inspected 601
-[  Info  ]      total after update        677
-
+[  Info  ] (   4/73  ) A1.HR -- chan. (xmltv_id=HTV 4) -- mode Incremental
+[Error   ] Unable to update channel HTV 4
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from HTV 4
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel HRT 4 same as -- HTV 4 -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       HRT 4
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     677
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        1281
-
 [  Debug ] 
-[  Info  ] (   9/73  ) A1.HR -- chan. (xmltv_id=NOVA TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:55
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 05:00:00 stop = 03/03/2020 05:05:00 title = Kraj Programa
-[  Info  ]       Replaces ----- start = 03/03/2020 05:00:00 stop = 03/03/2020 05:20:00 title = Kraj Programa
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 05:05:00 stop = 03/03/2020 06:05:00 title = Dnevnik Nove Tv
-[  Info  ]       Replaces ----- start = 03/03/2020 05:00:00 stop = 03/03/2020 05:20:00 title = Kraj Programa
-[  Info  ]       Replaces ----- start = 03/03/2020 05:20:00 stop = 03/03/2020 06:20:00 title = Dnevnik Nove Tv
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 17:00:00 stop = 03/03/2020 17:35:00 title = Vijesti Nove Tv
-[  Info  ]       Replaces ----- start = 03/03/2020 17:00:00 stop = 03/03/2020 17:30:00 title = Vijesti Nove Tv
-[  Info  ]       Replaces ----- start = 03/03/2020 17:30:00 stop = 03/03/2020 19:15:00 title = Ždrijeb Lige Nacija Prijenos
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 19:15:00 stop = 03/03/2020 20:20:00 title = Dnevnik Nove Tv
-[  Info  ]       Replaces ----- start = 03/03/2020 19:15:00 stop = 03/03/2020 20:15:00 title = Dnevnik Nove Tv
-[  Info  ]       Replaces ----- start = 03/03/2020 20:15:00 stop = 03/03/2020 21:00:00 title = Lud
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 04:05:00 stop = 04/03/2020 05:05:00 title = Astro Savjetnik
-[  Info  ]       Replaces ----- start = 04/03/2020 03:35:00 stop = 04/03/2020 04:15:00 title = Zaboravljeni Slučaj
-[  Info  ]       Replaces ----- start = 04/03/2020 04:15:00 stop = 04/03/2020 05:10:00 title = Astro Savjetnik
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 05:05:00 stop = 04/03/2020 05:15:00 title = Kraj Programa
-[  Info  ]       Replaces ----- start = 04/03/2020 04:15:00 stop = 04/03/2020 05:10:00 title = Astro Savjetnik
-[  Info  ]       Replaces ----- start = 04/03/2020 05:10:00 stop = 04/03/2020 05:15:00 title = Kraj Programa
-[  Info  ] 
-[  Info  ]    Summary for update of       NOVA TV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     30
-[  Info  ]      new shows added           30
-[  Info  ]      unchanged shows inspected 141
-[  Info  ]      total after update        201
-
+[  Info  ] (   5/73  ) A1.HR -- chan. (xmltv_id=NOVA TV) -- mode Incremental
+[Error   ] Unable to update channel NOVA TV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from NOVA TV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       NOVA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     201
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        370
-
 [  Debug ] 
-[  Info  ] (  11/73  ) A1.HR -- chan. (xmltv_id=RTL) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:45
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 07:40:00 stop = 03/03/2020 08:30:00 title = Kupuj I Prodaj
-[  Info  ]       Replaces ----- start = 03/03/2020 07:25:00 stop = 03/03/2020 07:55:00 title = Slugterra
-[  Info  ]       Replaces ----- start = 03/03/2020 07:55:00 stop = 03/03/2020 08:50:00 title = Kupuj I Prodaj
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 09:25:00 stop = 03/03/2020 09:40:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 08:50:00 stop = 03/03/2020 09:40:00 title = Grand Designs
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 10:30:00 stop = 03/03/2020 10:45:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 09:55:00 stop = 03/03/2020 10:55:00 title = Glas Srca
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:45:00 stop = 03/03/2020 12:00:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 11:10:00 stop = 03/03/2020 12:10:00 title = Cobra 11
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:00:00 stop = 03/03/2020 13:00:00 title = Kupuj I Prodaj
-[  Info  ]       Replaces ----- start = 03/03/2020 11:10:00 stop = 03/03/2020 12:10:00 title = Cobra 11
-[  Info  ]       Replaces ----- start = 03/03/2020 12:10:00 stop = 03/03/2020 12:25:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 12:25:00 stop = 03/03/2020 13:15:00 title = Kupuj I Prodaj
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 16:30:00 stop = 03/03/2020 16:55:00 title = Rtl Vijesti
-[  Info  ]       Replaces ----- start = 03/03/2020 16:30:00 stop = 03/03/2020 17:00:00 title = Rtl Vijesti
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 22:15:00 stop = 03/03/2020 22:50:00 title = Rtl Direkt
-[  Info  ]       Replaces ----- start = 03/03/2020 22:15:00 stop = 03/03/2020 22:55:00 title = Rtl Direkt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 23:40:00 stop = 04/03/2020 00:35:00 title = Zločini Koji Su Potresli Britaniju
-[  Info  ]       Replaces ----- start = 03/03/2020 22:55:00 stop = 03/03/2020 23:50:00 title = Brave
-[  Info  ]       Replaces ----- start = 03/03/2020 23:50:00 stop = 04/03/2020 00:45:00 title = Zločini Koji Su Potresli Britaniju
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 02:40:00 stop = 04/03/2020 06:05:00 title = Rtl Vrijeme
-[  Info  ]       Replaces ----- start = 04/03/2020 02:40:00 stop = 04/03/2020 02:50:00 title = Rtl Sport
-[  Info  ]       Replaces ----- start = 04/03/2020 02:50:00 stop = 04/03/2020 06:05:00 title = Rtl Vrijeme
-[  Info  ] 
-[  Info  ]    Summary for update of       RTL
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     24
-[  Info  ]      new shows added           26
-[  Info  ]      unchanged shows inspected 154
-[  Info  ]      total after update        204
-
+[  Info  ] (   6/73  ) A1.HR -- chan. (xmltv_id=RTL) -- mode Incremental
+[Error   ] Unable to update channel RTL
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from RTL
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  12/73  ) A1.HR -- chan. (xmltv_id=DOMA TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:40
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 04:00:00 stop = 03/03/2020 04:05:00 title = Kraj Programa
-[  Info  ]       Replaces ----- start = 03/03/2020 03:40:00 stop = 03/03/2020 04:35:00 title = Kraj Programa
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 05:45:00 stop = 03/03/2020 06:10:00 title = Zdravlje Na Kvadrat
-[  Info  ]       Replaces ----- start = 03/03/2020 05:05:00 stop = 03/03/2020 05:50:00 title = Larin Izbor
-[  Info  ]       Replaces ----- start = 03/03/2020 05:50:00 stop = 03/03/2020 06:35:00 title = Scott I Bailey
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 10:05:00 stop = 03/03/2020 10:45:00 title = Smrtonosni Ulov: Mamac
-[  Info  ]       Replaces ----- start = 03/03/2020 10:00:00 stop = 03/03/2020 10:30:00 title = Smrtonosni Ulov: Mamac
-[  Info  ]       Replaces ----- start = 03/03/2020 10:30:00 stop = 03/03/2020 10:45:00 title = Tv Izlog
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:00:00 stop = 03/03/2020 11:35:00 title = Smrtonosni Ulov: Mamac
-[  Info  ]       Replaces ----- start = 03/03/2020 10:45:00 stop = 03/03/2020 11:10:00 title = Smrtonosni Ulov: Mamac
-[  Info  ]       Replaces ----- start = 03/03/2020 11:10:00 stop = 03/03/2020 11:25:00 title = Tv Izlog
-[  Info  ]       Replaces ----- start = 03/03/2020 11:25:00 stop = 03/03/2020 12:15:00 title = Smrtonosni Ulov: Mamac
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:50:00 stop = 03/03/2020 12:35:00 title = Smrtonosni Ulov: Mamac
-[  Info  ]       Replaces ----- start = 03/03/2020 11:25:00 stop = 03/03/2020 12:15:00 title = Smrtonosni Ulov: Mamac
-[  Info  ]       Replaces ----- start = 03/03/2020 12:15:00 stop = 03/03/2020 12:30:00 title = Tv Izlog
-[  Info  ]       Replaces ----- start = 03/03/2020 12:30:00 stop = 03/03/2020 13:20:00 title = Smrtonosni Ulov: Mamac
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:50:00 stop = 03/03/2020 13:10:00 title = Smrtonosni Ulov: Mamac
-[  Info  ]       Replaces ----- start = 03/03/2020 12:30:00 stop = 03/03/2020 13:20:00 title = Smrtonosni Ulov: Mamac
-[  Info  ] 
+[  Info  ] (   6/73  ) A1.HR -- chan. (xmltv_id=DOMA TV) -- mode Incremental
+[Error   ] Unable to update channel DOMA TV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from DOMA TV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Doma same as -- DOMA TV -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  14/73  ) A1.HR -- chan. (xmltv_id=RTL2) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:55
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 03:10:00 stop = 03/03/2020 04:50:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 03:10:00 stop = 03/03/2020 04:35:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 04:35:00 stop = 03/03/2020 05:00:00 title = K.t
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 07:05:00 stop = 03/03/2020 07:20:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 07:05:00 stop = 03/03/2020 08:00:00 title = Ruža Vjetrova
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 08:15:00 stop = 03/03/2020 08:30:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 08:15:00 stop = 03/03/2020 09:10:00 title = Ruža Vjetrova
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 09:25:00 stop = 03/03/2020 09:40:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 09:25:00 stop = 03/03/2020 10:00:00 title = Večera Za 5
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 09:40:00 stop = 03/03/2020 10:10:00 title = Večera Za 5
-[  Info  ]       Replaces ----- start = 03/03/2020 09:25:00 stop = 03/03/2020 10:00:00 title = Večera Za 5
-[  Info  ]       Replaces ----- start = 03/03/2020 10:00:00 stop = 03/03/2020 10:40:00 title = Večera Za 5
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 10:10:00 stop = 03/03/2020 10:35:00 title = Večera Za 5
-[  Info  ]       Replaces ----- start = 03/03/2020 10:00:00 stop = 03/03/2020 10:40:00 title = Večera Za 5
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 10:35:00 stop = 03/03/2020 11:05:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 10:00:00 stop = 03/03/2020 10:40:00 title = Večera Za 5
-[  Info  ]       Replaces ----- start = 03/03/2020 10:40:00 stop = 03/03/2020 11:10:00 title = Sudnica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:05:00 stop = 03/03/2020 11:35:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 10:40:00 stop = 03/03/2020 11:10:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 11:10:00 stop = 03/03/2020 11:40:00 title = Sudnica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:35:00 stop = 03/03/2020 11:55:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 11:10:00 stop = 03/03/2020 11:40:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 11:40:00 stop = 03/03/2020 12:05:00 title = Sudnica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:55:00 stop = 03/03/2020 12:20:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 11:40:00 stop = 03/03/2020 12:05:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 12:05:00 stop = 03/03/2020 12:30:00 title = Sudnica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:20:00 stop = 03/03/2020 12:45:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 12:05:00 stop = 03/03/2020 12:30:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 12:30:00 stop = 03/03/2020 13:00:00 title = Sudnica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:45:00 stop = 03/03/2020 13:10:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 12:30:00 stop = 03/03/2020 13:00:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 03/03/2020 13:00:00 stop = 03/03/2020 13:25:00 title = Sudnica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 16:55:00 stop = 03/03/2020 17:15:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 16:50:00 stop = 03/03/2020 17:15:00 title = Bitka Za Skladište
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 17:40:00 stop = 03/03/2020 18:00:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 17:40:00 stop = 03/03/2020 18:05:00 title = Zalagaonica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 02:30:00 stop = 04/03/2020 02:55:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 04/03/2020 02:15:00 stop = 04/03/2020 02:40:00 title = K.t
-[  Info  ]       Replaces ----- start = 04/03/2020 02:40:00 stop = 04/03/2020 03:05:00 title = Sudnica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 02:55:00 stop = 04/03/2020 04:15:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 04/03/2020 02:40:00 stop = 04/03/2020 03:05:00 title = Sudnica
-[  Info  ]       Replaces ----- start = 04/03/2020 03:05:00 stop = 04/03/2020 04:15:00 title = Sudnica
-[  Info  ] 
-[  Info  ]    Summary for update of       RTL2
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     45
-[  Info  ]      new shows added           35
-[  Info  ]      unchanged shows inspected 204
-[  Info  ]      total after update        285
-
+[  Info  ] (   7/73  ) A1.HR -- chan. (xmltv_id=RTL2) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel RTL2
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from RTL2
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel RTL 2 same as -- RTL2 -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       RTL 2
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     285
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        535
-
 [  Debug ] 
-[  Info  ] (  16/73  ) A1.HR -- chan. (xmltv_id=RTL KOCKICA) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:40
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 00:05:00 stop = 03/03/2020 00:35:00 title = Pod Istim Krovom
-[  Info  ]       Replaces ----- start = 03/03/2020 00:10:00 stop = 03/03/2020 00:40:00 title = Pod Istim Krovom
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 02:40:00 stop = 03/03/2020 02:55:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 03/03/2020 02:00:00 stop = 03/03/2020 02:50:00 title = Soy Luna
-[  Info  ]       Replaces ----- start = 03/03/2020 02:50:00 stop = 03/03/2020 03:05:00 title = Sportske Igre Mladih
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 02:55:00 stop = 03/03/2020 03:10:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 03/03/2020 02:50:00 stop = 03/03/2020 03:05:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 03/03/2020 03:05:00 stop = 03/03/2020 03:20:00 title = Sportske Igre Mladih
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 03:10:00 stop = 03/03/2020 05:55:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 03/03/2020 03:05:00 stop = 03/03/2020 03:20:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 03/03/2020 03:20:00 stop = 03/03/2020 05:40:00 title = Sportske Igre Mladih
-[  Info  ]       Replaces ----- start = 03/03/2020 05:40:00 stop = 03/03/2020 06:00:00 title = Tobot
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 05:55:00 stop = 03/03/2020 06:15:00 title = Tobot
-[  Info  ]       Replaces ----- start = 03/03/2020 05:40:00 stop = 03/03/2020 06:00:00 title = Tobot
-[  Info  ]       Replaces ----- start = 03/03/2020 06:00:00 stop = 03/03/2020 06:10:00 title = Mala Sportska Akademija
-[  Info  ]       Replaces ----- start = 03/03/2020 06:10:00 stop = 03/03/2020 06:15:00 title = Vremeplov
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 06:15:00 stop = 03/03/2020 06:25:00 title = Mala Sportska Akademija
-[  Info  ]       Replaces ----- start = 03/03/2020 06:15:00 stop = 03/03/2020 09:35:00 title = Kockići
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 06:25:00 stop = 03/03/2020 06:30:00 title = Vremeplov
-[  Info  ]       Replaces ----- start = 03/03/2020 06:15:00 stop = 03/03/2020 09:35:00 title = Kockići
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 06:30:00 stop = 03/03/2020 09:45:00 title = Kockići
-[  Info  ]       Replaces ----- start = 03/03/2020 06:15:00 stop = 03/03/2020 09:35:00 title = Kockići
-[  Info  ]       Replaces ----- start = 03/03/2020 09:35:00 stop = 03/03/2020 09:40:00 title = Crtež Dana
-[  Info  ]       Replaces ----- start = 03/03/2020 09:40:00 stop = 03/03/2020 09:50:00 title = Jeste Li Znali
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 09:45:00 stop = 03/03/2020 09:50:00 title = Crtež Dana
-[  Info  ]       Replaces ----- start = 03/03/2020 09:40:00 stop = 03/03/2020 09:50:00 title = Jeste Li Znali
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:20:00 stop = 03/03/2020 12:45:00 title = Lovci Na Povijest
-[  Info  ]       Replaces ----- start = 03/03/2020 12:15:00 stop = 03/03/2020 12:35:00 title = Lovci Na Povijest
-[  Info  ]       Replaces ----- start = 03/03/2020 12:35:00 stop = 03/03/2020 12:45:00 title = Pj Masks
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 13:10:00 stop = 03/03/2020 13:15:00 title = Vremeplov
-[  Info  ]       Replaces ----- start = 03/03/2020 13:05:00 stop = 03/03/2020 13:30:00 title = Miraculous: Pustolovine Bubamare I Crnog Mačka
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 13:40:00 stop = 03/03/2020 13:50:00 title = Mala Sportska Akademija
-[  Info  ]       Replaces ----- start = 03/03/2020 13:40:00 stop = 03/03/2020 13:55:00 title = S(p)retne Ruke
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 14:00:00 stop = 03/03/2020 14:10:00 title = Superzings
-[  Info  ]       Replaces ----- start = 03/03/2020 13:55:00 stop = 03/03/2020 14:05:00 title = Superzings
-[  Info  ]       Replaces ----- start = 03/03/2020 14:05:00 stop = 03/03/2020 14:20:00 title = Robo Vlakovi
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 14:35:00 stop = 03/03/2020 14:45:00 title = Gormiti
-[  Info  ]       Replaces ----- start = 03/03/2020 14:30:00 stop = 03/03/2020 14:40:00 title = Gormiti
-[  Info  ]       Replaces ----- start = 03/03/2020 14:40:00 stop = 03/03/2020 14:55:00 title = Gormiti
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 14:45:00 stop = 03/03/2020 15:00:00 title = Gormiti
-[  Info  ]       Replaces ----- start = 03/03/2020 14:40:00 stop = 03/03/2020 14:55:00 title = Gormiti
-[  Info  ]       Replaces ----- start = 03/03/2020 14:55:00 stop = 03/03/2020 15:10:00 title = Hello Carbot
-[  Info  ] 
-[  Info  ]    Summary for update of       RTL KOCKICA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     43
-[  Info  ]      new shows added           46
-[  Info  ]      unchanged shows inspected 290
-[  Info  ]      total after update        379
-
+[  Info  ] (   8/73  ) A1.HR -- chan. (xmltv_id=RTL KOCKICA) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel RTL KOCKICA
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from RTL KOCKICA
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel RTLko same as -- RTL KOCKICA -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       RTLko
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     379
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        712
-
 [  Debug ] 
-[  Info  ] (  18/73  ) A1.HR -- chan. (xmltv_id=RTL LIVING) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:40
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 07:35:00 stop = 03/03/2020 07:50:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 07:35:00 stop = 03/03/2020 07:55:00 title = Zalagaonica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 07:50:00 stop = 03/03/2020 08:10:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 07:35:00 stop = 03/03/2020 07:55:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 07:55:00 stop = 03/03/2020 08:15:00 title = Bitka Za Skladište
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 08:10:00 stop = 03/03/2020 08:30:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 07:55:00 stop = 03/03/2020 08:15:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 08:15:00 stop = 03/03/2020 08:35:00 title = Bitka Za Skladište
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 08:30:00 stop = 03/03/2020 08:50:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 08:15:00 stop = 03/03/2020 08:35:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 08:35:00 stop = 03/03/2020 08:55:00 title = Bitka Za Skladište
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 08:50:00 stop = 03/03/2020 09:10:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 08:35:00 stop = 03/03/2020 08:55:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 08:55:00 stop = 03/03/2020 10:05:00 title = Gospodin Savršeni
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 09:10:00 stop = 03/03/2020 09:35:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 08:55:00 stop = 03/03/2020 10:05:00 title = Gospodin Savršeni
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 10:40:00 stop = 03/03/2020 10:55:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 10:20:00 stop = 03/03/2020 10:50:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 10:50:00 stop = 03/03/2020 11:10:00 title = Zalagaonica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 10:55:00 stop = 03/03/2020 11:20:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 10:50:00 stop = 03/03/2020 11:10:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 11:10:00 stop = 03/03/2020 11:35:00 title = Zalagaonica
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:20:00 stop = 03/03/2020 11:40:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 11:10:00 stop = 03/03/2020 11:35:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 11:35:00 stop = 03/03/2020 11:50:00 title = Tv Prodaja
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 11:40:00 stop = 03/03/2020 12:05:00 title = Zalagaonica
-[  Info  ]       Replaces ----- start = 03/03/2020 11:35:00 stop = 03/03/2020 11:50:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 11:50:00 stop = 03/03/2020 12:15:00 title = Bitka Za Skladište
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:05:00 stop = 03/03/2020 12:20:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 11:50:00 stop = 03/03/2020 12:15:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 12:15:00 stop = 03/03/2020 12:40:00 title = Bitka Za Skladište
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:20:00 stop = 03/03/2020 12:45:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 12:15:00 stop = 03/03/2020 12:40:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 12:40:00 stop = 03/03/2020 13:05:00 title = Bitka Za Skladište
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:45:00 stop = 03/03/2020 13:05:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 12:40:00 stop = 03/03/2020 13:05:00 title = Bitka Za Skladište
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 13:05:00 stop = 03/03/2020 13:30:00 title = Bitka Za Skladište
-[  Info  ]       Replaces ----- start = 03/03/2020 13:05:00 stop = 03/03/2020 13:20:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 13:20:00 stop = 03/03/2020 13:45:00 title = Kućice Iz Snova
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 13:30:00 stop = 03/03/2020 13:45:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 13:20:00 stop = 03/03/2020 13:45:00 title = Kućice Iz Snova
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 15:25:00 stop = 03/03/2020 15:40:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 15:20:00 stop = 03/03/2020 16:15:00 title = Lovci Na Nekretnine
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 16:35:00 stop = 03/03/2020 16:50:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 16:30:00 stop = 03/03/2020 17:35:00 title = Večera Za 5 Na Selu
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 17:45:00 stop = 03/03/2020 18:00:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 17:35:00 stop = 03/03/2020 17:50:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 17:50:00 stop = 03/03/2020 18:50:00 title = Večera Za 5 Na Selu
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 19:00:00 stop = 03/03/2020 19:15:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 18:50:00 stop = 03/03/2020 19:05:00 title = Tv Prodaja
-[  Info  ]       Replaces ----- start = 03/03/2020 19:05:00 stop = 03/03/2020 20:30:00 title = Gospodin Savršeni
-[  Info  ] 
-[  Info  ]    Summary for update of       RTL LIVING
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     35
-[  Info  ]      new shows added           32
-[  Info  ]      unchanged shows inspected 192
-[  Info  ]      total after update        259
-
+[  Info  ] (   9/73  ) A1.HR -- chan. (xmltv_id=RTL LIVING) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel RTL LIVING
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from RTL LIVING
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel RTLli same as -- RTL LIVING -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       RTLli
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     259
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        486
-
 [  Debug ] 
-[  Info  ] (  20/73  ) A1.HR -- chan. (xmltv_id=CINESTAR TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:55
-[  Info  ] 
-[  Info  ]    Summary for update of       CINESTAR TV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           11
-[  Info  ]      unchanged shows inspected 75
-[  Info  ]      total after update        86
-
+[  Info  ] (  10/73  ) A1.HR -- chan. (xmltv_id=CINESTAR TV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel CINESTAR TV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from CINESTAR TV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Cines same as -- CINESTAR TV -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Cines
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     86
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        161
-
 [  Debug ] 
-[  Info  ] (  22/73  ) A1.HR -- chan. (xmltv_id=CINESTAR ACTION & THRILLER) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:50
-[  Info  ] 
-[  Info  ]    Summary for update of       CINESTAR ACTION & THRILLER
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           10
-[  Info  ]      unchanged shows inspected 70
-[  Info  ]      total after update        80
-
+[  Info  ] (  11/73  ) A1.HR -- chan. (xmltv_id=CINESTAR ACTION & THRILLER) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel CINESTAR ACTION & THRILLER
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from CINESTAR ACTION & THRILLER
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel CineA same as -- CINESTAR ACTION & THRILLER -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       CineA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     80
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        150
-
 [  Debug ] 
-[  Info  ] (  24/73  ) A1.HR -- chan. (xmltv_id=VIASAT TV1000) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:05
-[  Info  ] 
-[  Info  ]    Summary for update of       VIASAT TV1000
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           9
-[  Info  ]      unchanged shows inspected 62
-[  Info  ]      total after update        71
-
+[  Info  ] (  12/73  ) A1.HR -- chan. (xmltv_id=VIASAT TV1000) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel VIASAT TV1000
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from VIASAT TV1000
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Tv100 same as -- VIASAT TV1000 -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Tv100
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     71
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        133
-
 [  Debug ] 
-[  Info  ] (  26/73  ) A1.HR -- chan. (xmltv_id=FOX) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:50
-[  Info  ] 
-[  Info  ]    Summary for update of       FOX
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           24
-[  Info  ]      unchanged shows inspected 186
-[  Info  ]      total after update        210
-
+[  Info  ] (  13/73  ) A1.HR -- chan. (xmltv_id=FOX) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel FOX
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from FOX
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Fox same as -- FOX -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Fox
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     210
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        396
-
 [  Debug ] 
-[  Info  ] (  28/73  ) A1.HR -- chan. (xmltv_id=FOX LIFE) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:50
-[  Info  ] 
-[  Info  ]    Summary for update of       FOX LIFE
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           28
-[  Info  ]      unchanged shows inspected 219
-[  Info  ]      total after update        247
-
+[  Info  ] (  14/73  ) A1.HR -- chan. (xmltv_id=FOX LIFE) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel FOX LIFE
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from FOX LIFE
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel FoxLi same as -- FOX LIFE -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       FoxLi
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     247
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        466
-
 [  Debug ] 
-[  Info  ] (  30/73  ) A1.HR -- chan. (xmltv_id=EPIC DRAMA) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:30
-[  Info  ] 
-[  Info  ]    Summary for update of       EPIC DRAMA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           21
-[  Info  ]      unchanged shows inspected 175
-[  Info  ]      total after update        196
-
+[  Info  ] (  15/73  ) A1.HR -- chan. (xmltv_id=EPIC DRAMA) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel EPIC DRAMA
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from EPIC DRAMA
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel EpicD same as -- EPIC DRAMA -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       EpicD
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     196
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        371
-
 [  Debug ] 
-[  Info  ] (  32/73  ) A1.HR -- chan. (xmltv_id=KLASIK TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:40
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 08/03/2020 05:51:00 stop = 08/03/2020 06:00:00 title = Cirkuske Minijature Amerikano Akrobacije
-[  Info  ]       Replaces ----- start = 08/03/2020 05:51:00 stop = 08/03/2020 07:51:00 title = Cirkuske Minijature Amerikano Akrobacije
-[  Info  ] 
-[  Info  ]    Summary for update of       KLASIK TV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     3
-[  Info  ]      new shows added           22
-[  Info  ]      unchanged shows inspected 120
-[  Info  ]      total after update        145
-
+[  Info  ] (  16/73  ) A1.HR -- chan. (xmltv_id=KLASIK TV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel KLASIK TV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from KLASIK TV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  33/73  ) A1.HR -- chan. (xmltv_id=KINOTV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:16
-[  Info  ] 
-[  Info  ]    Summary for update of       KINOTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           12
-[  Info  ]      unchanged shows inspected 93
-[  Info  ]      total after update        105
-
+[  Info  ] (  16/73  ) A1.HR -- chan. (xmltv_id=KINOTV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel KINOTV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from KINOTV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  34/73  ) A1.HR -- chan. (xmltv_id=COMEDY CENTRAL EXTRA) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:40
-[  Info  ] 
-[  Info  ]    Summary for update of       COMEDY CENTRAL EXTRA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           40
-[  Info  ]      unchanged shows inspected 338
-[  Info  ]      total after update        378
-
+[  Info  ] (  16/73  ) A1.HR -- chan. (xmltv_id=COMEDY CENTRAL EXTRA) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel COMEDY CENTRAL EXTRA
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from COMEDY CENTRAL EXTRA
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Comed same as -- COMEDY CENTRAL EXTRA -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Comed
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     378
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        716
-
 [  Debug ] 
-[  Info  ] (  36/73  ) A1.HR -- chan. (xmltv_id=DIVA) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:15
-[  Info  ] 
-[  Info  ]    Summary for update of       DIVA
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           17
-[  Info  ]      unchanged shows inspected 134
-[  Info  ]      total after update        151
-
+[  Info  ] (  17/73  ) A1.HR -- chan. (xmltv_id=DIVA) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel DIVA
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from DIVA
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  37/73  ) A1.HR -- chan. (xmltv_id=DOKUTV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:30
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 04:00:00 stop = 03/03/2020 05:00:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 03/03/2020 02:01:00 stop = 03/03/2020 04:01:00 title = Alfabet
-[  Info  ]       Replaces ----- start = 03/03/2020 04:01:00 stop = 03/03/2020 05:01:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 16:01:00 stop = 03/03/2020 17:01:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 03/03/2020 14:01:00 stop = 03/03/2020 16:02:00 title = Ghibli: Kraljevstvo Snova I Ludila
-[  Info  ]       Replaces ----- start = 03/03/2020 16:02:00 stop = 03/03/2020 17:02:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 17:01:00 stop = 03/03/2020 18:01:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 03/03/2020 16:02:00 stop = 03/03/2020 17:02:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 03/03/2020 17:02:00 stop = 03/03/2020 18:02:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 04:01:00 stop = 04/03/2020 05:01:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 04/03/2020 04:01:00 stop = 04/03/2020 05:02:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 05:01:00 stop = 04/03/2020 06:01:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 04/03/2020 04:01:00 stop = 04/03/2020 05:02:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 04/03/2020 05:02:00 stop = 04/03/2020 06:02:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 17:02:00 stop = 04/03/2020 18:02:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 04/03/2020 17:02:00 stop = 04/03/2020 18:03:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/03/2020 05:02:00 stop = 05/03/2020 06:02:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 05/03/2020 05:02:00 stop = 05/03/2020 06:03:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/03/2020 16:03:00 stop = 05/03/2020 17:02:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]       Replaces ----- start = 05/03/2020 16:03:00 stop = 05/03/2020 17:03:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 06/03/2020 16:03:00 stop = 06/03/2020 17:03:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]       Replaces ----- start = 06/03/2020 16:03:00 stop = 06/03/2020 17:04:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 07/03/2020 04:03:00 stop = 07/03/2020 05:03:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]       Replaces ----- start = 07/03/2020 03:04:00 stop = 07/03/2020 04:04:00 title = Umjetnost Muzeja
-[  Info  ]       Replaces ----- start = 07/03/2020 04:04:00 stop = 07/03/2020 05:04:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ] 
-[  Info  ]    Summary for update of       DOKUTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     106
-[  Info  ]      new shows added           16
-[  Info  ]      unchanged shows inspected 34
-[  Info  ]      total after update        156
-
+[  Info  ] (  17/73  ) A1.HR -- chan. (xmltv_id=DOKUTV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel DOKUTV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from DOKUTV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel DokTV same as -- DOKUTV -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       DokTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     156
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        296
-
 [  Debug ] 
-[  Info  ] (  39/73  ) A1.HR -- chan. (xmltv_id=NATIONAL GEOGRAPHIC) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:00
-[  Info  ] 
-[  Info  ]    Summary for update of       NATIONAL GEOGRAPHIC
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           23
-[  Info  ]      unchanged shows inspected 203
-[  Info  ]      total after update        226
-
+[  Info  ] (  18/73  ) A1.HR -- chan. (xmltv_id=NATIONAL GEOGRAPHIC) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel NATIONAL GEOGRAPHIC
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from NATIONAL GEOGRAPHIC
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel NatGe same as -- NATIONAL GEOGRAPHIC -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       NatGe
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     226
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        429
-
 [  Debug ] 
-[  Info  ] (  41/73  ) A1.HR -- chan. (xmltv_id=VIASAT HISTORY) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:55
-[  Info  ] 
-[  Info  ]    Summary for update of       VIASAT HISTORY
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           18
-[  Info  ]      unchanged shows inspected 161
-[  Info  ]      total after update        179
-
+[  Info  ] (  19/73  ) A1.HR -- chan. (xmltv_id=VIASAT HISTORY) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel VIASAT HISTORY
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from VIASAT HISTORY
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Histo same as -- VIASAT HISTORY -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Histo
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     179
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        340
-
 [  Debug ] 
-[  Info  ] (  43/73  ) A1.HR -- chan. (xmltv_id=VIASAT EXPLORE) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:20
-[  Info  ] 
-[  Info  ]    Summary for update of       VIASAT EXPLORE
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           26
-[  Info  ]      unchanged shows inspected 212
-[  Info  ]      total after update        238
-
+[  Info  ] (  20/73  ) A1.HR -- chan. (xmltv_id=VIASAT EXPLORE) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel VIASAT EXPLORE
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from VIASAT EXPLORE
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Explo same as -- VIASAT EXPLORE -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Explo
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     238
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        450
-
 [  Debug ] 
-[  Info  ] (  45/73  ) A1.HR -- chan. (xmltv_id=FINE LIVING) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:55
-[  Info  ] 
-[  Info  ]    Summary for update of       FINE LIVING
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           40
-[  Info  ]      unchanged shows inspected 320
-[  Info  ]      total after update        360
-
+[  Info  ] (  21/73  ) A1.HR -- chan. (xmltv_id=FINE LIVING) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel FINE LIVING
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from FINE LIVING
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel FineL same as -- FINE LIVING -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       FineL
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     360
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        680
-
 [  Debug ] 
-[  Info  ] (  47/73  ) A1.HR -- chan. (xmltv_id=WNESS TV) -- mode Incremental
-[  Info  ] 
+[  Info  ] (  22/73  ) A1.HR -- chan. (xmltv_id=WNESS TV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel WNESS TV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from WNESS TV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Wness same as -- WNESS TV -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  49/73  ) A1.HR -- chan. (xmltv_id=WOMAN) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:51
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 04:59:00 stop = 03/03/2020 05:46:00 title = Chef Roblé & Co. S02
-[  Info  ]       Replaces ----- start = 03/03/2020 04:11:00 stop = 03/03/2020 05:00:00 title = Nasljeđe Celebrityja
-[  Info  ]       Replaces ----- start = 03/03/2020 05:00:00 stop = 03/03/2020 05:46:00 title = Chef Roblé & Co. S02
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 08:05:00 stop = 03/03/2020 08:52:00 title = Prave Kućanice S Beverly Hillsa S05
-[  Info  ]       Replaces ----- start = 03/03/2020 08:05:00 stop = 03/03/2020 08:53:00 title = Prave Kućanice S Beverly Hillsa S05
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 08:52:00 stop = 03/03/2020 09:40:00 title = Vruće Nekretnine Miami S01
-[  Info  ]       Replaces ----- start = 03/03/2020 08:05:00 stop = 03/03/2020 08:53:00 title = Prave Kućanice S Beverly Hillsa S05
-[  Info  ]       Replaces ----- start = 03/03/2020 08:53:00 stop = 03/03/2020 09:40:00 title = Vruće Nekretnine Miami S01
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 00:01:00 stop = 04/03/2020 00:49:00 title = Prave Kućanice S Beverly Hillsa S05
-[  Info  ]       Replaces ----- start = 04/03/2020 00:01:00 stop = 04/03/2020 00:50:00 title = Prave Kućanice S Beverly Hillsa S05
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 00:49:00 stop = 04/03/2020 01:40:00 title = Paradiranje
-[  Info  ]       Replaces ----- start = 04/03/2020 00:01:00 stop = 04/03/2020 00:50:00 title = Prave Kućanice S Beverly Hillsa S05
-[  Info  ]       Replaces ----- start = 04/03/2020 00:50:00 stop = 04/03/2020 01:40:00 title = Paradiranje
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 04:10:00 stop = 04/03/2020 04:59:00 title = Paradiranje
-[  Info  ]       Replaces ----- start = 04/03/2020 04:10:00 stop = 04/03/2020 05:00:00 title = Paradiranje
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 04/03/2020 04:59:00 stop = 04/03/2020 05:45:00 title = Samo Jillian
-[  Info  ]       Replaces ----- start = 04/03/2020 04:10:00 stop = 04/03/2020 05:00:00 title = Paradiranje
-[  Info  ]       Replaces ----- start = 04/03/2020 05:00:00 stop = 04/03/2020 05:45:00 title = Samo Jillian
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/03/2020 09:24:00 stop = 05/03/2020 10:11:00 title = Paradiranje
-[  Info  ]       Replaces ----- start = 05/03/2020 09:24:00 stop = 05/03/2020 10:12:00 title = Paradiranje
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 05/03/2020 10:11:00 stop = 05/03/2020 11:11:00 title = Milijunska Nekretnina New York S06
-[  Info  ]       Replaces ----- start = 05/03/2020 09:24:00 stop = 05/03/2020 10:12:00 title = Paradiranje
-[  Info  ]       Replaces ----- start = 05/03/2020 10:12:00 stop = 05/03/2020 11:11:00 title = Milijunska Nekretnina New York S06
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 07/03/2020 04:10:00 stop = 07/03/2020 04:59:00 title = Djeca Protiv Šefa Kuhinje S02
-[  Info  ]       Replaces ----- start = 07/03/2020 04:10:00 stop = 07/03/2020 05:00:00 title = Djeca Protiv Šefa Kuhinje S02
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 07/03/2020 04:59:00 stop = 07/03/2020 05:24:00 title = Mario Lopez: Jedan Na Jedan S02
-[  Info  ]       Replaces ----- start = 07/03/2020 04:10:00 stop = 07/03/2020 05:00:00 title = Djeca Protiv Šefa Kuhinje S02
-[  Info  ]       Replaces ----- start = 07/03/2020 05:00:00 stop = 07/03/2020 05:24:00 title = Mario Lopez: Jedan Na Jedan S02
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 08/03/2020 04:11:00 stop = 08/03/2020 04:59:00 title = Abbyno Vrhunsko Plesno Natjecanje
-[  Info  ]       Replaces ----- start = 08/03/2020 04:11:00 stop = 08/03/2020 05:00:00 title = Abbyno Vrhunsko Plesno Natjecanje
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 08/03/2020 04:59:00 stop = 08/03/2020 05:45:00 title = Londonske Dame S03
-[  Info  ]       Replaces ----- start = 08/03/2020 04:11:00 stop = 08/03/2020 05:00:00 title = Abbyno Vrhunsko Plesno Natjecanje
-[  Info  ]       Replaces ----- start = 08/03/2020 05:00:00 stop = 08/03/2020 05:45:00 title = Londonske Dame S03
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 08/03/2020 05:45:00 stop = 08/03/2020 06:10:00 title = Woman Magazine
-[  Info  ]       Replaces ----- start = 08/03/2020 05:45:00 stop = 08/03/2020 06:11:00 title = Woman Magazine
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 08/03/2020 20:01:00 stop = 08/03/2020 20:25:00 title = Ulovite Eleganciju S01
-[  Info  ]       Replaces ----- start = 08/03/2020 20:01:00 stop = 08/03/2020 20:26:00 title = Ulovite Eleganciju S01
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 08/03/2020 20:25:00 stop = 08/03/2020 20:50:00 title = Ulovite Eleganciju S01
-[  Info  ]       Replaces ----- start = 08/03/2020 20:01:00 stop = 08/03/2020 20:26:00 title = Ulovite Eleganciju S01
-[  Info  ]       Replaces ----- start = 08/03/2020 20:26:00 stop = 08/03/2020 20:50:00 title = Ulovite Eleganciju S01
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 09/03/2020 01:17:00 stop = 09/03/2020 01:41:00 title = Ulovite Eleganciju S01
-[  Info  ]       Replaces ----- start = 09/03/2020 01:17:00 stop = 09/03/2020 01:42:00 title = Ulovite Eleganciju S01
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 09/03/2020 01:41:00 stop = 09/03/2020 02:29:00 title = Prodaj To U Atlanti S01
-[  Info  ]       Replaces ----- start = 09/03/2020 01:17:00 stop = 09/03/2020 01:42:00 title = Ulovite Eleganciju S01
-[  Info  ]       Replaces ----- start = 09/03/2020 01:42:00 stop = 09/03/2020 02:29:00 title = Prodaj To U Atlanti S01
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 09/03/2020 03:20:00 stop = 09/03/2020 03:45:00 title = Woman Magazine
-[  Info  ]       Replaces ----- start = 09/03/2020 03:20:00 stop = 09/03/2020 03:46:00 title = Woman Magazine
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 09/03/2020 03:45:00 stop = 09/03/2020 04:10:00 title = Woman Magazine
-[  Info  ]       Replaces ----- start = 09/03/2020 03:20:00 stop = 09/03/2020 03:46:00 title = Woman Magazine
-[  Info  ]       Replaces ----- start = 09/03/2020 03:46:00 stop = 09/03/2020 04:10:00 title = Woman Magazine
-[  Info  ] 
-[  Info  ]    Summary for update of       WOMAN
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     22
-[  Info  ]      new shows added           27
-[  Info  ]      unchanged shows inspected 190
-[  Info  ]      total after update        239
-
+[  Info  ] (  23/73  ) A1.HR -- chan. (xmltv_id=WOMAN) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel WOMAN
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from WOMAN
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  50/73  ) A1.HR -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:10
-[  Info  ] 
-[  Info  ]    Summary for update of       Z1
-[  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 195
-[  Info  ]      total after update        195
-
+[  Info  ] (  23/73  ) A1.HR -- chan. (xmltv_id=Z1) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel Z1
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from Z1
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  51/73  ) A1.HR -- chan. (xmltv_id=JABUKA TV) -- mode Incremental
-[  Info  ] 
+[  Info  ] (  23/73  ) A1.HR -- chan. (xmltv_id=JABUKA TV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel JABUKA TV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from JABUKA TV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Jabuk same as -- JABUKA TV -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  53/73  ) A1.HR -- chan. (xmltv_id=MREŽAZG) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:00
-[  Info  ] 
-[  Info  ]    Summary for update of       MREŽAZG
-[  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 207
-[  Info  ]      total after update        207
-
+[  Info  ] (  24/73  ) A1.HR -- chan. (xmltv_id=MREŽAZG) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel MREŽAZG
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from MREŽAZG
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Mreža same as -- MREŽAZG -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Mreža
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     207
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        414
-
 [  Debug ] 
-[  Info  ] (  55/73  ) A1.HR -- chan. (xmltv_id=N1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:30
-[  Info  ] 
-[  Info  ]    Summary for update of       N1
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           46
-[  Info  ]      unchanged shows inspected 295
-[  Info  ]      total after update        341
-
+[  Info  ] (  25/73  ) A1.HR -- chan. (xmltv_id=N1) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel N1
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from N1
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  56/73  ) A1.HR -- chan. (xmltv_id=SPORTSKA TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:50
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 10:15:00 stop = 03/03/2020 12:10:00 title = Karatesalzburg
-[  Info  ]       Replaces ----- start = 03/03/2020 10:15:00 stop = 03/03/2020 12:35:00 title = Karatesalzburg
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 03/03/2020 12:10:00 stop = 03/03/2020 12:35:00 title = Mobil 1
-[  Info  ]       Replaces ----- start = 03/03/2020 10:15:00 stop = 03/03/2020 12:35:00 title = Karatesalzburg
-[  Info  ] 
-[  Info  ]    Summary for update of       SPORTSKA TV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     2
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 146
-[  Info  ]      total after update        148
-
+[  Info  ] (  25/73  ) A1.HR -- chan. (xmltv_id=SPORTSKA TV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel SPORTSKA TV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from SPORTSKA TV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel SPTV same as -- SPORTSKA TV -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       SPTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     148
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        295
-
 [  Debug ] 
-[  Info  ] (  58/73  ) A1.HR -- chan. (xmltv_id=INFO KANAL) -- mode Incremental
-[  Info  ] 
+[  Info  ] (  26/73  ) A1.HR -- chan. (xmltv_id=INFO KANAL) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel INFO KANAL
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from INFO KANAL
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Bnet same as -- INFO KANAL -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  60/73  ) A1.HR -- chan. (xmltv_id=SK 1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:10
-[  Info  ] 
-[  Info  ]    Summary for update of       SK 1
-[  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 122
-[  Info  ]      total after update        122
-
+[  Info  ] (  27/73  ) A1.HR -- chan. (xmltv_id=SK 1) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel SK 1
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from SK 1
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  61/73  ) A1.HR -- chan. (xmltv_id=SK 3) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:45
-[  Info  ] 
-[  Info  ]    Summary for update of       SK 3
-[  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 121
-[  Info  ]      total after update        121
-
+[  Info  ] (  27/73  ) A1.HR -- chan. (xmltv_id=SK 3) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel SK 3
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from SK 3
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  62/73  ) A1.HR -- chan. (xmltv_id=CARTOON NETWORK) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:51
-[  Info  ] 
-[  Info  ]    Summary for update of       CARTOON NETWORK
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           86
-[  Info  ]      unchanged shows inspected 702
-[  Info  ]      total after update        788
-
+[  Info  ] (  27/73  ) A1.HR -- chan. (xmltv_id=CARTOON NETWORK) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel CARTOON NETWORK
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from CARTOON NETWORK
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel CN same as -- CARTOON NETWORK -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       CN
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     788
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        1490
-
 [  Debug ] 
-[  Info  ] (  64/73  ) A1.HR -- chan. (xmltv_id=NICKELODEON) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:50
-[  Info  ] 
-[  Info  ]    Summary for update of       NICKELODEON
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           62
-[  Info  ]      unchanged shows inspected 484
-[  Info  ]      total after update        546
-
+[  Info  ] (  28/73  ) A1.HR -- chan. (xmltv_id=NICKELODEON) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel NICKELODEON
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from NICKELODEON
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Nicke same as -- NICKELODEON -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       Nicke
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     546
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        1030
-
 [  Debug ] 
-[  Info  ] (  66/73  ) A1.HR -- chan. (xmltv_id=DISNEY CHANNEL) -- mode Incremental
-[Error   ] no shows in indexpage!
-[  Info  ] 
+[  Info  ] (  29/73  ) A1.HR -- chan. (xmltv_id=DISNEY CHANNEL) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel DISNEY CHANNEL
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from DISNEY CHANNEL
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Disne same as -- DISNEY CHANNEL -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  68/73  ) A1.HR -- chan. (xmltv_id=MINI TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:35
-[  Info  ] 
+[  Info  ] (  30/73  ) A1.HR -- chan. (xmltv_id=MINI TV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel MINI TV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from MINI TV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel Mini same as -- MINI TV -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  70/73  ) A1.HR -- chan. (xmltv_id=MTV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:00
-[  Info  ] 
-[  Info  ]    Summary for update of       MTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           20
-[  Info  ]      unchanged shows inspected 151
-[  Info  ]      total after update        171
-
+[  Info  ] (  31/73  ) A1.HR -- chan. (xmltv_id=MTV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel MTV
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from MTV
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  71/73  ) A1.HR -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 23:35
-[  Info  ] 
-[  Info  ]    Summary for update of       VH1
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     0
-[  Info  ]      new shows added           12
-[  Info  ]      unchanged shows inspected 88
-[  Info  ]      total after update        100
-
+[  Info  ] (  31/73  ) A1.HR -- chan. (xmltv_id=VH1) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel VH1
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from VH1
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
-[  Info  ] (  72/73  ) A1.HR -- chan. (xmltv_id=CROATIAN MUSIC CHANNEL) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 02/03/2020 22:00
-[  Info  ] 
-[  Info  ]    Summary for update of       CROATIAN MUSIC CHANNEL
-[  Info  ]      no changes, no update necessary !
-[  Info  ]      unchanged shows inspected 86
-[  Info  ]      total after update        86
-
+[  Info  ] (  31/73  ) A1.HR -- chan. (xmltv_id=CROATIAN MUSIC CHANNEL) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (21sec)
+[Warning ] Retry 3 of 4 times
+[Warning ] error downloading page: The operation has timed out. (28sec)
+[Warning ] Retry 4 of 4 times
+[Error   ] Unable to update channel CROATIAN MUSIC CHANNEL
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from CROATIAN MUSIC CHANNEL
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] channel CMC same as -- CROATIAN MUSIC CHANNEL -- time offset 0 hour(s)
-[  Info  ]    Summary for update of       CMC
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     86
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 0
-[  Info  ]      total after update        172
-
 [  Debug ] 
-[  Debug ] 16856 shows in 73 channels
-[  Debug ] 416 updated shows
-[  Debug ] 1011 new shows added
+[  Debug ] 14317 shows in 73 channels
+[  Debug ] 0 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 03/03/2020 12:09:39 done in 8m 23s
+[        ] Job finished at 04/03/2020 00:46:17 done in 45m 1s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
