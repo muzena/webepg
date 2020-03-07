@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 07/03/2020 17:16:23
+[        ] Job started at 07/03/2020 18:42:27
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.5.8.50508
 [  Debug ] Environment: 4.0.30319.42000
@@ -430,45 +430,10 @@
 [  Debug ] 
 [  Info  ] (  37/73  ) A1.HR -- chan. (xmltv_id=DOKUTV) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 06/03/2020 23:00
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 09/03/2020 13:03:00 stop = 09/03/2020 14:02:00 title = Nasljedstvo
-[  Info  ]       Replaces ----- start = 09/03/2020 13:03:00 stop = 09/03/2020 14:03:00 title = Nasljedstvo
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 09/03/2020 16:02:00 stop = 09/03/2020 17:02:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 09/03/2020 14:03:00 stop = 09/03/2020 16:03:00 title = Tvorci Čudovišta: Frankenštajnov Kompleks
-[  Info  ]       Replaces ----- start = 09/03/2020 16:03:00 stop = 09/03/2020 17:03:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 10/03/2020 04:02:00 stop = 10/03/2020 05:02:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 10/03/2020 02:03:00 stop = 10/03/2020 04:03:00 title = Tvorci Čudovišta: Frankenštajnov Kompleks
-[  Info  ]       Replaces ----- start = 10/03/2020 04:03:00 stop = 10/03/2020 05:02:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 11/03/2020 04:03:00 stop = 11/03/2020 05:02:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 11/03/2020 04:03:00 stop = 11/03/2020 05:03:00 title = Gospodari Građevina
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 11/03/2020 05:02:00 stop = 11/03/2020 06:02:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 11/03/2020 04:03:00 stop = 11/03/2020 05:03:00 title = Gospodari Građevina
-[  Info  ]       Replaces ----- start = 11/03/2020 05:03:00 stop = 11/03/2020 06:03:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 11/03/2020 17:02:00 stop = 11/03/2020 18:03:00 title = Premladi Za Smrt
-[  Info  ]       Replaces ----- start = 11/03/2020 16:03:00 stop = 11/03/2020 17:03:00 title = Nano Revolucija
-[  Info  ]       Replaces ----- start = 11/03/2020 17:03:00 stop = 11/03/2020 18:03:00 title = Premladi Za Smrt
-[  Info  ]    epg correction : 
-[  Info  ]  CHANGED show corrected,
-[  Info  ]       show with ---- start = 13/03/2020 04:13:00 stop = 13/03/2020 05:04:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
-[  Info  ]       Replaces ----- start = 13/03/2020 03:19:00 stop = 13/03/2020 04:14:00 title = Umjetnost Muzeja
-[  Info  ]       Replaces ----- start = 13/03/2020 04:14:00 stop = 13/03/2020 05:04:00 title = Soundtracks: Pjesme Koje Su Obilježile Povijest
 [  Info  ] 
 [  Info  ]    Summary for update of       DOKUTV
-[  Info  ]      missing shows added       0
-[  Info  ]      changed shows updated     33
-[  Info  ]      new shows added           0
-[  Info  ]      unchanged shows inspected 123
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 156
 [  Info  ]      total after update        156
 
 [  Debug ] 
@@ -759,9 +724,9 @@
 
 [  Debug ] 
 [  Debug ] 17178 shows in 73 channels
-[  Debug ] 33 updated shows
+[  Debug ] 0 updated shows
 [  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 07/03/2020 17:25:43 done in 9m 20s
+[        ] Job finished at 07/03/2020 18:51:01 done in 8m 33s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
