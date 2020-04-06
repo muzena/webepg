@@ -7,11 +7,11 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 06/04/2020 13:44:48
+[        ] Job started at 07/04/2020 00:01:13
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.5.0.5
+[  Debug ] Running  on: Unix 5.5.15.50515
 [  Debug ] Environment: 4.0.30319.42000
-[  Debug ] Mono version: 5.18.0.240 (Debian 5.18.0.240+dfsg-3 Wed Apr 17 16:37:36 UTC 2019)
+[  Debug ] Mono version: 6.8.0.105 (tarball Tue Feb  4 21:20:20 UTC 2020)
 [  Debug ] 
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: timezone.timezonesdata.txt
@@ -101,7 +101,6 @@
 [  Info  ] Found existing channel (xmltv_id=VH1) in the config file
 [  Info  ] Found existing channel (xmltv_id=CROATIAN MUSIC CHANNEL) in the config file
 [  Info  ] Found existing channel (xmltv_id=CMC) in the config file
-[  Info  ] time offset change detected for site a1.hr from: +0100 to: +0200
 [  Info  ] 
 [  Info  ] 
 [  Info  ] 
@@ -177,4 +176,4 @@
 [  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 06/04/2020 13:44:53 done in 5s
+[        ] Job finished at 07/04/2020 00:01:15 done in 2s
