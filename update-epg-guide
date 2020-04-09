@@ -1,33 +1,6 @@
 #!/bin/bash
-# Script for EPG grab from WebGrab+Plus  http://www.webgrabplus.com/documentation
 set -x
-
-#function check_mono_install (){
-#    wich
-#}
-
-# Add mono repository
-function add_mono_ppa (){
-    sudo -i
-    apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
-    echo "deb https://download.mono-project.com/repo/ubuntu stable-bionic main" | tee /etc/apt/sources.list.d/mono-official-stable.list
-    apt update
-    wait $!
-    exit
-}
-
-function install_mono (){
-sudo -i
-apt -y install mono-runtime libmono-system-data4.0-cil libmono-system-web4.0-cil
-apt install -y mono-complete
-wait $!
-exit
-}
-
-
-#for i in `grep -rl 2.4.6 . 2> /dev/null`; do sed -i 's/2.4.6/2.4.6.1/' $i; done
-
-#samdec="$HOME/Snimke/grabber/samdecrypt/pharser"
+# Script for EPG grab from WebGrab+Plus  http://www.webgrabplus.com/documentation
 
 
 function update_Main_grabber()
@@ -110,178 +83,11 @@ rm guide-mojtv-test.xml <<EOF
 EOF
 }
 
-
-########## Port ##################################
-
-function update_Port_grabber()
-{
-rm ./pharser/libEPG-Port.config
-rm ./wg++/WebGrab++.config.xml
-#### EPG from Port
-cp ./wg++/WebGrab++.config-port.xml ./wg++/WebGrab++.config.xml
-cd wg++
-mono WebGrab+Plus.exe "$(pwd)"
-wait $!
-cd ..
-####### Fix channel names port
-fixchannelnames_port
-wait $!
-#### Generate port config file
-cp guide-port-test.xml ./pharser/guide-port.xml
-cd pharser
-# generate port config file
-##### port pharser
-python pharser-port.py
-wait $!
-rm guide-port.xml
-cd ..
-wait $!
-#### Generate port config file with libEPG_xml2josn
-cp guide-port-test.xml ./libEPG_xml2josn/bin/Debug/guide.xml
-cd ./libEPG_xml2josn/bin/Debug
-rm libEPG-Port.config
-wait $!
-mono libEPG_xml2josn.exe
-wait $!
-cp libEPG.config libEPG-Port.config
-wait $!
-rm guide.xml
-rm libEPG.config
-cd $samdec
-rm guide-port-test.xml <<EOF
-EOF
-}
-
-########## mtvprofil ##################################
-
-function update_mtvprofil_grabber()
-{
-rm ./pharser/libEPG-mtvprofil.config
-rm ./wg++/WebGrab++.config.xml
-#### EPG from mtvprofil
-cp ./wg++/WebGrab++.config-mtvprofil.xml ./wg++/WebGrab++.config.xml
-cd wg++
-mono WebGrab+Plus.exe "$(pwd)"
-wait $!
-cd ..
-####### Fix channel names mtvprofil
-fixchannelnames_mtvprofil
-wait $!
-#### Generate mtvprofil config file
-cp guide-mtvprofil-test.xml ./pharser/guide-mtvprofil.xml
-cd pharser
-# generate mtvprofil config file
-##### mtvprofil pharser
-python pharser-mtvprofil.py
-wait $!
-rm guide-mtvprofil.xml
-cd ..
-wait $!
-#### Generate mtvprofil config file with libEPG_xml2josn
-cp guide-mtvprofil-test.xml ./libEPG_xml2josn/bin/Debug/guide.xml
-cd ./libEPG_xml2josn/bin/Debug
-rm libEPG-mtvprofil.config
-wait $!
-mono libEPG_xml2josn.exe
-wait $!
-cp libEPG.config libEPG-mtvprofil.config
-wait $!
-rm guide.xml
-rm libEPG.config
-cd $samdec
-rm guide-mtvprofil-test.xml <<EOF
-EOF
-}
-
-
-
-###   WARNING SEEE ONLY AVIABLE CHANNELS   http://tvprofil.net/xmltv/
-function update_tvprofil_grabber()
-{
-rm ./pharser/libEPG-tvprofil.config
-rm ./wg++/WebGrab++.config.xml
-#### EPG from mtvprofil
-cp ./wg++/WebGrab++.config-tvprofil.xml ./wg++/WebGrab++.config.xml
-cd wg++
-mono WebGrab+Plus.exe "$(pwd)"
-wait $!
-cd ..
-####### Fix channel names mtvprofil
-fixchannelnames_tvprofil
-wait $!
-#### Generate mtvprofil config file
-cp guide-tvprofil-test.xml ./pharser/guide-tvprofil.xml
-cd pharser
-# generate mtvprofil config file
-##### mtvprofil pharser
-python pharser-tvprofil.py
-wait $!
-rm guide-tvprofil.xml
-cd ..
-wait $!
-#### Generate mtvprofil config file with libEPG_xml2josn
-cp guide-tvprofil-test.xml ./libEPG_xml2josn/bin/Debug/guide.xml
-cd ./libEPG_xml2josn/bin/Debug
-rm libEPG-tvprofil.config
-wait $!
-mono libEPG_xml2josn.exe
-wait $!
-cp libEPG.config libEPG-tvprofil.config
-wait $!
-rm guide.xml
-rm libEPG.config
-cd $samdec
-rm guide-tvprofil-test.xml <<EOF
-EOF
-}
-
-########## VIP TV ##################################
-
-
-function update_viptv_grabber()
-{
-#rm ./pharser/libEPG-Viptv.config
-rm ./wg++/WebGrab++.config.xml
-#### EPG from Viptv
-cp ./wg++/WebGrab++.config-viptv.xml ./wg++/WebGrab++.config.xml
-cd wg++
-mono WebGrab+Plus.exe "$(pwd)"
-wait $!
-cd ..
-####### Fix channel names bnet
-#fixchannelnames_bnet
-wait $!
-#### Generate bnet config file with python script
-#cp guide-viptv.xml ./pharser/guide-viptv.xml
-#cd pharser
-# generate bnet config file
-##### Viptv pharser
-# python pharser-viptv.py      Ne postoji !!!!!!!
-#wait $!
-#rm guide-viptv.xml
-#cd ..
-#wait $!
-#### Generate bnet config file with libEPG_xml2josn
-cp guide-viptv.xml ./libEPG_xml2josn/bin/Debug/guide.xml
-cd ./libEPG_xml2josn/bin/Debug
-rm libEPG-Viptv.config
-wait $!
-mono libEPG_xml2josn.exe
-wait $!
-cp libEPG.config libEPG-Viptv.config
-wait $!
-rm guide.xml
-rm libEPG.config
-cd - <<EOF
-EOF
-}
-
-
 ########## a1 TV ##################################
 
 function update_a1_grabber()
 {
-#### Grab EPG from Viptv
+#### Grab EPG from A1
 cp ./wg++/WebGrab++.config-a1.xml ./wg++/WebGrab++.config.xml
 cd wg++
 mono WebGrab+Plus.exe "$(pwd)"
@@ -334,6 +140,9 @@ cd - <<EOF
 EOF
 }
 
+
+############## Send to Git  ######################
+
 function git_clone()
 {
 git clone --depth 1 git@github.com:muzena/samdecrypt.git
@@ -356,35 +165,15 @@ EOF
 
 #notify-send --app-name="Samdecrypt" --expire-time="9000" --icon="/usr/share/pixmaps/samdecrypt.png" "Generating EPG guide data started"
 wait $!
-#######  Generate json config files
 #update_Main_grabber
 wait $!
-#update_Bnet_grabber
-wait $!
-#update_Bnet_grabber_IPTV
-wait $!
-#update_viptv_grabber
+#update_Mojtv_grabber
 wait $!
 update_a1_grabber
 wait $!
 update_iskon_grabber
 ### http://www.webgrabplus.com/content/tviskonhr-and-viphr 
 ### http://epg.koditvepg.com/
-
-wait $!
-#update_Mojtv_grabber
-wait $!
-#update_Port_grabber
-wait $!
-#update_mtvprofil_grabber
-wait $!
-#update_tvprofil_grabber
 wait $!
 #sleep 10
-##### Upload to git
 #upload_togit
-#####      wait $! && git add -A :/ && wait $! && sleep 5 && git commit -m update && wait $! && git push origin libepg && wait $!
-#wait $!
-#notify-send --app-name="Samdecrypt" --expire-time="9000" --icon="/usr/share/pixmaps/samdecrypt.png" "EPG guide data generated and uploaded"
-#sleep 5
-#notify-send --app-name="Samdecrypt" --expire-time="9000" --icon="/usr/share/pixmaps/samdecrypt.png" "Restart your Samsung TV for updating new epg data"
