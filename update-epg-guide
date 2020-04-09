@@ -102,7 +102,7 @@ rm libEPG-a1.config
 wait $!
 mono libEPG_xml2josn.exe
 wait $!
-cp libEPG.config libEPG-a1.config
+cp -f libEPG.config libEPG-a1.config
 wait $!
 rm guide.xml
 rm libEPG.config
