@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/04/2020 17:27:05
+[        ] Job started at 09/04/2020 18:18:16
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.5.15.50515
 [  Debug ] Environment: 4.0.30319.42000
@@ -15,13 +15,13 @@
 [  Debug ] 
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: timezone.timezonesdata.txt
-[  Debug ] Reading config file: /tmp/webepg/wg++/WebGrab++.config.xml
+[  Debug ] Reading config file: /home/goran/webepg/webepg/wg++/WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
 [  Debug ] 
-[  Info  ] found: /tmp/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
+[  Info  ] found: /home/goran/webepg/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
 [  Info  ] encrypted with userkey and expiry date in 'legacy (V2)' mode
-[  Debug ] xmltv input file - /tmp/webepg/guide-iskon.xml - found
+[  Debug ] xmltv input file - /home/goran/webepg/webepg/guide-iskon.xml - found
 [  Debug ] 0 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=HRT 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=HRT 2) in the config file
@@ -101,20 +101,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 09/04/2020 12:19
-[  Debug ]    stoptime 09/04/2020 12:32               corrected to 09/04/2020 12:20
-[  Debug ]    skipped : fully overlapping show from 09/04/2020 12:32
-[  Debug ]                                       to 09/04/2020 12:33
-[  Debug ]    skipped : fully overlapping show from 09/04/2020 12:33
-[  Debug ]                                       to 09/04/2020 12:39
-[  Debug ]    skipped : fully overlapping show from 09/04/2020 12:39
-[  Debug ]                                       to 09/04/2020 12:43
-[  Debug ]    skipped : fully overlapping show from 09/04/2020 12:43
-[  Debug ]                                       to 09/04/2020 12:58
-[  Debug ]    conflicting stoptime or duration in show starting at 09/04/2020 12:20
-[  Debug ]    stoptime 09/04/2020 13:00               corrected to 09/04/2020 12:58
-[  Debug ]    skipped : fully overlapping show from 09/04/2020 13:00
-[  Debug ]                                       to 09/04/2020 13:10
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -198,7 +184,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 09/04/2020 17:29:56
+[Error   ] computer date/time format: 09/04/2020 18:21:04
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
@@ -273,9 +259,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14256 shows in 60 channels
-[  Debug ] 17 updated shows
+[  Debug ] 14259 shows in 60 channels
+[  Debug ] 5 updated shows
 [  Debug ] 79 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 09/04/2020 17:31:57 done in 4m 52s
+[        ] Job finished at 09/04/2020 18:23:01 done in 4m 45s
