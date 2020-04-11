@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 11/04/2020 17:19:00
+[        ] Job started at 12/04/2020 00:07:35
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.5.16.50516
 [  Debug ] Environment: 4.0.30319.42000
@@ -130,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 10/04/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 11/04/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -183,7 +183,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 11/04/2020 17:22:00
+[Error   ] computer date/time format: 12/04/2020 00:09:53
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
@@ -246,7 +246,7 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 10/04/2020 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 11/04/2020 19:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
@@ -259,9 +259,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14696 shows in 60 channels
-[  Debug ] 79 updated shows
-[  Debug ] 58 new shows added
+[  Debug ] 12571 shows in 60 channels
+[  Debug ] 0 updated shows
+[  Debug ] 44 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 11/04/2020 17:24:05 done in 5m 4s
+[        ] Job finished at 12/04/2020 00:11:32 done in 3m 56s
