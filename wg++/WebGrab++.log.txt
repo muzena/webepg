@@ -7,21 +7,21 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 11/04/2020 15:51:58
+[        ] Job started at 11/04/2020 17:19:00
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.5.0.5
+[  Debug ] Running  on: Unix 5.5.16.50516
 [  Debug ] Environment: 4.0.30319.42000
-[  Debug ] Mono version: 5.18.0.240 (Debian 5.18.0.240+dfsg-3 Wed Apr 17 16:37:36 UTC 2019)
+[  Debug ] Mono version: 6.8.0.105 (tarball Tue Feb  4 21:20:20 UTC 2020)
 [  Debug ] 
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: timezone.timezonesdata.txt
-[  Debug ] Reading config file: /home/goran/webepg/webepg/wg++/WebGrab++.config.xml
+[  Debug ] Reading config file: /tmp/webepg/wg++/WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
 [  Debug ] 
-[  Info  ] found: /home/goran/webepg/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
+[  Info  ] found: /tmp/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
 [  Info  ] encrypted with userkey and expiry date in 'legacy (V2)' mode
-[  Debug ] xmltv input file - /home/goran/webepg/webepg/guide-iskon.xml - found
+[  Debug ] xmltv input file - /tmp/webepg/guide-iskon.xml - found
 [  Debug ] 0 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=HRT 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=HRT 2) in the config file
@@ -183,7 +183,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 11/04/2020 15:55:06
+[Error   ] computer date/time format: 11/04/2020 17:22:00
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
@@ -260,8 +260,8 @@
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
 [  Debug ] 14696 shows in 60 channels
-[  Debug ] 142 updated shows
-[  Debug ] 1364 new shows added
+[  Debug ] 79 updated shows
+[  Debug ] 58 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 11/04/2020 15:57:19 done in 5m 21s
+[        ] Job finished at 11/04/2020 17:24:05 done in 5m 4s
