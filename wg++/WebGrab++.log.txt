@@ -7,9 +7,9 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 14/04/2020 00:07:45
+[        ] Job started at 14/04/2020 12:31:56
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.5.16.50516
+[  Debug ] Running  on: Unix 5.5.17.50517
 [  Debug ] Environment: 4.0.30319.42000
 [  Debug ] Mono version: 6.8.0.105 (tarball Tue Feb  4 21:20:20 UTC 2020)
 [  Debug ] 
@@ -104,13 +104,9 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 15/04/2020 00:40
-[  Debug ]    stoptime 15/04/2020 01:35               corrected to 15/04/2020 01:15
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 15/04/2020 01:10
-[  Debug ]    stoptime 15/04/2020 02:00               corrected to 15/04/2020 01:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
@@ -188,7 +184,7 @@
 [Error   ] Current culture: en-GB
 [Error   ] time parsing error : String was not recognized as a valid DateTime.
 [Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 14/04/2020 00:10:13
+[Error   ] computer date/time format: 14/04/2020 12:34:21
 [  Info  ] Existing guide data restored!
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
@@ -265,8 +261,8 @@
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
 [  Debug ] 12725 shows in 60 channels
-[  Debug ] 149 updated shows
-[  Debug ] 1462 new shows added
+[  Debug ] 76 updated shows
+[  Debug ] 22 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 14/04/2020 00:11:54 done in 4m 8s
+[        ] Job finished at 14/04/2020 12:36:02 done in 4m 5s
