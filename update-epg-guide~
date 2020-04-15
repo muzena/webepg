@@ -155,7 +155,7 @@ function upload_togit()
 {
 #git add -A :/
 wait $!
-git commit -am "Update epg"
+git commit -am update
 wait $!
 git push origin master
 wait $! <<EOF
