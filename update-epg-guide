@@ -145,7 +145,7 @@ EOF
 
 function git_clone()
 {
-git clone --depth 1 git@github.com:muzena/samdecrypt.git
+git clone --depth 1 git@github.com:muzena/webepg.git
 cd samdecrypt
 git status
 cd .. <<EOF
