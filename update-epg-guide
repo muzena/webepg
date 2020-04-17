@@ -15,7 +15,7 @@ mono WebGrab+Plus.exe "$(pwd)"
 wait $!
 cd ..
 ####### Fix channel names main
-fixchannelnames_main
+#fixchannelnames_main
 wait $!
 #### Generate bnet config file with python script
 cp guide-main-test.xml $WEB_PATH/pharser/guide-main.xml
@@ -56,7 +56,7 @@ mono WebGrab+Plus.exe "$(pwd)"
 wait $!
 cd ..
 ####### Fix channel names mojtv
-fixchannelnames_mojtv
+#fixchannelnames_mojtv
 wait $!
 #### Generate mojtv config file
 cp guide-mojtv-test.xml $WEB_PATH/pharser/guide-mojtv.xml
