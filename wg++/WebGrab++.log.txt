@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 17/04/2020 00:07:59
+[        ] Job started at 17/04/2020 06:21:28
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.4.50604
 [  Debug ] Environment: 4.0.30319.42000
@@ -15,13 +15,13 @@
 [  Debug ] 
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: timezone.timezonesdata.txt
-[  Debug ] Reading config file: /tmp/webepg/wg++/WebGrab++.config.xml
+[  Debug ] Reading config file: /home/goran/webepg/webepg/wg++/WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
 [  Debug ] 
-[  Info  ] found: /tmp/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
-[  Info  ] encrypted with userkey and expiry date in 'legacy (V2)' mode
-[  Debug ] xmltv input file - /tmp/webepg/guide-iskon.xml - found
+[  Info  ] found: /home/goran/webepg/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
+[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
+[  Debug ] xmltv input file - /home/goran/webepg/webepg/guide-iskon.xml - found
 [  Debug ] 0 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=HRT 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=HRT 2) in the config file
@@ -178,91 +178,84 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
-[Error   ] Unable to update channel Fox
-[Critical] Generic syntax exception:
-[Critical]    message: 
-[Error   ] Current culture: en-GB
-[Error   ] time parsing error : String was not recognized as a valid DateTime.
-[Error   ] nextstartdatetime time scrubbed : 
-[Error   ] computer date/time format: 17/04/2020 00:10:38
-[  Info  ] Existing guide data restored!
-[  Debug ] 
-[  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
+[  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel TV100 same as -- TV1000 -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  36/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- mode Incremental
+[  Info  ] (  37/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  38/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
+[  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  40/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
+[  Info  ] (  41/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Explo same as -- Viasat Explore -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  42/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat History) -- mode Incremental
+[  Info  ] (  43/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat History) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Histo same as -- Viasat History -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  44/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 1) -- mode Incremental
+[  Info  ] (  45/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 1) -- mode Incremental
 [Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel SK 1 same as -- Sport Klub 1 -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  46/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 3) -- mode Incremental
+[  Info  ] (  47/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 3) -- mode Incremental
 [Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel SK 3 same as -- Sport Klub 3 -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  48/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sportska TV) -- mode Incremental
+[  Info  ] (  49/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sportska TV) -- mode Incremental
 [Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  50/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
+[  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  52/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
+[  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  54/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
+[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
+[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 16/04/2020 01:00
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
+[  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
 [  Debug ] 
-[  Info  ] (  58/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
+[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12634 shows in 60 channels
-[  Debug ] 826 updated shows
-[  Debug ] 1459 new shows added
+[  Debug ] 12716 shows in 60 channels
+[  Debug ] 73 updated shows
+[  Debug ] 81 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 17/04/2020 00:12:32 done in 4m 33s
+[        ] Job finished at 17/04/2020 06:25:34 done in 4m 5s
