@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 17/04/2020 06:21:28
+[        ] Job started at 17/04/2020 06:38:25
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.4.50604
 [  Debug ] Environment: 4.0.30319.42000
@@ -15,13 +15,13 @@
 [  Debug ] 
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: timezone.timezonesdata.txt
-[  Debug ] Reading config file: /home/goran/webepg/webepg/wg++/WebGrab++.config.xml
+[  Debug ] Reading config file: /tmp/webepg/wg++/WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
 [  Debug ] 
-[  Info  ] found: /home/goran/webepg/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
+[  Info  ] found: /tmp/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
 [  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
-[  Debug ] xmltv input file - /home/goran/webepg/webepg/guide-iskon.xml - found
+[  Debug ] xmltv input file - /tmp/webepg/guide-iskon.xml - found
 [  Debug ] 0 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=HRT 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=HRT 2) in the config file
@@ -254,8 +254,8 @@
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
 [  Debug ] 12716 shows in 60 channels
-[  Debug ] 73 updated shows
-[  Debug ] 81 new shows added
+[  Debug ] 0 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 17/04/2020 06:25:34 done in 4m 5s
+[        ] Job finished at 17/04/2020 06:42:27 done in 4m 1s
