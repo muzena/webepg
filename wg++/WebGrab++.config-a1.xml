@@ -17,19 +17,19 @@
   <!-- replace the next dummy channel entry with the channels you want -->
   <!-- see http://webgrabplus.com/node/94 for the available sites/channels -->
     <!-- HRVATSKI PROGRAMI -->
-    <channel update="i" site="a1.hr" site_id="957##htv_1/9575-5-cro-HR/htv_1.png" xmltv_id="HTV 1">HTV 1</channel>
-    <channel offset="0" same_as="HTV 1" xmltv_id="HRT 1">HRT 1</channel>
-    <channel update="i" site="a1.hr" site_id="958##htv_2/9592-4-cro-HR/htv_2.png" xmltv_id="HTV 2">HTV 2</channel>
-    <channel offset="0" same_as="HTV 2" xmltv_id="HRT 2">HRT 2</channel>
-    <channel update="i" site="a1.hr" site_id="953##htv_3/9507-11-cro-HR/htv_3.png" xmltv_id="HTV 3">HTV 3</channel>
-    <channel offset="0" same_as="HTV 3" xmltv_id="HRT 3">HRT 3</channel>
-    <channel update="i" site="a1.hr" site_id="3673##htv_4/33479-10-cro-HR/htv_4.png" xmltv_id="HTV 4">HTV 4</channel>
-    <channel offset="0" same_as="HTV 4" xmltv_id="HRT 4">HRT 4</channel>
-    <channel update="i" site="a1.hr" site_id="960##nova_tv/9626-4-cro-HR/nova_tv.png" xmltv_id="NOVA TV">NOVA TV</channel>
-    <channel offset="0" same_as="NOVA TV" xmltv_id="NOVA">NOVA</channel>
+    <channel update="i" site="a1.hr" site_id="7413##htv1_hd/72850-1-cro-HR/htv1_hd.png" xmltv_id="HTV1 HD">HTV1 HD</channel>
+    <channel offset="0" same_as="HTV1 HD" xmltv_id="HRT 1">HRT 1</channel>
+    <channel update="i" site="a1.hr" site_id="7414##htv2_hd/72873-1-cro-HR/htv2_hd.png" xmltv_id="HTV2 HD">HTV2 HD</channel>
+    <channel offset="0" same_as="HTV2 HD" xmltv_id="HRT 2">HRT 2</channel>
+    <channel update="i" site="a1.hr" site_id="7417##htv3_hd/72942-1-cro-HR/htv3_hd.png" xmltv_id="HTV3 HD">HTV3 HD</channel>
+    <channel offset="0" same_as="HTV3 HD" xmltv_id="HRT 3">HRT 3</channel>
+    <channel update="i" site="a1.hr" site_id="7418##htv4_hd/72965-1-cro-HR/htv4_hd.png" xmltv_id="HTV4 HD">HTV4 HD</channel>
+    <channel offset="0" same_as="HTV4 HD" xmltv_id="HRT 4">HRT 4</channel>
+    <channel update="i" site="a1.hr" site_id="7415##nova_tv_hd/72896-1-cro-HR/nova_tv_hd.png" xmltv_id="NOVA TV HD">NOVA TV HD</channel>
+    <channel offset="0" same_as="NOVA TV HD" xmltv_id="NOVA">NOVA</channel>
     <channel update="i" site="a1.hr" site_id="959##rtl/9609-4-cro-HR/rtl.png" xmltv_id="RTL">RTL</channel>
-    <channel update="i" site="a1.hr" site_id="955##doma_tv/9541-10-cro-HR/doma_tv.png" xmltv_id="DOMA TV">DOMA TV</channel>
-    <channel offset="0" same_as="DOMA TV" xmltv_id="Doma">Doma</channel>
+    <channel update="i" site="a1.hr" site_id="7416##doma_tv_hd2/72919-1-cro-HR/doma_tv_hd.png" xmltv_id="DOMA TV HD">DOMA TV HD</channel>
+    <channel offset="0" same_as="DOMA TV HD" xmltv_id="Doma">Doma</channel>
     <channel update="i" site="a1.hr" site_id="956##rtl2/9558-5-cro-HR/rtl2.png" xmltv_id="RTL2">RTL2</channel>
     <channel offset="0" same_as="RTL2" xmltv_id="RTL 2">RTL 2</channel>
     <channel update="i" site="a1.hr" site_id="4560##rtl_kockica/41877-1-cro-HR/rtl_kockica.png" xmltv_id="RTL KOCKICA">RTL KOCKICA</channel>
