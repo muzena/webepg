@@ -7,9 +7,9 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 18/04/2020 12:10:43
+[        ] Job started at 18/04/2020 23:23:30
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.6.5.50605
+[  Debug ] Running  on: Unix 5.6.4.50604
 [  Debug ] Environment: 4.0.30319.42000
 [  Debug ] Mono version: 6.8.0.105 (tarball Tue Feb  4 21:20:20 UTC 2020)
 [  Debug ] 
@@ -144,6 +144,8 @@
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 20/04/2020 01:45
+[  Debug ]    stoptime 20/04/2020 02:35               corrected to 20/04/2020 02:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
@@ -251,9 +253,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12727 shows in 60 channels
-[  Debug ] 129 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 14823 shows in 60 channels
+[  Debug ] 174 updated shows
+[  Debug ] 1239 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 18/04/2020 12:14:50 done in 4m 6s
+[        ] Job finished at 18/04/2020 23:28:37 done in 5m 7s
