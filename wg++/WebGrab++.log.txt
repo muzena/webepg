@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 21/04/2020 13:18:36
+[        ] Job started at 22/04/2020 00:09:36
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.6.50606
 [  Debug ] Environment: 4.0.30319.42000
@@ -101,8 +101,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 21/04/2020 07:25
-[  Debug ]                                       to 21/04/2020 07:28
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -132,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 20/04/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 21/04/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -141,11 +139,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 20/04/2020 23:30
-[  Debug ]    conflicting stoptime or duration in show starting at 21/04/2020 10:30
-[  Debug ]    stoptime 21/04/2020 11:30               corrected to 21/04/2020 11:00
-[  Debug ]    skipped : fully overlapping show from 21/04/2020 11:30
-[  Debug ]                                       to 21/04/2020 12:00
+[  Debug ]    skipped : show that happened before 'today' @ 21/04/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -184,8 +178,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 22/04/2020 23:30
-[  Debug ]    stoptime 23/04/2020 01:15               corrected to 23/04/2020 00:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
@@ -260,9 +252,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12041 shows in 60 channels
-[  Debug ] 129 updated shows
-[  Debug ] 49 new shows added
+[  Debug ] 12518 shows in 60 channels
+[  Debug ] 331 updated shows
+[  Debug ] 1533 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 21/04/2020 13:22:39 done in 4m 2s
+[        ] Job finished at 22/04/2020 00:13:58 done in 4m 21s
