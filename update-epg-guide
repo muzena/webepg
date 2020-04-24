@@ -178,5 +178,7 @@ update_iskon_grabber
 ### http://www.webgrabplus.com/content/tviskonhr-and-viphr 
 ### http://epg.koditvepg.com/
 wait $!
+wget -O $WEB_PATH/guide-hrt3.xml  https://raspored.hrt.hr/format/xmltv.xml?mreza=4
+wait $!
 #sleep 10
 #upload_togit
