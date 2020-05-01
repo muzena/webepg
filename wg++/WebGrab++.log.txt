@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 01/05/2020 18:25:16
+[        ] Job started at 02/05/2020 00:04:34
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.7.50607
 [  Debug ] Environment: 4.0.30319.42000
@@ -106,6 +106,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 03/05/2020 00:05
+[  Debug ]    stoptime 03/05/2020 01:50               corrected to 03/05/2020 01:35
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   6/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
@@ -132,7 +134,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 30/04/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 01/05/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -141,7 +143,6 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 30/04/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -175,9 +176,9 @@
 [  Info  ] 
 [  Info  ] Maximum nuber of allowed channels 30 reached!
 [  Debug ] 
-[  Debug ] 9533 shows in 60 channels
-[  Debug ] 24 updated shows
+[  Debug ] 7552 shows in 60 channels
+[  Debug ] 38 updated shows
 [  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 01/05/2020 18:27:37 done in 2m 20s
+[        ] Job finished at 02/05/2020 00:06:29 done in 1m 54s
