@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 04/05/2020 12:04:44
+[        ] Job started at 05/05/2020 00:04:25
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.7.50607
 [  Debug ] Environment: 4.0.30319.42000
@@ -132,7 +132,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -141,7 +141,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 03/05/2020 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 04/05/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -175,9 +175,9 @@
 [  Info  ] 
 [  Info  ] Maximum nuber of allowed channels 30 reached!
 [  Debug ] 
-[  Debug ] 6733 shows in 60 channels
-[  Debug ] 122 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 6865 shows in 60 channels
+[  Debug ] 160 updated shows
+[  Debug ] 850 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 04/05/2020 12:06:38 done in 1m 54s
+[        ] Job finished at 05/05/2020 00:06:24 done in 1m 59s
