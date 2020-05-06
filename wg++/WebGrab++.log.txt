@@ -7,9 +7,9 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 06/05/2020 12:26:51
+[        ] Job started at 06/05/2020 23:54:21
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.6.10.50610
+[  Debug ] Running  on: Unix 5.6.11.50611
 [  Debug ] Environment: 4.0.30319.42000
 [  Debug ] Mono version: 6.8.0.105 (tarball Tue Feb  4 21:20:20 UTC 2020)
 [  Debug ] 
@@ -106,12 +106,22 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   6/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
@@ -127,11 +137,21 @@
 [  Info  ] channel RTLli same as -- RTL Living -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  13/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
 [  Debug ]    skipped : show that happened before 'today' @ 05/05/2020 23:12
 [  Info  ] 
 [  Debug ] 
@@ -175,9 +195,9 @@
 [  Info  ] 
 [  Info  ] Maximum nuber of allowed channels 30 reached!
 [  Debug ] 
-[  Debug ] 6757 shows in 60 channels
-[  Debug ] 0 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 7860 shows in 60 channels
+[  Debug ] 425 updated shows
+[  Debug ] 729 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 06/05/2020 12:28:50 done in 1m 58s
+[        ] Job finished at 06/05/2020 23:58:52 done in 4m 31s
