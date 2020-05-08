@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 08/05/2020 00:04:20
+[        ] Job started at 08/05/2020 22:56:49
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.11.50611
 [  Debug ] Environment: 4.0.30319.42000
@@ -141,7 +141,6 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/30  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 07/05/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -175,9 +174,9 @@
 [  Info  ] 
 [  Info  ] Maximum nuber of allowed channels 30 reached!
 [  Debug ] 
-[  Debug ] 6764 shows in 60 channels
-[  Debug ] 388 updated shows
-[  Debug ] 801 new shows added
+[  Debug ] 7888 shows in 60 channels
+[  Debug ] 822 updated shows
+[  Debug ] 738 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 08/05/2020 00:06:17 done in 1m 57s
+[        ] Job finished at 08/05/2020 22:59:20 done in 2m 31s
