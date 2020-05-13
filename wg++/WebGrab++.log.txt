@@ -1,5 +1,5 @@
 ﻿[        ] 
-[        ]             WebGrab+Plus/w MDB & REX Postprocess -- version V3.0.2.0            
+[        ]             WebGrab+Plus/w MDB & REX Postprocess -- version V3.0.3.0            
 [        ] 
 [        ]                                 Jan van Straaten                                
 [        ]                              Francis De Paemeleere                              
@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 14/05/2020 00:06:51
+[        ] Job started at 14/05/2020 00:52:19
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.11.50611
 [  Debug ] Environment: 4.0.30319.42000
@@ -103,6 +103,10 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 14/05/2020 07:20
+[  Debug ]    stoptime 14/05/2020 07:28               corrected to 14/05/2020 07:25
+[  Debug ]    conflicting stoptime or duration in show starting at 14/05/2020 07:25
+[  Debug ]    stoptime 14/05/2020 07:29               corrected to 14/05/2020 07:28
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -117,6 +121,10 @@
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 14/05/2020 09:00
+[  Debug ]                                       to 14/05/2020 09:15
+[  Debug ]    conflicting stoptime or duration in show starting at 15/05/2020 01:45
+[  Debug ]    stoptime 15/05/2020 02:25               corrected to 15/05/2020 02:20
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -229,9 +237,9 @@
 [  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
 [  Info  ] Maximum nuber of allowed channels 50 reached!
 [  Debug ] 
-[  Debug ] 8881 shows in 60 channels
-[  Debug ] 455 updated shows
-[  Debug ] 938 new shows added
+[  Debug ] 8885 shows in 60 channels
+[  Debug ] 92 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 14/05/2020 00:09:40 done in 2m 49s
+[        ] Job finished at 14/05/2020 00:54:53 done in 2m 33s
