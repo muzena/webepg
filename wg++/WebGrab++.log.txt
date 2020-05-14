@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 14/05/2020 12:07:06
+[        ] Job started at 15/05/2020 00:01:42
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.11.50611
 [  Debug ] Environment: 4.0.30319.42000
@@ -94,143 +94,117 @@
 [  Info  ] update requested for - 60 - out of - 50 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   6/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  11/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Living) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel RTLli same as -- RTL Living -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  13/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[Error   ] no shows in indexpage!
+[  Debug ]    skipped : show that happened before 'today' @ 14/05/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  20/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  22/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Kockica) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel RTLko same as -- RTL Kockica -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  24/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar  TV) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Cines same as -- CineStar  TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  26/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar TV Action) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel CineA same as -- CineStar TV Action -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  28/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Comedy Central) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  30/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Life) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  32/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  34/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  35/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel TV100 same as -- TV1000 -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  37/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  39/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  41/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Explo same as -- Viasat Explore -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  43/50  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat History) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Histo same as -- Viasat History -- time offset 0 hour(s)
@@ -254,9 +228,9 @@
 [  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
 [  Info  ] Maximum nuber of allowed channels 50 reached!
 [  Debug ] 
-[  Debug ] 8885 shows in 60 channels
-[  Debug ] 0 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 8955 shows in 60 channels
+[  Debug ] 428 updated shows
+[  Debug ] 999 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 14/05/2020 12:07:59 done in 53s
+[        ] Job finished at 15/05/2020 00:04:25 done in 2m 43s
