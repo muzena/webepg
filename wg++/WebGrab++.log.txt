@@ -7,9 +7,9 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 16/05/2020 12:01:40
+[        ] Job started at 16/05/2020 13:06:45
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.6.11.50611
+[  Debug ] Running  on: Unix 5.6.13.50613
 [  Debug ] Environment: 4.0.30319.42000
 [  Debug ] Mono version: 6.8.0.123 (tarball Tue May 12 15:11:57 UTC 2020)
 [  Debug ] 
@@ -95,6 +95,10 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 17/05/2020 12:10
+[  Debug ]    stoptime 17/05/2020 13:03               corrected to 17/05/2020 12:55
+[  Debug ]    skipped : fully overlapping show from 17/05/2020 13:03
+[  Debug ]                                       to 17/05/2020 13:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
@@ -110,11 +114,27 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 17/05/2020 05:25
+[  Debug ]                                       to 17/05/2020 06:10
+[  Debug ]    conflicting stoptime or duration in show starting at 17/05/2020 04:35
+[  Debug ]    stoptime 17/05/2020 06:30               corrected to 17/05/2020 06:10
+[  Debug ]    skipped : fully overlapping show from 17/05/2020 06:30
+[  Debug ]                                       to 17/05/2020 06:35
+[  Debug ]    conflicting stoptime or duration in show starting at 17/05/2020 06:10
+[  Debug ]    stoptime 17/05/2020 06:40               corrected to 17/05/2020 06:35
+[  Debug ]    skipped : fully overlapping show from 17/05/2020 06:40
+[  Debug ]                                       to 17/05/2020 07:10
+[  Debug ]    conflicting stoptime or duration in show starting at 17/05/2020 08:40
+[  Debug ]    stoptime 17/05/2020 09:00               corrected to 17/05/2020 08:55
+[  Debug ]    conflicting stoptime or duration in show starting at 17/05/2020 08:55
+[  Debug ]    stoptime 17/05/2020 09:20               corrected to 17/05/2020 09:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 18/05/2020 04:45
+[  Debug ]                                       to 18/05/2020 05:15
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -251,9 +271,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12749 shows in 60 channels
-[  Debug ] 144 updated shows
+[  Debug ] 12750 shows in 60 channels
+[  Debug ] 111 updated shows
 [  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 16/05/2020 12:05:47 done in 4m 7s
+[        ] Job finished at 16/05/2020 13:10:58 done in 4m 13s
