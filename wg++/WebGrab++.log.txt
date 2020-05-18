@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 18/05/2020 12:01:31
+[        ] Job started at 19/05/2020 00:01:28
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.13.50613
 [  Debug ] Environment: 4.0.30319.42000
@@ -130,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 17/05/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 18/05/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -139,7 +139,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 17/05/2020 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 18/05/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -240,7 +240,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 17/05/2020 19:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
@@ -253,9 +252,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12855 shows in 60 channels
-[  Debug ] 154 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 13070 shows in 60 channels
+[  Debug ] 986 updated shows
+[  Debug ] 1409 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 18/05/2020 12:05:43 done in 4m 11s
+[        ] Job finished at 19/05/2020 00:06:10 done in 4m 41s
