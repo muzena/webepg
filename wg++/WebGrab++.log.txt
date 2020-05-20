@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 20/05/2020 14:46:02
+[        ] Job started at 20/05/2020 20:01:45
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.6.14.50614
 [  Debug ] Environment: 4.0.30319.42000
@@ -178,8 +178,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 21/05/2020 23:00
-[  Debug ]    stoptime 22/05/2020 00:45               corrected to 22/05/2020 00:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
@@ -196,8 +194,6 @@
 [  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 22/05/2020 01:05
-[  Debug ]    stoptime 22/05/2020 01:50               corrected to 22/05/2020 01:35
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
@@ -257,9 +253,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14998 shows in 60 channels
-[  Debug ] 137 updated shows
-[  Debug ] 1234 new shows added
+[  Debug ] 15013 shows in 60 channels
+[  Debug ] 252 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 20/05/2020 14:51:23 done in 5m 21s
+[        ] Job finished at 20/05/2020 20:14:02 done in 12m 16s
