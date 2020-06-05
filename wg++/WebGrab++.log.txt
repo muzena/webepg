@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 05/06/2020 12:10:06
+[        ] Job started at 06/06/2020 00:09:35
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.7.0.50700
 [  Debug ] Environment: 4.0.30319.42000
@@ -130,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 04/06/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 05/06/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -231,29 +231,3 @@
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
-[  Debug ] 
-[  Debug ] 12722 shows in 60 channels
-[  Debug ] 0 updated shows
-[  Debug ] 0 new shows added
-[  Info  ] 
-[  Info  ] 
-[        ] Job finished at 05/06/2020 12:14:09 done in 4m 2s
