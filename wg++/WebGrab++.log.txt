@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 06/06/2020 00:09:35
+[        ] Job started at 06/06/2020 21:01:08
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.7.0.50700
 [  Debug ] Environment: 4.0.30319.42000
@@ -144,6 +144,8 @@
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 07/06/2020 11:35
+[  Debug ]                                       to 07/06/2020 12:15
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
@@ -231,3 +233,29 @@
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
+[  Debug ] 
+[  Debug ] 14835 shows in 60 channels
+[  Debug ] 281 updated shows
+[  Debug ] 1477 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 06/06/2020 21:06:21 done in 5m 12s
