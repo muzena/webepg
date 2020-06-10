@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/06/2020 13:51:49
+[        ] Job started at 10/06/2020 17:22:55
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.7.1.50701
 [  Debug ] Environment: 4.0.30319.42000
@@ -115,6 +115,10 @@
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 11/06/2020 04:50
+[  Debug ]    stoptime 11/06/2020 05:30               corrected to 11/06/2020 05:00
+[  Debug ]    conflicting stoptime or duration in show starting at 11/06/2020 05:00
+[  Debug ]    stoptime 11/06/2020 05:45               corrected to 11/06/2020 05:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -130,7 +134,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 08/06/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 09/06/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -139,7 +143,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 08/06/2020 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 09/06/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -170,6 +174,8 @@
 [  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  30/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Life) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 11/06/2020 23:00
+[  Debug ]                                       to 11/06/2020 23:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
@@ -227,6 +233,14 @@
 [  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 12/06/2020 17:37
+[  Debug ]    stoptime 12/06/2020 17:43               corrected to 12/06/2020 17:40
+[  Debug ]    skipped : fully overlapping show from 12/06/2020 17:43
+[  Debug ]                                       to 12/06/2020 18:00
+[  Debug ]    conflicting stoptime or duration in show starting at 12/06/2020 18:32
+[  Debug ]    stoptime 12/06/2020 19:03               corrected to 12/06/2020 19:00
+[  Debug ]    conflicting stoptime or duration in show starting at 12/06/2020 19:00
+[  Debug ]    stoptime 12/06/2020 19:21               corrected to 12/06/2020 19:03
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
@@ -252,9 +266,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14589 shows in 60 channels
-[  Debug ] 125 updated shows
-[  Debug ] 1198 new shows added
+[  Debug ] 14509 shows in 60 channels
+[  Debug ] 1083 updated shows
+[  Debug ] 1237 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 09/06/2020 13:56:55 done in 5m 6s
+[        ] Job finished at 10/06/2020 17:28:42 done in 5m 47s
