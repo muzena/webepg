@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 22/06/2020 12:55:44
+[        ] Job started at 22/06/2020 14:10:41
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.7.1.50701
 [  Debug ] Environment: 4.0.30319.42000
@@ -170,6 +170,8 @@
 [  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  30/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Life) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 24/06/2020 00:55
+[  Debug ]    stoptime 24/06/2020 01:50               corrected to 24/06/2020 01:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
@@ -178,6 +180,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 23/06/2020 23:00
+[  Debug ]    stoptime 24/06/2020 01:00               corrected to 24/06/2020 00:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
@@ -252,9 +256,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12761 shows in 60 channels
-[  Debug ] 181 updated shows
-[  Debug ] 1209 new shows added
+[  Debug ] 14766 shows in 60 channels
+[  Debug ] 13 updated shows
+[  Debug ] 1182 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 22/06/2020 13:00:36 done in 4m 52s
+[        ] Job finished at 22/06/2020 14:15:54 done in 5m 12s
