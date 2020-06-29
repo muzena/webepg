@@ -7,11 +7,11 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 29/06/2020 12:58:14
+[        ] Job started at 29/06/2020 22:50:52
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.7.1.50701
 [  Debug ] Environment: 4.0.30319.42000
-[  Debug ] Mono version: 6.8.0.123 (tarball Tue May 12 15:11:57 UTC 2020)
+[  Debug ] Mono version: 6.10.0.104 (tarball Fri Jun 26 19:38:24 UTC 2020)
 [  Debug ] 
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: timezone.timezonesdata.txt
@@ -101,8 +101,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 29/06/2020 07:25
-[  Debug ]    stoptime 29/06/2020 07:27               corrected to 29/06/2020 07:26
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -142,8 +140,6 @@
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 28/06/2020 23:55
-[  Debug ]    skipped : fully overlapping show from 29/06/2020 23:40
-[  Debug ]                                       to 30/06/2020 09:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -256,9 +252,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12425 shows in 60 channels
-[  Debug ] 489 updated shows
-[  Debug ] 3741 new shows added
+[  Debug ] 14545 shows in 60 channels
+[  Debug ] 715 updated shows
+[  Debug ] 1254 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 29/06/2020 13:03:12 done in 4m 58s
+[        ] Job finished at 29/06/2020 22:56:32 done in 5m 40s
