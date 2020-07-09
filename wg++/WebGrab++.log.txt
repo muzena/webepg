@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/07/2020 12:54:58
+[        ] Job started at 09/07/2020 18:03:23
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.7.1.50701
 [  Debug ] Environment: 4.0.30319.42000
@@ -101,17 +101,9 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 09/07/2020 07:14
-[  Debug ]    stoptime 09/07/2020 07:25               corrected to 09/07/2020 07:23
-[  Debug ]    skipped : fully overlapping show from 09/07/2020 07:25
-[  Debug ]                                       to 09/07/2020 07:26
-[  Debug ]    skipped : fully overlapping show from 09/07/2020 07:26
-[  Debug ]                                       to 09/07/2020 07:27
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 09/07/2020 10:25
-[  Debug ]                                       to 09/07/2020 10:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
@@ -260,9 +252,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12563 shows in 60 channels
-[  Debug ] 934 updated shows
-[  Debug ] 1232 new shows added
+[  Debug ] 14736 shows in 60 channels
+[  Debug ] 472 updated shows
+[  Debug ] 1299 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 09/07/2020 13:00:03 done in 5m 4s
+[        ] Job finished at 09/07/2020 18:09:05 done in 5m 41s
