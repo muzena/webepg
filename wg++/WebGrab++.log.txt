@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 09/07/2020 18:03:23
+[        ] Job started at 09/07/2020 21:26:10
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.7.1.50701
 [  Debug ] Environment: 4.0.30319.42000
@@ -115,6 +115,8 @@
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 10/07/2020 05:00
+[  Debug ]                                       to 10/07/2020 05:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -252,9 +254,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14736 shows in 60 channels
-[  Debug ] 472 updated shows
-[  Debug ] 1299 new shows added
+[  Debug ] 14742 shows in 60 channels
+[  Debug ] 64 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 09/07/2020 18:09:05 done in 5m 41s
+[        ] Job finished at 09/07/2020 21:31:29 done in 5m 18s
