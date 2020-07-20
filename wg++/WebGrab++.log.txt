@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 20/07/2020 00:08:58
+[        ] Job started at 20/07/2020 13:27:53
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.7.1.50701
 [  Debug ] Environment: 4.0.30319.42000
@@ -98,9 +98,45 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 23/07/2020 20:35
+[  Debug ]                                       to 23/07/2020 21:00
+[  Debug ]    conflicting stoptime or duration in show starting at 23/07/2020 20:05
+[  Debug ]    stoptime 23/07/2020 21:25               corrected to 23/07/2020 21:00
+[  Debug ]    conflicting stoptime or duration in show starting at 23/07/2020 21:00
+[  Debug ]    stoptime 23/07/2020 22:00               corrected to 23/07/2020 21:25
+[  Debug ]    conflicting stoptime or duration in show starting at 23/07/2020 21:25
+[  Debug ]    stoptime 23/07/2020 22:50               corrected to 23/07/2020 22:00
+[  Debug ]    conflicting stoptime or duration in show starting at 23/07/2020 22:00
+[  Debug ]    stoptime 23/07/2020 23:00               corrected to 23/07/2020 22:50
+[  Debug ]    skipped : fully overlapping show from 23/07/2020 23:00
+[  Debug ]                                       to 23/07/2020 23:30
+[  Debug ]    skipped : fully overlapping show from 23/07/2020 23:30
+[  Debug ]                                       to 23/07/2020 00:00
+[  Debug ]    skipped : fully overlapping show from 24/07/2020 01:10
+[  Debug ]                                       to 24/07/2020 01:20
+[  Debug ]    conflicting stoptime or duration in show starting at 24/07/2020 01:00
+[  Debug ]    stoptime 24/07/2020 01:25               corrected to 24/07/2020 01:20
+[  Debug ]    conflicting stoptime or duration in show starting at 24/07/2020 01:20
+[  Debug ]    stoptime 24/07/2020 01:45               corrected to 24/07/2020 01:25
+[  Debug ]    conflicting stoptime or duration in show starting at 24/07/2020 01:25
+[  Debug ]    stoptime 24/07/2020 02:35               corrected to 24/07/2020 01:45
+[  Debug ]    conflicting stoptime or duration in show starting at 24/07/2020 01:45
+[  Debug ]    stoptime 24/07/2020 02:55               corrected to 24/07/2020 02:35
+[  Debug ]    skipped : fully overlapping show from 24/07/2020 02:55
+[  Debug ]                                       to 24/07/2020 03:20
+[  Debug ]    skipped : fully overlapping show from 24/07/2020 10:05
+[  Debug ]                                       to 24/07/2020 10:20
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 21/07/2020 05:00
+[  Debug ]                                       to 21/07/2020 05:08
+[  Debug ]    skipped : fully overlapping show from 21/07/2020 14:30
+[  Debug ]                                       to 21/07/2020 14:35
+[  Debug ]    conflicting stoptime or duration in show starting at 22/07/2020 14:35
+[  Debug ]    stoptime 22/07/2020 14:55               corrected to 22/07/2020 14:50
+[  Debug ]    skipped : fully overlapping show from 22/07/2020 14:55
+[  Debug ]                                       to 22/07/2020 15:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -140,6 +176,8 @@
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
 [  Debug ]    skipped : show that happened before 'today' @ 19/07/2020 23:55
+[  Debug ]    skipped : fully overlapping show from 20/07/2020 20:30
+[  Debug ]                                       to 20/07/2020 21:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -252,9 +290,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12691 shows in 60 channels
-[  Debug ] 0 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 14551 shows in 60 channels
+[  Debug ] 159 updated shows
+[  Debug ] 1122 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 20/07/2020 00:13:10 done in 4m 12s
+[        ] Job finished at 20/07/2020 13:33:14 done in 5m 21s
