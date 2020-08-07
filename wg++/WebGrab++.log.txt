@@ -7,9 +7,9 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 07/08/2020 13:00:01
+[        ] Job started at 07/08/2020 13:49:16
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.7.1.50701
+[  Debug ] Running  on: Unix 5.8.0.50800
 [  Debug ] Environment: 4.0.30319.42000
 [  Debug ] Mono version: 6.10.0.104 (tarball Fri Jun 26 19:38:44 UTC 2020)
 [  Debug ] 
@@ -95,20 +95,12 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 09/08/2020 02:32
-[  Debug ]    stoptime 09/08/2020 05:45               corrected to 09/08/2020 05:39
-[  Debug ]    skipped : fully overlapping show from 09/08/2020 05:45
-[  Debug ]                                       to 09/08/2020 06:10
-[  Debug ]    conflicting stoptime or duration in show starting at 10/08/2020 01:16
-[  Debug ]    stoptime 10/08/2020 04:34               corrected to 10/08/2020 04:17
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 07/08/2020 06:08
-[  Debug ]                                       to 07/08/2020 06:10
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -259,9 +251,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 13068 shows in 60 channels
-[  Debug ] 253 updated shows
-[  Debug ] 261 new shows added
+[  Debug ] 15243 shows in 60 channels
+[  Debug ] 46 updated shows
+[  Debug ] 1296 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 07/08/2020 13:05:12 done in 5m 10s
+[        ] Job finished at 07/08/2020 13:54:52 done in 5m 36s
