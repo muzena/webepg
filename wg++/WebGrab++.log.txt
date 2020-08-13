@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 13/08/2020 12:10:13
+[        ] Job started at 13/08/2020 21:15:44
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.8.1.50801
 [  Debug ] Environment: 4.0.30319.42000
@@ -95,9 +95,21 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 18/08/2020 00:46
+[  Debug ]    stoptime 18/08/2020 02:46               corrected to 18/08/2020 01:53
+[  Debug ]    conflicting stoptime or duration in show starting at 18/08/2020 01:53
+[  Debug ]    stoptime 18/08/2020 03:24               corrected to 18/08/2020 02:46
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 17/08/2020 21:52
+[  Debug ]    stoptime 17/08/2020 22:00               corrected to 17/08/2020 21:55
+[  Debug ]    conflicting stoptime or duration in show starting at 17/08/2020 21:55
+[  Debug ]    stoptime 17/08/2020 22:05               corrected to 17/08/2020 22:00
+[  Debug ]    conflicting stoptime or duration in show starting at 18/08/2020 01:30
+[  Debug ]    stoptime 18/08/2020 02:45               corrected to 18/08/2020 01:32
+[  Debug ]    conflicting stoptime or duration in show starting at 18/08/2020 01:32
+[  Debug ]    stoptime 18/08/2020 02:47               corrected to 18/08/2020 02:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
@@ -227,6 +239,44 @@
 [  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 13/08/2020 13:46
+[  Debug ]                                       to 13/08/2020 14:00
+[  Debug ]    skipped : fully overlapping show from 13/08/2020 17:46
+[  Debug ]                                       to 13/08/2020 18:00
+[  Debug ]    conflicting stoptime or duration in show starting at 13/08/2020 20:38
+[  Debug ]    stoptime 13/08/2020 20:59               corrected to 13/08/2020 20:45
+[  Debug ]    conflicting stoptime or duration in show starting at 13/08/2020 20:45
+[  Debug ]    stoptime 13/08/2020 21:00               corrected to 13/08/2020 20:59
+[  Debug ]    conflicting stoptime or duration in show starting at 14/08/2020 08:27
+[  Debug ]    stoptime 14/08/2020 08:34               corrected to 14/08/2020 08:33
+[  Debug ]    conflicting stoptime or duration in show starting at 14/08/2020 13:39
+[  Debug ]    stoptime 14/08/2020 13:59               corrected to 14/08/2020 13:46
+[  Debug ]    conflicting stoptime or duration in show starting at 14/08/2020 13:46
+[  Debug ]    stoptime 14/08/2020 14:00               corrected to 14/08/2020 13:59
+[  Debug ]    skipped : fully overlapping show from 14/08/2020 17:46
+[  Debug ]                                       to 14/08/2020 18:00
+[  Debug ]    conflicting stoptime or duration in show starting at 14/08/2020 20:39
+[  Debug ]    stoptime 14/08/2020 20:59               corrected to 14/08/2020 20:45
+[  Debug ]    conflicting stoptime or duration in show starting at 14/08/2020 20:45
+[  Debug ]    stoptime 14/08/2020 21:00               corrected to 14/08/2020 20:59
+[  Debug ]    skipped : fully overlapping show from 15/08/2020 13:46
+[  Debug ]                                       to 15/08/2020 14:00
+[  Debug ]    skipped : fully overlapping show from 15/08/2020 17:46
+[  Debug ]                                       to 15/08/2020 18:00
+[  Debug ]    skipped : fully overlapping show from 15/08/2020 20:45
+[  Debug ]                                       to 15/08/2020 21:00
+[  Debug ]    skipped : fully overlapping show from 16/08/2020 13:46
+[  Debug ]                                       to 16/08/2020 14:00
+[  Debug ]    skipped : fully overlapping show from 16/08/2020 17:47
+[  Debug ]                                       to 16/08/2020 18:00
+[  Debug ]    skipped : fully overlapping show from 16/08/2020 22:39
+[  Debug ]                                       to 16/08/2020 22:50
+[  Debug ]    skipped : fully overlapping show from 17/08/2020 13:47
+[  Debug ]                                       to 17/08/2020 14:00
+[  Debug ]    skipped : fully overlapping show from 17/08/2020 17:47
+[  Debug ]                                       to 17/08/2020 18:00
+[  Debug ]    skipped : fully overlapping show from 17/08/2020 22:38
+[  Debug ]                                       to 17/08/2020 22:50
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
@@ -252,9 +302,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12903 shows in 60 channels
-[  Debug ] 0 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 15105 shows in 60 channels
+[  Debug ] 654 updated shows
+[  Debug ] 1320 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 13/08/2020 12:14:36 done in 4m 22s
+[        ] Job finished at 13/08/2020 21:21:39 done in 5m 54s
