@@ -1,5 +1,5 @@
 ﻿[        ] 
-[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V3.1.0.0            
+[        ]             WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.1.0            
 [        ] 
 [        ]                                 Jan van Straaten                                
 [        ]                              Francis De Paemeleere                              
@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 28/08/2020 20:21:11
+[        ] Job started at 28/08/2020 20:58:11
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.8.3.50803
 [  Debug ] Environment: 4.0.30319.42000
@@ -101,6 +101,10 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 28/08/2020 13:38
+[  Debug ]    stoptime 28/08/2020 13:58               corrected to 28/08/2020 13:43
+[  Debug ]    skipped : fully overlapping show from 28/08/2020 13:58
+[  Debug ]                                       to 28/08/2020 14:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -252,8 +256,8 @@
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
 [  Debug ] 15336 shows in 60 channels
-[  Debug ] 628 updated shows
-[  Debug ] 115 new shows added
+[  Debug ] 5 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 28/08/2020 20:27:07 done in 5m 56s
+[        ] Job finished at 28/08/2020 21:03:52 done in 5m 41s
