@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 03/09/2020 15:20:55
+[        ] Job started at 03/09/2020 17:35:01
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.8.5.50805
 [  Debug ] Environment: 4.0.30319.42000
@@ -92,12 +92,36 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 07/09/2020 18:58
+[  Debug ]                                       to 07/09/2020 19:00
+[  Debug ]    conflicting stoptime or duration in show starting at 08/09/2020 04:52
+[  Debug ]    stoptime 08/09/2020 05:10               corrected to 08/09/2020 05:07
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 04/09/2020 23:36
+[  Debug ]    stoptime 05/09/2020 00:30               corrected to 05/09/2020 00:25
+[  Debug ]    conflicting stoptime or duration in show starting at 05/09/2020 00:25
+[  Debug ]    stoptime 05/09/2020 01:11               corrected to 05/09/2020 00:30
+[  Debug ]    skipped : fully overlapping show from 05/09/2020 01:11
+[  Debug ]                                       to 05/09/2020 02:38
+[  Debug ]    conflicting stoptime or duration in show starting at 06/09/2020 00:18
+[  Debug ]    stoptime 06/09/2020 00:42               corrected to 06/09/2020 00:21
+[  Debug ]    conflicting stoptime or duration in show starting at 06/09/2020 00:21
+[  Debug ]    stoptime 06/09/2020 01:10               corrected to 06/09/2020 00:42
+[  Debug ]    conflicting stoptime or duration in show starting at 08/09/2020 23:15
+[  Debug ]    stoptime 09/09/2020 00:54               corrected to 09/09/2020 00:53
+[  Debug ]    conflicting stoptime or duration in show starting at 09/09/2020 00:53
+[  Debug ]    stoptime 09/09/2020 01:38               corrected to 09/09/2020 00:54
+[  Debug ]    conflicting stoptime or duration in show starting at 09/09/2020 01:39
+[  Debug ]    stoptime 09/09/2020 03:01               corrected to 09/09/2020 03:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 07/09/2020 22:45
+[  Debug ]                                       to 07/09/2020 23:00
+[  Debug ]    skipped : fully overlapping show from 08/09/2020 22:35
+[  Debug ]                                       to 08/09/2020 23:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
@@ -110,6 +134,16 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 06/09/2020 09:10
+[  Debug ]    stoptime 06/09/2020 09:20               corrected to 06/09/2020 09:15
+[  Debug ]    skipped : fully overlapping show from 06/09/2020 09:20
+[  Debug ]                                       to 06/09/2020 10:15
+[  Debug ]    skipped : fully overlapping show from 06/09/2020 10:15
+[  Debug ]                                       to 06/09/2020 11:10
+[  Debug ]    skipped : fully overlapping show from 07/09/2020 15:10
+[  Debug ]                                       to 07/09/2020 16:00
+[  Debug ]    skipped : fully overlapping show from 08/09/2020 15:10
+[  Debug ]                                       to 08/09/2020 16:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
@@ -175,8 +209,6 @@
 [  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  32/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 07/09/2020 01:10
-[  Debug ]    stoptime 07/09/2020 02:00               corrected to 07/09/2020 01:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
@@ -254,9 +286,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 15198 shows in 60 channels
-[  Debug ] 815 updated shows
-[  Debug ] 1322 new shows added
+[  Debug ] 15210 shows in 60 channels
+[  Debug ] 282 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 03/09/2020 15:27:10 done in 6m 14s
+[        ] Job finished at 03/09/2020 17:41:03 done in 6m 1s
