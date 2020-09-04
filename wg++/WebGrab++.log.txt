@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 04/09/2020 00:09:30
+[        ] Job started at 04/09/2020 14:11:16
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.8.5.50805
 [  Debug ] Environment: 4.0.30319.42000
@@ -174,6 +174,8 @@
 [  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  32/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
@@ -251,9 +253,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12984 shows in 60 channels
-[  Debug ] 79 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 15107 shows in 60 channels
+[  Debug ] 496 updated shows
+[  Debug ] 1263 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 04/09/2020 00:13:52 done in 4m 22s
+[        ] Job finished at 04/09/2020 14:17:48 done in 6m 31s
