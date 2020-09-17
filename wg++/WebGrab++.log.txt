@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 16/09/2020 14:55:40
+[        ] Job started at 17/09/2020 15:41:46
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.8.8.50808
 [  Debug ] Environment: 4.0.30319.42000
@@ -95,6 +95,10 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
+[Warning ] error downloading page: The operation has timed out. (14sec)
+[Warning ] Retry 2 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
@@ -120,6 +124,8 @@
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  11/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Living) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel RTLli same as -- RTL Living -- time offset 0 hour(s)
@@ -130,7 +136,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 15/09/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 16/09/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -139,7 +145,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 15/09/2020 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 16/09/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -150,113 +156,3 @@
 [  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  22/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Kockica) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel RTLko same as -- RTL Kockica -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  24/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar  TV) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Cines same as -- CineStar  TV -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  26/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar TV Action) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel CineA same as -- CineStar TV Action -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  28/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Comedy Central) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  30/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Life) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  32/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  35/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel TV100 same as -- TV1000 -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  37/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  41/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Explo same as -- Viasat Explore -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  43/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat History) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Histo same as -- Viasat History -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  45/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 1) -- mode Incremental
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel SK 1 same as -- Sport Klub 1 -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  47/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 3) -- mode Incremental
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel SK 3 same as -- Sport Klub 3 -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  49/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sportska TV) -- mode Incremental
-[Error   ] no shows in indexpage!
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
-[Warning ] error downloading page: The operation has timed out. (7sec)
-[Warning ] Retry 1 of 4 times
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
-[  Debug ] 
-[  Debug ] 14815 shows in 60 channels
-[  Debug ] 564 updated shows
-[  Debug ] 1170 new shows added
-[  Info  ] 
-[  Info  ] 
-[        ] Job finished at 16/09/2020 15:02:23 done in 6m 43s
