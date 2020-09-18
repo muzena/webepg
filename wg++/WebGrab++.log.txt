@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 18/09/2020 17:13:35
+[        ] Job started at 19/09/2020 00:09:45
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.8.10.50810
 [  Debug ] Environment: 4.0.30319.42000
@@ -92,28 +92,6 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 20/09/2020 02:06
-[  Debug ]    stoptime 20/09/2020 02:21               corrected to 20/09/2020 02:18
-[  Debug ]    skipped : fully overlapping show from 20/09/2020 02:21
-[  Debug ]                                       to 20/09/2020 02:24
-[  Debug ]    conflicting stoptime or duration in show starting at 20/09/2020 02:18
-[  Debug ]    stoptime 20/09/2020 02:27               corrected to 20/09/2020 02:24
-[  Debug ]    conflicting stoptime or duration in show starting at 20/09/2020 15:04
-[  Debug ]    stoptime 20/09/2020 15:57               corrected to 20/09/2020 15:47
-[  Debug ]    conflicting stoptime or duration in show starting at 20/09/2020 15:47
-[  Debug ]    stoptime 20/09/2020 16:00               corrected to 20/09/2020 15:57
-[  Debug ]    conflicting stoptime or duration in show starting at 20/09/2020 17:15
-[  Debug ]    stoptime 20/09/2020 17:19               corrected to 20/09/2020 17:16
-[  Debug ]    skipped : fully overlapping show from 20/09/2020 17:19
-[  Debug ]                                       to 20/09/2020 17:38
-[  Debug ]    conflicting stoptime or duration in show starting at 20/09/2020 17:16
-[  Debug ]    stoptime 20/09/2020 17:40               corrected to 20/09/2020 17:38
-[  Debug ]    skipped : fully overlapping show from 20/09/2020 18:58
-[  Debug ]                                       to 20/09/2020 19:00
-[  Debug ]    skipped : fully overlapping show from 21/09/2020 00:30
-[  Debug ]                                       to 21/09/2020 01:00
-[  Debug ]    skipped : fully overlapping show from 21/09/2020 01:00
-[  Debug ]                                       to 21/09/2020 01:20
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
@@ -123,10 +101,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 18/09/2020 18:57
-[  Debug ]                                       to 18/09/2020 19:00
-[  Debug ]    skipped : fully overlapping show from 22/09/2020 20:55
-[  Debug ]                                       to 22/09/2020 21:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -156,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 17/09/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 18/09/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -277,9 +251,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14749 shows in 60 channels
-[  Debug ] 317 updated shows
-[  Debug ] 44 new shows added
+[  Debug ] 12935 shows in 60 channels
+[  Debug ] 196 updated shows
+[  Debug ] 186 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 18/09/2020 17:19:05 done in 5m 29s
+[        ] Job finished at 19/09/2020 00:14:18 done in 4m 33s
