@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 06/10/2020 00:08:37
+[        ] Job started at 08/10/2020 22:00:47
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.8.12.50812
 [  Debug ] Environment: 4.0.30319.42000
@@ -95,8 +95,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 10/10/2020 00:25
-[  Debug ]    stoptime 10/10/2020 02:00               corrected to 10/10/2020 01:52
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
@@ -132,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 05/10/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 07/10/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -141,7 +139,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 05/10/2020 23:45
+[  Debug ]    skipped : show that happened before 'today' @ 07/10/2020 23:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -229,7 +227,6 @@
 [  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 05/10/2020 21:41
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
@@ -255,9 +252,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12037 shows in 60 channels
-[  Debug ] 142 updated shows
-[  Debug ] 32 new shows added
+[  Debug ] 14705 shows in 60 channels
+[  Debug ] 1245 updated shows
+[  Debug ] 3568 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 06/10/2020 00:12:56 done in 4m 18s
+[        ] Job finished at 08/10/2020 22:06:58 done in 6m 11s
