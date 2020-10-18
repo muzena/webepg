@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 18/10/2020 23:02:30
+[        ] Job started at 19/10/2020 00:08:20
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.0.50900
 [  Debug ] Environment: 4.0.30319.42000
@@ -130,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 17/10/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 18/10/2020 23:12
 [  Debug ] coming 'Day-Light-Saving-Time' change!
 [  Debug ] time-offset change for all shows after stoptime 20201025070000 +0100
 [  Debug ] starting with show : Infostranice at local time 25/10/2020 07:00
@@ -138,13 +138,14 @@
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201018053000 +0200
-[  Debug ] starting with show : DW Tomorrow Today at local time 18/10/2020 05:30
+[  Debug ] time-offset change for all shows after starttime 20201019053000 +0200
+[  Debug ] starting with show : Tech Radar at local time 19/10/2020 05:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 18/10/2020 23:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -245,6 +246,7 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 18/10/2020 23:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
@@ -257,9 +259,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14935 shows in 60 channels
-[  Debug ] 182 updated shows
-[  Debug ] 1154 new shows added
+[  Debug ] 12783 shows in 60 channels
+[  Debug ] 0 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 18/10/2020 23:07:59 done in 5m 29s
+[        ] Job finished at 19/10/2020 00:12:48 done in 4m 27s
