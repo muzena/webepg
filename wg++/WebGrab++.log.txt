@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 20/10/2020 00:09:18
+[        ] Job started at 20/10/2020 12:10:05
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.0.50900
 [  Debug ] Environment: 4.0.30319.42000
@@ -115,8 +115,8 @@
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201020054500 +0200
-[  Debug ] starting with show : Kulturna baština at local time 20/10/2020 05:45
+[  Debug ] time-offset change for all shows after starttime 20201020055900 +0200
+[  Debug ] starting with show : Vijesti na španjolskom jeziku at local time 20/10/2020 05:59
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:40:00 and stop at 25/10/2020 03:50:00
 [  Info  ] 
@@ -143,8 +143,8 @@
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201020051500 +0200
-[  Debug ] starting with show : Castle at local time 20/10/2020 05:15
+[  Debug ] time-offset change for all shows after starttime 20201020055500 +0200
+[  Debug ] starting with show : Castle at local time 20/10/2020 05:55
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:10:00 and stop at 25/10/2020 03:50:00
 [  Info  ] 
@@ -394,9 +394,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 13188 shows in 60 channels
-[  Debug ] 302 updated shows
-[  Debug ] 1440 new shows added
+[  Debug ] 13189 shows in 60 channels
+[  Debug ] 60 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 20/10/2020 00:14:29 done in 5m 10s
+[        ] Job finished at 20/10/2020 12:14:52 done in 4m 46s
