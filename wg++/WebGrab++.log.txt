@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 21/10/2020 00:09:16
+[        ] Job started at 21/10/2020 12:10:16
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.0.50900
 [  Debug ] Environment: 4.0.30319.42000
@@ -141,8 +141,8 @@
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021051500 +0200
-[  Debug ] starting with show : Castle at local time 21/10/2020 05:15
+[  Debug ] time-offset change for all shows after starttime 20201021055500 +0200
+[  Debug ] starting with show : Castle at local time 21/10/2020 05:55
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:00:00 and stop at 25/10/2020 03:40:00
 [  Info  ] 
@@ -263,8 +263,8 @@
 [  Debug ] 
 [  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201022011500 +0200
-[  Debug ] starting with show : Viktoria at local time 22/10/2020 01:15
+[  Debug ] time-offset change for all shows after starttime 20201021042000 +0200
+[  Debug ] starting with show : Stanje pripravnosti at local time 21/10/2020 04:20
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  35/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
@@ -392,9 +392,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 13017 shows in 60 channels
-[  Debug ] 381 updated shows
-[  Debug ] 1218 new shows added
+[  Debug ] 13015 shows in 60 channels
+[  Debug ] 73 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 21/10/2020 00:14:16 done in 4m 59s
+[        ] Job finished at 21/10/2020 12:14:58 done in 4m 42s
