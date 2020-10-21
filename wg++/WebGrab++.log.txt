@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 21/10/2020 13:01:26
+[        ] Job started at 21/10/2020 14:34:45
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -112,13 +112,9 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 21/10/2020 05:59
-[  Debug ]                                       to 21/10/2020 06:02
 [  Debug ] coming 'Day-Light-Saving-Time' change!
 [  Debug ] time-offset change for all shows after starttime 20201021055000 +0200
 [  Debug ] starting with show : DW at local time 21/10/2020 05:50
-[  Debug ]    skipped : fully overlapping show from 21/10/2020 06:57
-[  Debug ]                                       to 21/10/2020 07:00
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:40:00 and stop at 25/10/2020 03:50:00
 [  Info  ] 
@@ -396,9 +392,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 13010 shows in 60 channels
-[  Debug ] 75 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 15013 shows in 60 channels
+[  Debug ] 0 updated shows
+[  Debug ] 1204 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 21/10/2020 13:06:19 done in 4m 52s
+[        ] Job finished at 21/10/2020 14:40:23 done in 5m 38s
