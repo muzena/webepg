@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 21/10/2020 14:34:45
+[        ] Job started at 22/10/2020 00:09:17
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -93,30 +93,32 @@
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025035000 +0100
-[  Debug ] starting with show : Đavolov vrt at local time 25/10/2020 03:50
+[  Debug ] time-offset change for all shows after stoptime 20201025032000 +0100
+[  Debug ] starting with show : Agenda: Svijet at local time 25/10/2020 03:20
+[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
+      invalid start at 25/10/2020 03:20:00 and stop at 25/10/2020 03:50:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021052600 +0200
-[  Debug ] starting with show : Što je klasik? at local time 21/10/2020 05:26
+[  Debug ] time-offset change for all shows after starttime 20201022053100 +0200
+[  Debug ] starting with show : Knjiga ili život at local time 22/10/2020 05:31
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025030000 +0100
-[  Debug ] starting with show : Vatrena kugla at local time 25/10/2020 03:00
-[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
-      invalid start at 25/10/2020 03:00:00 and stop at 25/10/2020 03:01:00
+[  Debug ] time-offset change for all shows after stoptime 20201025041000 +0100
+[  Debug ] starting with show : Trgovci robljem at local time 25/10/2020 04:10
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021055000 +0200
-[  Debug ] starting with show : DW at local time 21/10/2020 05:50
+[  Debug ] time-offset change for all shows after starttime 20201022054500 +0200
+[  Debug ] starting with show : Kulturna baština at local time 22/10/2020 05:45
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
-      invalid start at 25/10/2020 03:40:00 and stop at 25/10/2020 03:50:00
+      invalid start at 25/10/2020 03:00:00 and stop at 25/10/2020 03:05:00
+[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
+      invalid start at 25/10/2020 03:05:00 and stop at 25/10/2020 03:10:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -127,8 +129,8 @@
 [  Debug ] 
 [  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021050500 +0200
-[  Debug ] starting with show : Top.HR at local time 21/10/2020 05:05
+[  Debug ] time-offset change for all shows after starttime 20201022054000 +0200
+[  Debug ] starting with show : Krv nije voda at local time 22/10/2020 05:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
@@ -141,8 +143,8 @@
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021055500 +0200
-[  Debug ] starting with show : Castle at local time 21/10/2020 05:55
+[  Debug ] time-offset change for all shows after starttime 20201022051500 +0200
+[  Debug ] starting with show : Castle at local time 22/10/2020 05:15
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:00:00 and stop at 25/10/2020 03:40:00
 [  Info  ] 
@@ -161,14 +163,14 @@
 [  Debug ] 
 [  Info  ] (  13/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021023000 +0200
-[  Debug ] starting with show : Glazbeni kanal at local time 21/10/2020 02:30
+[  Debug ] time-offset change for all shows after starttime 20201022023000 +0200
+[  Debug ] starting with show : Glazbeni kanal at local time 22/10/2020 02:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 20/10/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 21/10/2020 23:12
 [  Debug ] coming 'Day-Light-Saving-Time' change!
 [  Debug ] time-offset change for all shows after stoptime 20201025070000 +0100
 [  Debug ] starting with show : Infostranice at local time 25/10/2020 07:00
@@ -176,14 +178,14 @@
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021053000 +0200
-[  Debug ] starting with show : DW Euromaxx at local time 21/10/2020 05:30
+[  Debug ] time-offset change for all shows after starttime 20201022053000 +0200
+[  Debug ] starting with show : DW Tomorrow Today at local time 22/10/2020 05:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 20/10/2020 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 21/10/2020 23:45
 [  Debug ] coming 'Day-Light-Saving-Time' change!
 [  Debug ] time-offset change for all shows after stoptime 20201025093000 +0100
 [  Debug ] starting with show : Kraj programa at local time 25/10/2020 09:30
@@ -193,8 +195,8 @@
 [  Debug ] 
 [  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021054500 +0200
-[  Debug ] starting with show : Lego Ninjago at local time 21/10/2020 05:45
+[  Debug ] time-offset change for all shows after starttime 20201022055500 +0200
+[  Debug ] starting with show : Kockići at local time 22/10/2020 05:55
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:10:00 and stop at 25/10/2020 03:25:00
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
@@ -217,8 +219,8 @@
 [  Debug ] 
 [  Info  ] (  24/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar  TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021035200 +0200
-[  Debug ] starting with show : Kolaž program at local time 21/10/2020 03:52
+[  Debug ] time-offset change for all shows after starttime 20201022045100 +0200
+[  Debug ] starting with show : Kolaž program at local time 22/10/2020 04:51
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Cines same as -- CineStar  TV -- time offset 0 hour(s)
@@ -233,8 +235,8 @@
 [  Debug ] 
 [  Info  ] (  28/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Comedy Central) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021054000 +0200
-[  Debug ] starting with show : Dvije prijateljice i beba at local time 21/10/2020 05:40
+[  Debug ] time-offset change for all shows after starttime 20201022054000 +0200
+[  Debug ] starting with show : Dvije prijateljice i beba at local time 22/10/2020 05:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
@@ -249,8 +251,8 @@
 [  Debug ] 
 [  Info  ] (  32/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021051500 +0200
-[  Debug ] starting with show : Agenti SHIELD-a at local time 21/10/2020 05:15
+[  Debug ] time-offset change for all shows after starttime 20201022052000 +0200
+[  Debug ] starting with show : Agenti SHIELD-a at local time 22/10/2020 05:20
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:10:00 and stop at 25/10/2020 03:35:00
 [  Info  ] 
@@ -263,8 +265,8 @@
 [  Debug ] 
 [  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021042000 +0200
-[  Debug ] starting with show : Stanje pripravnosti at local time 21/10/2020 04:20
+[  Debug ] time-offset change for all shows after starttime 20201022045500 +0200
+[  Debug ] starting with show : Svijet je velik, a spas čeka iza ugla at local time 22/10/2020 04:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  35/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
@@ -279,8 +281,8 @@
 [  Debug ] 
 [  Info  ] (  37/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021031600 +0200
-[  Debug ] starting with show : Kolaž program at local time 21/10/2020 03:16
+[  Debug ] time-offset change for all shows after starttime 20201022023200 +0200
+[  Debug ] starting with show : Kolaž program at local time 22/10/2020 02:32
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
@@ -297,8 +299,8 @@
 [  Debug ] 
 [  Info  ] (  41/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021050000 +0200
-[  Debug ] starting with show : Muzejske tajne at local time 21/10/2020 05:00
+[  Debug ] time-offset change for all shows after starttime 20201022051000 +0200
+[  Debug ] starting with show : Muzejske tajne at local time 22/10/2020 05:10
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Explo same as -- Viasat Explore -- time offset 0 hour(s)
@@ -333,8 +335,8 @@
 [  Debug ] 
 [  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021055000 +0200
-[  Debug ] starting with show : Grizzy and the Lemmings at local time 21/10/2020 05:50
+[  Debug ] time-offset change for all shows after starttime 20201022055000 +0200
+[  Debug ] starting with show : Grizzy and the Lemmings at local time 22/10/2020 05:50
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:00:00 and stop at 25/10/2020 03:05:00
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
@@ -361,12 +363,12 @@
 [  Debug ] 
 [  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021000000 +0200
-[  Debug ] starting with show : Nesanica at local time 21/10/2020 00:00
+[  Debug ] time-offset change for all shows after starttime 20201022000000 +0200
+[  Debug ] starting with show : Nesanica at local time 22/10/2020 00:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 20/10/2020 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 21/10/2020 23:00
 [  Debug ] coming 'Day-Light-Saving-Time' change!
 [  Debug ] time-offset change for all shows after stoptime 20201025060000 +0100
 [  Debug ] starting with show : ... So 80s! at local time 25/10/2020 06:00
@@ -374,8 +376,8 @@
 [  Debug ] 
 [  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201021055500 +0200
-[  Debug ] starting with show : F-Parties at local time 21/10/2020 05:55
+[  Debug ] time-offset change for all shows after starttime 20201022055500 +0200
+[  Debug ] starting with show : F-Parties at local time 22/10/2020 05:55
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:00:00 and stop at 25/10/2020 03:30:00
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
@@ -392,9 +394,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 15013 shows in 60 channels
-[  Debug ] 0 updated shows
-[  Debug ] 1204 new shows added
+[  Debug ] 12789 shows in 60 channels
+[  Debug ] 544 updated shows
+[  Debug ] 22 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 21/10/2020 14:40:23 done in 5m 38s
+[        ] Job finished at 22/10/2020 00:14:13 done in 4m 55s
