@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 22/10/2020 12:10:30
+[        ] Job started at 22/10/2020 17:16:12
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -101,8 +101,8 @@
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201022053100 +0200
-[  Debug ] starting with show : Knjiga ili život at local time 22/10/2020 05:31
+[  Debug ] time-offset change for all shows after starttime 20201022055900 +0200
+[  Debug ] starting with show : Regionalni dnevnik at local time 22/10/2020 05:59
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
@@ -113,8 +113,16 @@
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201022054500 +0200
-[  Debug ] starting with show : Kulturna baština at local time 22/10/2020 05:45
+[  Debug ] time-offset change for all shows after starttime 20201022055900 +0200
+[  Debug ] starting with show : Bez komentara: Španjolska at local time 22/10/2020 05:59
+[  Debug ]    conflicting stoptime or duration in show starting at 22/10/2020 12:09
+[  Debug ]    stoptime 22/10/2020 13:07               corrected to 22/10/2020 13:00
+[  Debug ]    conflicting stoptime or duration in show starting at 22/10/2020 13:00
+[  Debug ]    stoptime 22/10/2020 13:10               corrected to 22/10/2020 13:07
+[  Debug ]    conflicting stoptime or duration in show starting at 23/10/2020 04:59
+[  Debug ]    stoptime 23/10/2020 05:04               corrected to 23/10/2020 05:00
+[  Debug ]    conflicting stoptime or duration in show starting at 23/10/2020 05:00
+[  Debug ]    stoptime 23/10/2020 05:05               corrected to 23/10/2020 05:04
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:00:00 and stop at 25/10/2020 03:05:00
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
@@ -129,8 +137,8 @@
 [  Debug ] 
 [  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201022054000 +0200
-[  Debug ] starting with show : Krv nije voda at local time 22/10/2020 05:40
+[  Debug ] time-offset change for all shows after starttime 20201022054500 +0200
+[  Debug ] starting with show : Bebeceda at local time 22/10/2020 05:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
@@ -394,9 +402,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12788 shows in 60 channels
-[  Debug ] 100 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 15019 shows in 60 channels
+[  Debug ] 310 updated shows
+[  Debug ] 1321 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 22/10/2020 12:15:12 done in 4m 41s
+[        ] Job finished at 22/10/2020 17:22:04 done in 5m 52s
