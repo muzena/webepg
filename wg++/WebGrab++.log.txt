@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 23/10/2020 00:09:21
+[        ] Job started at 23/10/2020 12:10:08
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -22,9 +22,6 @@
 [  Info  ] found: /tmp/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
 [  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
 [  Debug ] xmltv input file - /tmp/webepg/guide-iskon.xml - found
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
 [  Debug ] 0 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=HRT 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=HRT 2) in the config file
@@ -95,26 +92,11 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
-[  Debug ] 
-[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
 [  Debug ] time-offset change for all shows after stoptime 20201025032000 +0100
 [  Debug ] starting with show : Agenda: Svijet at local time 25/10/2020 03:20
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:20:00 and stop at 25/10/2020 03:50:00
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025050000 +0100
-[  Debug ] starting with show : Report at local time 25/10/2020 05:00
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
-[  Debug ] 
-[  Debug ] 12788 shows in 60 channels
-[  Debug ] 268 updated shows
-[  Debug ] 0 new shows added
-[  Info  ] 
-[  Info  ] 
-[        ] Job finished at 23/10/2020 00:09:36 done in 5m 4s
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
@@ -161,8 +143,8 @@
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201023051500 +0200
-[  Debug ] starting with show : Castle at local time 23/10/2020 05:15
+[  Debug ] time-offset change for all shows after starttime 20201023053500 +0200
+[  Debug ] starting with show : Castle at local time 23/10/2020 05:35
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:10:00 and stop at 25/10/2020 03:55:00
 [  Info  ] 
@@ -412,9 +394,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12788 shows in 60 channels
-[  Debug ] 0 updated shows
+[  Debug ] 12786 shows in 60 channels
+[  Debug ] 110 updated shows
 [  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 23/10/2020 00:14:01 done in 4m 39s
+[        ] Job finished at 23/10/2020 12:14:46 done in 4m 38s
