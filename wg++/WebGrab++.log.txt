@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 24/10/2020 00:09:12
+[        ] Job started at 24/10/2020 10:10:45
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -93,14 +93,14 @@
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025035400 +0100
-[  Debug ] starting with show : Đavolov vrt at local time 25/10/2020 03:54
+[  Debug ] time-offset change for all shows after stoptime 20201025035500 +0100
+[  Debug ] starting with show : Đavolov vrt at local time 25/10/2020 03:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201024054900 +0200
-[  Debug ] starting with show : Regionalni dnevnik at local time 24/10/2020 05:49
+[  Debug ] time-offset change for all shows after starttime 20201024054700 +0200
+[  Debug ] starting with show : Regionalni dnevnik at local time 24/10/2020 05:47
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
@@ -111,8 +111,8 @@
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201024054600 +0200
-[  Debug ] starting with show : Kulturna baština at local time 24/10/2020 05:46
+[  Debug ] time-offset change for all shows after starttime 20201024054500 +0200
+[  Debug ] starting with show : Kulturna baština at local time 24/10/2020 05:45
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:00:00 and stop at 25/10/2020 03:05:00
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
@@ -121,22 +121,20 @@
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025033000 +0100
-[  Debug ] starting with show : Alien 3 at local time 25/10/2020 03:30
+[  Debug ] time-offset change for all shows after stoptime 20201025033500 +0100
+[  Debug ] starting with show : Alien 3 at local time 25/10/2020 03:35
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201024052500 +0200
-[  Debug ] starting with show : Mjenjačnica at local time 24/10/2020 05:25
+[  Debug ] time-offset change for all shows after starttime 20201024051500 +0200
+[  Debug ] starting with show : Slučajni turist at local time 24/10/2020 05:15
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
 [  Debug ] time-offset change for all shows after stoptime 20201025033500 +0100
 [  Debug ] starting with show : Zvjezdani ratovi: Posljednji Jedi at local time 25/10/2020 03:35
-[  Debug ]    skipped : fully overlapping show from 26/10/2020 23:40
-[  Debug ]                                       to 26/10/2020 02:15
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
@@ -194,8 +192,8 @@
 [  Debug ] 
 [  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201024052500 +0200
-[  Debug ] starting with show : Kockići at local time 24/10/2020 05:25
+[  Debug ] time-offset change for all shows after starttime 20201024053000 +0200
+[  Debug ] starting with show : Kockići at local time 24/10/2020 05:30
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
       invalid start at 25/10/2020 03:10:00 and stop at 25/10/2020 03:25:00
 [  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
@@ -238,6 +236,10 @@
 [  Debug ] coming 'Day-Light-Saving-Time' change!
 [  Debug ] time-offset change for all shows after starttime 20201024054000 +0200
 [  Debug ] starting with show : Dvije prijateljice i beba at local time 24/10/2020 05:40
+[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
+      invalid start at 25/10/2020 03:05:00 and stop at 25/10/2020 03:30:00
+[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
+      invalid start at 25/10/2020 03:30:00 and stop at 25/10/2020 03:55:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
@@ -290,8 +292,10 @@
 [  Debug ] 
 [  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025032000 +0100
-[  Debug ] starting with show : Negostoljubivi Planet at local time 25/10/2020 03:20
+[  Debug ] time-offset change for all shows after stoptime 20201025030500 +0100
+[  Debug ] starting with show : Negostoljubivi Planet at local time 25/10/2020 03:05
+[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
+      invalid start at 25/10/2020 03:05:00 and stop at 25/10/2020 03:50:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
@@ -392,9 +396,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12934 shows in 60 channels
-[  Debug ] 517 updated shows
-[  Debug ] 1384 new shows added
+[  Debug ] 12931 shows in 60 channels
+[  Debug ] 235 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 24/10/2020 00:14:17 done in 5m 5s
+[        ] Job finished at 24/10/2020 10:15:50 done in 5m 5s
