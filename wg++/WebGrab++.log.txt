@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 24/10/2020 10:10:45
+[        ] Job started at 24/10/2020 12:08:02
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -351,54 +351,25 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025030500 +0100
-[  Debug ] starting with show : Vodeni svijet Malih Gupija at local time 25/10/2020 03:05
-[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
-      invalid start at 25/10/2020 03:05:00 and stop at 25/10/2020 03:25:00
-[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
-      invalid start at 25/10/2020 03:25:00 and stop at 25/10/2020 03:45:00
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201024000000 +0200
-[  Debug ] starting with show : Nesanica at local time 24/10/2020 00:00
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025050000 +0100
-[  Debug ] starting with show : ... So 80s! at local time 25/10/2020 05:00
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201024055500 +0200
-[  Debug ] starting with show : F-Parties at local time 24/10/2020 05:55
-[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
-      invalid start at 25/10/2020 03:00:00 and stop at 25/10/2020 03:30:00
-[  Debug ]    skipped a show scheduled in the DayLight Saving Time transition period
-      invalid start at 25/10/2020 03:30:00 and stop at 25/10/2020 03:55:00
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025050000 +0100
-[  Debug ] starting with show : Report at local time 25/10/2020 05:00
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
-[  Debug ] 
-[  Debug ] 12931 shows in 60 channels
-[  Debug ] 235 updated shows
-[  Debug ] 0 new shows added
-[  Info  ] 
-[  Info  ] 
-[        ] Job finished at 24/10/2020 10:15:50 done in 5m 5s
+[        ] Job finished at 24/10/2020 12:13:46 done in 5m 44s
+[Critical] 
+Object reference not set to an instance of an object
+[Critical] 
+  at System.Xml.DocumentXPathNavigator.MoveToNextAttribute () [0x0004d] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at MS.Internal.Xml.XPath.AttributeQuery.Advance () [0x0004e] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at MS.Internal.Xml.XPath.LogicalExpr+NodeSet.MoveNext () [0x00000] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at MS.Internal.Xml.XPath.LogicalExpr.cmpQueryStringE (MS.Internal.Xml.XPath.Operator+Op op, System.Object val1, System.Object val2) [0x00023] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at MS.Internal.Xml.XPath.LogicalExpr.Evaluate (System.Xml.XPath.XPathNodeIterator nodeIterator) [0x00050] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at MS.Internal.Xml.XPath.BooleanExpr.Evaluate (System.Xml.XPath.XPathNodeIterator nodeIterator) [0x00000] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at MS.Internal.Xml.XPath.FilterQuery.EvaluatePredicate () [0x00000] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at MS.Internal.Xml.XPath.FilterQuery.Advance () [0x00002] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at MS.Internal.Xml.XPath.XPathSelectionIterator.MoveNext () [0x00000] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at System.Xml.XPathNodeList.ReadUntil (System.Int32 index) [0x0000e] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at System.Xml.XPathNodeList.get_Count () [0x00008] in <ffe1f7bdb820468982fbee92905c6f3b>:0 
+  at  .‧.  (System.String , System.String , System.String ) [0x00098] in <0f59fd7366ad487bb81e4b3aae62fce8>:0 
+  at  .‧.  (System.Xml.XmlNode ) [0x00042] in <0f59fd7366ad487bb81e4b3aae62fce8>:0 
+  at  .―.  ( .  ,  .‧ ) [0x0025a] in <0f59fd7366ad487bb81e4b3aae62fce8>:0 
+  at  .―.  (System.String[] ) [0x021d6] in <0f59fd7366ad487bb81e4b3aae62fce8>:0 
+[Critical] Unhandled Exception
+[Critical] For detailed info, see log file /tmp/webepg/wg++/WebGrab++.log.txt
+[Critical] Execution stopped
