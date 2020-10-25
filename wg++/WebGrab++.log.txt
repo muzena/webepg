@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 25/10/2020 00:10:29
+[        ] Job started at 25/10/2020 12:51:58
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -83,6 +83,7 @@
 [  Info  ] Found existing channel (xmltv_id=FineL) in the config file
 [  Info  ] Found existing channel (xmltv_id=Woman) in the config file
 [  Info  ] Found existing channel (xmltv_id=WOMAN) in the config file
+[  Info  ] time offset change detected for site tv.iskon.hr.EK from: +0200 to: +0100
 [  Info  ] 
 [  Info  ] 
 [  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
@@ -92,9 +93,12 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201025045500 +0100
-[  Debug ] starting with show : Istrage prometnih nesreća at local time 25/10/2020 04:55
+[  Debug ]    conflicting stoptime or duration in show starting at 25/10/2020 04:30
+[  Debug ]    stoptime 25/10/2020 05:00               corrected to 25/10/2020 04:55
+[  Debug ]    conflicting stoptime or duration in show starting at 25/10/2020 04:55
+[  Debug ]    stoptime 25/10/2020 05:20               corrected to 25/10/2020 05:00
+[  Debug ]    skipped : fully overlapping show from 25/10/2020 05:20
+[  Debug ]                                       to 25/10/2020 05:24
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
@@ -104,6 +108,16 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 25/10/2020 06:10
+[  Debug ]                                       to 25/10/2020 06:11
+[  Debug ]    skipped : fully overlapping show from 25/10/2020 07:01
+[  Debug ]                                       to 25/10/2020 07:05
+[  Debug ]    skipped : fully overlapping show from 25/10/2020 07:09
+[  Debug ]                                       to 25/10/2020 07:10
+[  Debug ]    conflicting stoptime or duration in show starting at 25/10/2020 07:10
+[  Debug ]    stoptime 25/10/2020 07:12               corrected to 25/10/2020 07:11
+[  Debug ]    conflicting stoptime or duration in show starting at 25/10/2020 07:11
+[  Debug ]    stoptime 25/10/2020 07:20               corrected to 25/10/2020 07:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -285,9 +299,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12910 shows in 60 channels
-[  Debug ] 3456 updated shows
-[  Debug ] 1285 new shows added
+[  Debug ] 12907 shows in 60 channels
+[  Debug ] 154 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 25/10/2020 00:16:43 done in 6m 14s
+[        ] Job finished at 25/10/2020 12:57:18 done in 5m 19s
