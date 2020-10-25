@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 25/10/2020 12:51:58
+[        ] Job started at 26/10/2020 00:08:45
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -93,12 +93,6 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 25/10/2020 04:30
-[  Debug ]    stoptime 25/10/2020 05:00               corrected to 25/10/2020 04:55
-[  Debug ]    conflicting stoptime or duration in show starting at 25/10/2020 04:55
-[  Debug ]    stoptime 25/10/2020 05:20               corrected to 25/10/2020 05:00
-[  Debug ]    skipped : fully overlapping show from 25/10/2020 05:20
-[  Debug ]                                       to 25/10/2020 05:24
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
@@ -108,16 +102,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 25/10/2020 06:10
-[  Debug ]                                       to 25/10/2020 06:11
-[  Debug ]    skipped : fully overlapping show from 25/10/2020 07:01
-[  Debug ]                                       to 25/10/2020 07:05
-[  Debug ]    skipped : fully overlapping show from 25/10/2020 07:09
-[  Debug ]                                       to 25/10/2020 07:10
-[  Debug ]    conflicting stoptime or duration in show starting at 25/10/2020 07:10
-[  Debug ]    stoptime 25/10/2020 07:12               corrected to 25/10/2020 07:11
-[  Debug ]    conflicting stoptime or duration in show starting at 25/10/2020 07:11
-[  Debug ]    stoptime 25/10/2020 07:20               corrected to 25/10/2020 07:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -142,18 +126,12 @@
 [  Info  ] channel RTLli same as -- RTL Living -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  13/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201025022000 +0200
-[  Debug ] starting with show : Glazbeni kanal at local time 25/10/2020 02:20
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025070000 +0100
-[  Debug ] starting with show : Glazbeni kanal at local time 25/10/2020 07:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 24/10/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 25/10/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -162,12 +140,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201025000000 +0200
-[  Debug ] starting with show : Kraj programa at local time 25/10/2020 00:00
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025093000 +0100
-[  Debug ] starting with show : Kraj programa at local time 25/10/2020 09:30
+[  Debug ]    skipped : show that happened before 'today' @ 25/10/2020 23:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -206,12 +179,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201025022500 +0200
-[  Debug ] starting with show : Umri muški at local time 25/10/2020 02:25
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025060000 +0100
-[  Debug ] starting with show : Umri muški at local time 25/10/2020 06:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
@@ -271,16 +238,9 @@
 [  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201025000000 +0200
-[  Debug ] starting with show : Nesanica at local time 25/10/2020 00:00
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025070000 +0100
-[  Debug ] starting with show : Nesanica at local time 25/10/2020 07:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 24/10/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
@@ -289,19 +249,13 @@
 [  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20201025025000 +0200
-[  Debug ] starting with show : Report at local time 25/10/2020 02:50
-[  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20201025050000 +0100
-[  Debug ] starting with show : Report at local time 25/10/2020 05:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12907 shows in 60 channels
-[  Debug ] 154 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 12940 shows in 60 channels
+[  Debug ] 0 updated shows
+[  Debug ] 1275 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 25/10/2020 12:57:18 done in 5m 19s
+[        ] Job finished at 26/10/2020 00:13:35 done in 4m 49s
