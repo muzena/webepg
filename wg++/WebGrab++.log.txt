@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 27/10/2020 12:11:12
+[        ] Job started at 27/10/2020 17:30:33
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -92,12 +92,54 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 16:43
+[  Debug ]                                       to 30/10/2020 17:00
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 18:58
+[  Debug ]                                       to 30/10/2020 19:00
+[  Debug ]    skipped : fully overlapping show from 31/10/2020 05:07
+[  Debug ]                                       to 31/10/2020 05:10
+[  Debug ]    skipped : fully overlapping show from 31/10/2020 18:58
+[  Debug ]                                       to 31/10/2020 19:00
+[  Debug ]    conflicting stoptime or duration in show starting at 01/11/2020 04:30
+[  Debug ]    stoptime 01/11/2020 04:45               corrected to 01/11/2020 04:34
+[  Debug ]    skipped : fully overlapping show from 01/11/2020 04:45
+[  Debug ]                                       to 01/11/2020 05:15
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 04:15
+[  Debug ]                                       to 30/10/2020 05:20
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 06:59
+[  Debug ]                                       to 30/10/2020 07:00
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 07:28
+[  Debug ]                                       to 30/10/2020 07:29
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 07:35
+[  Debug ]                                       to 30/10/2020 07:36
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 08:07
+[  Debug ]                                       to 30/10/2020 08:08
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 08:08
+[  Debug ]                                       to 30/10/2020 08:09
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 08:52
+[  Debug ]                                       to 30/10/2020 08:55
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 09:09
+[  Debug ]                                       to 30/10/2020 09:10
+[  Debug ]    skipped : fully overlapping show from 30/10/2020 09:10
+[  Debug ]                                       to 30/10/2020 09:11
+[  Debug ]    conflicting stoptime or duration in show starting at 31/10/2020 12:50
+[  Debug ]    stoptime 31/10/2020 13:40               corrected to 31/10/2020 12:55
+[  Debug ]    skipped : fully overlapping show from 31/10/2020 13:40
+[  Debug ]                                       to 31/10/2020 14:10
+[  Debug ]    skipped : fully overlapping show from 31/10/2020 14:10
+[  Debug ]                                       to 31/10/2020 14:25
+[  Debug ]    skipped : fully overlapping show from 31/10/2020 14:25
+[  Debug ]                                       to 31/10/2020 16:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 01/11/2020 23:20
+[  Debug ]                                       to 02/11/2020 00:00
+[  Debug ]    conflicting stoptime or duration in show starting at 02/11/2020 00:25
+[  Debug ]    stoptime 02/11/2020 01:25               corrected to 02/11/2020 01:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
@@ -232,29 +274,3 @@
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
-[  Debug ] 
-[  Debug ] 13094 shows in 60 channels
-[  Debug ] 168 updated shows
-[  Debug ] 0 new shows added
-[  Info  ] 
-[  Info  ] 
-[        ] Job finished at 27/10/2020 12:16:26 done in 5m 13s
