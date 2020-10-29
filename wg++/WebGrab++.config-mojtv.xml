@@ -20,7 +20,7 @@
     <channel update="i" site="mojtv.hr" site_id="310/htv3" xmltv_id="HTV3">HTV3</channel>
     <channel offset="0" same_as="HTV3" xmltv_id="HRT 3">HRT 3</channel>
     <channel update="i" site="mojtv.hr" site_id="341/htv-4" xmltv_id="HTV 4">HTV 4</channel>
-    <channel offset="0" same_as="HTV4" xmltv_id="HRT 4">HRT 4</channel>
+    <channel offset="0" same_as="HTV 4" xmltv_id="HRT 4">HRT 4</channel>
     <channel update="i" site="mojtv.hr" site_id="3/nova-tv" xmltv_id="NOVA TV">NOVA TV</channel>
     <channel offset="0" same_as="NOVA TV" xmltv_id="NOVA">NOVA</channel>
     <channel update="i" site="mojtv.hr" site_id="4/rtl" xmltv_id="RTL">RTL</channel>
@@ -63,7 +63,6 @@
     <channel update="i" site="mojtv.hr" site_id="297/disney-channel" xmltv_id="Disney Channel">Disney Channel</channel>
     <channel update="i" site="mojtv.hr" site_id="89/mini-tv" xmltv_id="Mini TV">Mini TV</channel>
     <channel offset="0" same_as="Mini TV" xmltv_id="Mini">Mini</channel>
-    <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
     <channel update="i" site="mojtv.hr" site_id="244/sportska-televizija" xmltv_id="Sportska Televizija">Sportska Televizija</channel>
     <channel offset="0" same_as="Sportska Televizija" xmltv_id="SPTV">SPTV</channel>
     <!-- <channel update="i" site="mojtv.hr" site_id="50/eurosport" xmltv_id="Eurosport">Eurosport</channel>
