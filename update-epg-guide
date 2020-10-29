@@ -173,7 +173,7 @@ EOF
 wait $!
 #update_Main_grabber
 wait $!
-#update_Mojtv_grabber
+update_Mojtv_grabber
 wait $!
 update_a1_grabber
 wait $!
