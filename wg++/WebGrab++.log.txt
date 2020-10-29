@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 29/10/2020 19:35:58
+[        ] Job started at 29/10/2020 20:14:32
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -18,27 +18,75 @@
 [  Debug ] Reading config file: /tmp/webepg/wg++/WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[Error   ] The xmltv_id=HTV4 for this same_as channel xmltv_id=HRT 4 could not be found!
-[Error   ] Skipping this channel
 [Warning ] The total channel count :20 exceeds the number 20 allowed for license 'default'
 [Warning ] The total channel count set to :20
 [  Debug ] 
 [  Info  ] found: /tmp/webepg/wg++/mojtv.hr.ini -- Revision 05
-[        ] Job finished at 29/10/2020 19:35:59 done in 0s
-[Critical] 
-[Error   ] error in channel list of the config file!![Error   ]      duplicate xmltv_id value --  -- !![Error   ]      in :[Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>[Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>[Error   ] duplicate xmltv-id entries will mess-up the xmltv output![Error   ] ---- correct the channel-list to have unique xmltv-id values ---
-[Critical] 
-  at  . ..ctor (System.String ) [0x0137a] in <dec16303726145568c1914deb0d540de>:0 
-  at  .―.  (System.String[] ) [0x00351] in <dec16303726145568c1914deb0d540de>:0 
-[Critical] Config syntax exception:
-[Critical]       file: /tmp/webepg/wg++/WebGrab++.config.xml
-[Critical]    message: 
-[Error   ] error in channel list of the config file!!
-[Error   ]      duplicate xmltv_id value --  -- !!
-[Error   ]      in :
-[Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
-[Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
-[Error   ] duplicate xmltv-id entries will mess-up the xmltv output!
-[Error   ] ---- correct the channel-list to have unique xmltv-id values ---
-[Critical] For detailed info, see log file /tmp/webepg/wg++/WebGrab++.log.txt
-[Critical] Execution stopped
+[  Info  ] input file /tmp/webepg/guide-mojtv.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 58 - out of - 20 - channels for 4 day(s)
+[  Debug ] 
+[  Info  ] (   1/20  ) MOJTV.HR -- chan. (xmltv_id=HTV1) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel HRT 1 same as -- HTV1 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (   3/20  ) MOJTV.HR -- chan. (xmltv_id=HTV2) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel HRT 2 same as -- HTV2 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (   5/20  ) MOJTV.HR -- chan. (xmltv_id=HTV3) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel HRT 3 same as -- HTV3 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (   7/20  ) MOJTV.HR -- chan. (xmltv_id=HTV 4) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel HRT 4 same as -- HTV 4 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (   9/20  ) MOJTV.HR -- chan. (xmltv_id=NOVA TV) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  11/20  ) MOJTV.HR -- chan. (xmltv_id=RTL) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/20  ) MOJTV.HR -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  14/20  ) MOJTV.HR -- chan. (xmltv_id=RTL2) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel RTL 2 same as -- RTL2 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  16/20  ) MOJTV.HR -- chan. (xmltv_id=RTL Kockica) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel RTLko same as -- RTL Kockica -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  18/20  ) MOJTV.HR -- chan. (xmltv_id=RTL Living) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel RTLli same as -- RTL Living -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  20/20  ) MOJTV.HR -- chan. (xmltv_id=Cinestar Action &Thriller) -- mode Incremental
+[  Info  ] 
+[  Info  ] Maximum number of allowed channels 20 reached!
+[  Debug ] 
+[  Debug ] 3356 shows in 58 channels
+[  Debug ] 0 updated shows
+[  Debug ] 1756 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 29/10/2020 20:18:37 done in 4m 4s
