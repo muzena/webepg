@@ -50,29 +50,16 @@ EOF
 
 function update_Mojtv_grabber()
 {
-rm $WEB_PATH/pharser/libEPG-Mojtv.config
-rm $WEB_PATH/wg++/WebGrab++.config.xml
-#### EPG from Mojtv
+#### Grab EPG from Mojtv
 cp $WEB_PATH/wg++/WebGrab++.config-mojtv.xml $WEB_PATH/wg++/WebGrab++.config.xml
 cd wg++
 mono WebGrab+Plus.exe "$(pwd)"
 wait $!
 cd ..
-####### Fix channel names mojtv
-#fixchannelnames_mojtv
-wait $!
-#### Generate mojtv config file
-cp guide-mojtv-test.xml $WEB_PATH/pharser/guide-mojtv.xml
-cd pharser
-# generate mojtv config file
-##### mojtv pharser
-python pharser-mojtv.py
-wait $!
-rm guide-mojtv.xml
-cd ..
+rm $WEB_PATH/wg++/WebGrab++.config.xml
 wait $!
 #### Generate mojtv config file with libEPG_xml2josn
-cp guide-mojtv-test.xml $WEB_PATH/libEPG_xml2josn/bin/Debug/guide.xml
+cp guide-mojtv.xml $WEB_PATH/libEPG_xml2josn/bin/Debug/guide.xml
 cd $WEB_PATH/libEPG_xml2josn/bin/Debug
 rm libEPG-Mojtv.config
 wait $!
@@ -80,10 +67,8 @@ mono libEPG_xml2josn.exe
 wait $!
 cp libEPG.config libEPG-Mojtv.config
 wait $!
-# guide.xml
 rm libEPG.config
-cd $samdec
-rm guide-mojtv-test.xml <<EOF
+cd - <<EOF
 EOF
 }
 
@@ -175,9 +160,9 @@ wait $!
 wait $!
 update_Mojtv_grabber
 wait $!
-update_a1_grabber
+#update_a1_grabber
 wait $!
-update_iskon_grabber
+#update_iskon_grabber
 ### http://www.webgrabplus.com/content/tviskonhr-and-viphr 
 ### http://epg.koditvepg.com/
 wait $!
