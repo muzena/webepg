@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 29/10/2020 19:34:00
+[        ] Job started at 29/10/2020 19:35:58
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -24,9 +24,9 @@
 [Warning ] The total channel count set to :20
 [  Debug ] 
 [  Info  ] found: /tmp/webepg/wg++/mojtv.hr.ini -- Revision 05
-[        ] Job finished at 29/10/2020 19:34:01 done in 0s
+[        ] Job finished at 29/10/2020 19:35:59 done in 0s
 [Critical] 
-[Error   ] error in channel list of the config file!![Error   ]      duplicate xmltv_id value --  -- !![Error   ]      in :[Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>[Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>[Error   ] error in channel list of the config file!![Error   ]      duplicate xmltv_id value --  -- !![Error   ]      in :[Error   ] <channel offset="0" same_as="RTL Kockica" xmltv_id="RTLli">RTLko</channel>[Error   ] <channel offset="0" same_as="RTL Living" xmltv_id="RTLli">RTLli</channel>[Error   ] duplicate xmltv-id entries will mess-up the xmltv output![Error   ] ---- correct the channel-list to have unique xmltv-id values ---
+[Error   ] error in channel list of the config file!![Error   ]      duplicate xmltv_id value --  -- !![Error   ]      in :[Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>[Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>[Error   ] duplicate xmltv-id entries will mess-up the xmltv output![Error   ] ---- correct the channel-list to have unique xmltv-id values ---
 [Critical] 
   at  . ..ctor (System.String ) [0x0137a] in <dec16303726145568c1914deb0d540de>:0 
   at  .―.  (System.String[] ) [0x00351] in <dec16303726145568c1914deb0d540de>:0 
@@ -38,11 +38,6 @@
 [Error   ]      in :
 [Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
 [Error   ] <channel update="i" site="mojtv.hr" site_id="370/rtl-kockica" xmltv_id="RTL Kockica">RTL Kockica</channel>
-[Error   ] error in channel list of the config file!!
-[Error   ]      duplicate xmltv_id value --  -- !!
-[Error   ]      in :
-[Error   ] <channel offset="0" same_as="RTL Kockica" xmltv_id="RTLli">RTLko</channel>
-[Error   ] <channel offset="0" same_as="RTL Living" xmltv_id="RTLli">RTLli</channel>
 [Error   ] duplicate xmltv-id entries will mess-up the xmltv output!
 [Error   ] ---- correct the channel-list to have unique xmltv-id values ---
 [Critical] For detailed info, see log file /tmp/webepg/wg++/WebGrab++.log.txt
