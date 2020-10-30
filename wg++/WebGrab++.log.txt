@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 30/10/2020 12:14:33
+[        ] Job started at 31/10/2020 00:09:34
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -18,16 +18,11 @@
 [  Debug ] Reading config file: /tmp/webepg/wg++/WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[Warning ] The total channel count :20 exceeds the number 20 allowed for license 'un_registered_user'
-[Warning ] The total channel count set to :20
 [  Debug ] 
 [  Info  ] found: /tmp/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
-[  Info  ] encrypted in 'new (V3)' mode
-[Warning ] License 'un_registered_user' can not decrypt this siteini !!
-[Warning ] Consult WGLicense.log.txt for detail of the various license options
-[Warning ] tv.iskon.hr.EK skipped
+[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
 [  Debug ] xmltv input file - /tmp/webepg/guide-iskon.xml - found
-[  Debug ] 12622 superfluous shows removed
+[  Debug ] 0 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=HRT 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=HRT 2) in the config file
 [  Info  ] Found existing channel (xmltv_id=HRT 3) in the config file
@@ -90,77 +85,207 @@
 [  Info  ] Found existing channel (xmltv_id=WOMAN) in the config file
 [  Info  ] 
 [  Info  ] 
-[  Info  ] 
 [  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
 [  Info  ] 
 [  Info  ] 
 [  Info  ] Group (0) :
-[  Info  ] update requested for - 60 - out of - 20 - channels for 11 day(s)
+[  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
+[  Debug ] 
+[  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (   1/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (   2/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (   3/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (   4/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  11/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Living) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (   5/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel RTLli same as -- RTL Living -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  13/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (   6/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (   7/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  22/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Kockica) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (   8/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel RTLko same as -- RTL Kockica -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  24/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar  TV) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel Cines same as -- CineStar  TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  26/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar TV Action) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (   9/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel CineA same as -- CineStar TV Action -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  28/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Comedy Central) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  30/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Life) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (  10/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  32/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (  11/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Living) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (  12/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTLli) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel TV100 same as -- TV1000 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  37/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (  13/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  41/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel Explo same as -- Viasat Explore -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  43/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat History) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (  14/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuk) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel Histo same as -- Viasat History -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  45/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 1) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel SK 1 same as -- Sport Klub 1 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  47/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 3) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (  15/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel SK 3 same as -- Sport Klub 3 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  49/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sportska TV) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (  16/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (  17/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] (  18/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- skipped --> encrypted SiteIni
+[  Debug ] 
+[  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
-[  Info  ] 
-[  Info  ] (  19/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža) -- skipped --> encrypted SiteIni
-[  Info  ] 
-[  Info  ] 
-[  Info  ] (  20/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- skipped --> encrypted SiteIni
-[  Info  ] 
-[  Info  ] Maximum number of allowed channels 20 reached!
+[  Debug ] 
+[  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
 [  Debug ] 0 shows in 60 channels
 [  Debug ] 0 updated shows
 [  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 30/10/2020 12:14:40 done in 7s
+[        ] Job finished at 31/10/2020 00:09:47 done in 13s
