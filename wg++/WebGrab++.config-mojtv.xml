@@ -8,7 +8,7 @@
   <postprocess run="n" grab="y">mdb</postprocess>
   <logging>on</logging>
   <retry time-out="7">3</retry>
-  <timespan>3</timespan>
+  <timespan>2</timespan>
   <update>i</update>
   <user-agent>Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US)</user-agent>
   <!-- replace the next dummy channel entry with the channels you want -->
