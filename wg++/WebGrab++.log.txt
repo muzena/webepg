@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 05/11/2020 13:54:52
+[        ] Job started at 05/11/2020 21:08:00
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -92,15 +92,35 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 08/11/2020 02:09
+[  Debug ]    stoptime 08/11/2020 03:31               corrected to 08/11/2020 03:30
+[  Debug ]    conflicting stoptime or duration in show starting at 08/11/2020 03:30
+[  Debug ]    stoptime 08/11/2020 03:36               corrected to 08/11/2020 03:31
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 08/11/2020 15:01
+[  Debug ]    stoptime 08/11/2020 15:36               corrected to 08/11/2020 15:35
+[  Debug ]    skipped : fully overlapping show from 08/11/2020 15:36
+[  Debug ]                                       to 08/11/2020 16:05
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 05/11/2020 13:37
+[  Debug ]    stoptime 05/11/2020 14:04               corrected to 05/11/2020 14:00
+[  Debug ]    conflicting stoptime or duration in show starting at 05/11/2020 14:00
+[  Debug ]    stoptime 05/11/2020 14:10               corrected to 05/11/2020 14:04
+[  Debug ]    skipped : fully overlapping show from 05/11/2020 14:10
+[  Debug ]                                       to 05/11/2020 15:00
+[  Debug ]    skipped : fully overlapping show from 05/11/2020 18:55
+[  Debug ]                                       to 05/11/2020 19:00
+[  Debug ]    conflicting stoptime or duration in show starting at 06/11/2020 04:59
+[  Debug ]    stoptime 06/11/2020 05:04               corrected to 06/11/2020 05:00
+[  Debug ]    conflicting stoptime or duration in show starting at 06/11/2020 05:00
+[  Debug ]    stoptime 06/11/2020 05:05               corrected to 06/11/2020 05:04
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -110,11 +130,21 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 07/11/2020 04:00
+[  Debug ]                                       to 07/11/2020 04:40
+[  Debug ]    conflicting stoptime or duration in show starting at 07/11/2020 03:20
+[  Debug ]    stoptime 07/11/2020 05:00               corrected to 07/11/2020 04:40
+[  Debug ]    conflicting stoptime or duration in show starting at 07/11/2020 04:40
+[  Debug ]    stoptime 07/11/2020 05:40               corrected to 07/11/2020 05:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 06/11/2020 04:30
+[  Debug ]    stoptime 06/11/2020 05:15               corrected to 06/11/2020 05:00
+[  Debug ]    conflicting stoptime or duration in show starting at 06/11/2020 05:00
+[  Debug ]    stoptime 06/11/2020 05:45               corrected to 06/11/2020 05:15
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -145,6 +175,12 @@
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 06/11/2020 03:20
+[  Debug ]    stoptime 06/11/2020 05:35               corrected to 06/11/2020 05:30
+[  Debug ]    skipped : fully overlapping show from 06/11/2020 05:35
+[  Debug ]                                       to 06/11/2020 05:50
+[  Debug ]    conflicting stoptime or duration in show starting at 06/11/2020 05:30
+[  Debug ]    stoptime 06/11/2020 05:55               corrected to 06/11/2020 05:50
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
@@ -252,9 +288,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 15059 shows in 60 channels
-[  Debug ] 248 updated shows
-[  Debug ] 1292 new shows added
+[  Debug ] 15137 shows in 60 channels
+[  Debug ] 239 updated shows
+[  Debug ] 28 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 05/11/2020 14:01:19 done in 6m 27s
+[        ] Job finished at 05/11/2020 21:14:15 done in 6m 14s
