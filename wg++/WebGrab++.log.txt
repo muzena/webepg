@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 11/11/2020 12:26:14
+[        ] Job started at 12/11/2020 00:20:13
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -98,6 +98,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 12/11/2020 22:10
+[  Debug ]    stoptime 13/11/2020 00:30               corrected to 13/11/2020 00:25
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
@@ -115,6 +117,8 @@
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 13/11/2020 00:10
+[  Debug ]    stoptime 13/11/2020 01:00               corrected to 13/11/2020 00:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -130,7 +134,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 10/11/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 11/11/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -139,7 +143,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 10/11/2020 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 11/11/2020 23:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -252,9 +256,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 13199 shows in 60 channels
-[  Debug ] 207 updated shows
-[  Debug ] 70 new shows added
+[  Debug ] 12981 shows in 60 channels
+[  Debug ] 360 updated shows
+[  Debug ] 1239 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 11/11/2020 12:31:25 done in 5m 10s
+[        ] Job finished at 12/11/2020 00:25:27 done in 5m 13s
