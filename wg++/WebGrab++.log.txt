@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 12/11/2020 00:20:13
+[        ] Job started at 12/11/2020 12:25:21
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -98,8 +98,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 12/11/2020 22:10
-[  Debug ]    stoptime 13/11/2020 00:30               corrected to 13/11/2020 00:25
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
@@ -117,8 +115,6 @@
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 13/11/2020 00:10
-[  Debug ]    stoptime 13/11/2020 01:00               corrected to 13/11/2020 00:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -256,9 +252,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12981 shows in 60 channels
-[  Debug ] 360 updated shows
-[  Debug ] 1239 new shows added
+[  Debug ] 12984 shows in 60 channels
+[  Debug ] 66 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 12/11/2020 00:25:27 done in 5m 13s
+[        ] Job finished at 12/11/2020 12:30:18 done in 4m 56s
