@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 18/11/2020 12:34:22
+[        ] Job started at 18/11/2020 19:27:13
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -98,8 +98,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
-[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
-[Warning ] pausing 1 of 4 times for 7 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
@@ -177,3 +175,86 @@
 [  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  32/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel TV100 same as -- TV1000 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  37/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  41/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Explo same as -- Viasat Explore -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  43/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat History) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Histo same as -- Viasat History -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  45/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 1) -- mode Incremental
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel SK 1 same as -- Sport Klub 1 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  47/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 3) -- mode Incremental
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel SK 3 same as -- Sport Klub 3 -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  49/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sportska TV) -- mode Incremental
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
+[  Debug ] 
+[  Debug ] 14814 shows in 60 channels
+[  Debug ] 226 updated shows
+[  Debug ] 1756 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 18/11/2020 19:33:24 done in 6m 11s
