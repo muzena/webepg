@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 20/11/2020 12:11:52
+[        ] Job started at 20/11/2020 14:14:25
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -92,6 +92,8 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
+[Warning ] error downloading page: The operation has timed out. (7sec)
+[Warning ] Retry 1 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
@@ -253,9 +255,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12860 shows in 60 channels
-[  Debug ] 311 updated shows
-[  Debug ] 1405 new shows added
+[  Debug ] 14994 shows in 60 channels
+[  Debug ] 198 updated shows
+[  Debug ] 1288 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 20/11/2020 12:17:06 done in 5m 13s
+[        ] Job finished at 20/11/2020 14:22:32 done in 8m 6s
