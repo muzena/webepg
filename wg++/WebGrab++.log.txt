@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 24/11/2020 17:21:52
+[        ] Job started at 25/11/2020 00:18:57
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -95,12 +95,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 26/11/2020 01:56
-[  Debug ]    stoptime 26/11/2020 03:26               corrected to 26/11/2020 03:25
-[  Debug ]    skipped : fully overlapping show from 26/11/2020 03:26
-[  Debug ]                                       to 26/11/2020 03:36
-[  Debug ]    conflicting stoptime or duration in show starting at 26/11/2020 03:25
-[  Debug ]    stoptime 26/11/2020 03:46               corrected to 26/11/2020 03:36
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
@@ -136,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 23/11/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 24/11/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -145,7 +139,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 23/11/2020 23:45
+[  Debug ]    skipped : show that happened before 'today' @ 24/11/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -246,7 +240,7 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 23/11/2020 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 24/11/2020 23:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
@@ -255,13 +249,14 @@
 [  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 15033 shows in 60 channels
-[  Debug ] 236 updated shows
-[  Debug ] 1276 new shows added
+[  Debug ] 12845 shows in 60 channels
+[  Debug ] 166 updated shows
+[  Debug ] 20 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 24/11/2020 17:28:11 done in 6m 18s
+[        ] Job finished at 25/11/2020 00:23:57 done in 4m 59s
