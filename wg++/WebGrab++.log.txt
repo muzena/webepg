@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 30/11/2020 15:22:27
+[        ] Job started at 30/11/2020 16:09:41
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -199,8 +199,6 @@
 [  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  41/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
-[Warning ] error downloading page: Error: ConnectFailure (No route to host)
-[Warning ] pausing 1 of 4 times for 7 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Explo same as -- Viasat Explore -- time offset 0 hour(s)
@@ -229,8 +227,6 @@
 [  Info  ] channel SPTV same as -- Sportska TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
-[Warning ] error downloading page: The operation has timed out. (7sec)
-[Warning ] Retry 1 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
@@ -257,8 +253,8 @@
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
 [  Debug ] 14679 shows in 60 channels
-[  Debug ] 175 updated shows
-[  Debug ] 1287 new shows added
+[  Debug ] 0 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 30/11/2020 15:28:47 done in 6m 19s
+[        ] Job finished at 30/11/2020 16:16:00 done in 6m 19s
