@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 08/12/2020 00:17:11
+[        ] Job started at 08/12/2020 12:23:28
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -92,8 +92,6 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
-[Warning ] error downloading page: The operation has timed out. (7sec)
-[Warning ] Retry 1 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
@@ -250,14 +248,13 @@
 [  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12689 shows in 60 channels
-[  Debug ] 446 updated shows
-[  Debug ] 1268 new shows added
+[  Debug ] 12846 shows in 60 channels
+[  Debug ] 62 updated shows
+[  Debug ] 79 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 08/12/2020 00:22:32 done in 5m 21s
+[        ] Job finished at 08/12/2020 12:28:19 done in 4m 50s
