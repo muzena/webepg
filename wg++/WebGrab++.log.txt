@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 12/12/2020 13:32:52
+[        ] Job started at 12/12/2020 20:20:27
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -92,63 +92,29 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 12/12/2020 05:15
-[  Debug ]                                       to 12/12/2020 06:04
-[  Debug ]    skipped : fully overlapping show from 12/12/2020 06:04
-[  Debug ]                                       to 12/12/2020 06:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 12/12/2020 05:32
-[  Debug ]                                       to 12/12/2020 06:25
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 12/12/2020 05:45
-[  Debug ]                                       to 12/12/2020 06:00
-[  Debug ]    skipped : fully overlapping show from 12/12/2020 06:00
-[  Debug ]                                       to 12/12/2020 06:08
-[  Debug ]    skipped : fully overlapping show from 12/12/2020 06:08
-[  Debug ]                                       to 12/12/2020 06:09
-[  Debug ]    skipped : fully overlapping show from 12/12/2020 06:09
-[  Debug ]                                       to 12/12/2020 07:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 12/12/2020 09:55
-[  Debug ]    stoptime 12/12/2020 10:30               corrected to 12/12/2020 10:05
-[  Debug ]    conflicting stoptime or duration in show starting at 12/12/2020 10:05
-[  Debug ]    stoptime 12/12/2020 10:55               corrected to 12/12/2020 10:30
-[  Debug ]    conflicting stoptime or duration in show starting at 12/12/2020 17:35
-[  Debug ]    stoptime 12/12/2020 18:40               corrected to 12/12/2020 18:15
-[  Debug ]    conflicting stoptime or duration in show starting at 12/12/2020 18:15
-[  Debug ]    stoptime 12/12/2020 18:45               corrected to 12/12/2020 18:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 13/12/2020 04:50
-[  Debug ]    stoptime 13/12/2020 05:55               corrected to 13/12/2020 05:20
-[  Debug ]    conflicting stoptime or duration in show starting at 13/12/2020 05:20
-[  Debug ]    stoptime 13/12/2020 06:15               corrected to 13/12/2020 05:55
-[  Debug ]    skipped : fully overlapping show from 14/12/2020 05:05
-[  Debug ]                                       to 14/12/2020 05:45
-[  Debug ]    skipped : fully overlapping show from 14/12/2020 06:05
-[  Debug ]                                       to 14/12/2020 06:30
-[  Debug ]    skipped : fully overlapping show from 14/12/2020 06:30
-[  Debug ]                                       to 14/12/2020 06:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 14/12/2020 03:00
-[  Debug ]                                       to 14/12/2020 03:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -285,9 +251,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12768 shows in 60 channels
-[  Debug ] 195 updated shows
-[  Debug ] 43 new shows added
+[  Debug ] 14795 shows in 60 channels
+[  Debug ] 7 updated shows
+[  Debug ] 1212 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 12/12/2020 13:37:49 done in 4m 57s
+[        ] Job finished at 12/12/2020 20:26:23 done in 5m 56s
