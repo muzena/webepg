@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 15/12/2020 13:39:00
+[        ] Job started at 16/12/2020 00:20:18
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -101,12 +101,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 15/12/2020 07:28
-[  Debug ]                                       to 15/12/2020 07:29
-[  Debug ]    conflicting stoptime or duration in show starting at 16/12/2020 04:59
-[  Debug ]    stoptime 16/12/2020 05:04               corrected to 16/12/2020 05:00
-[  Debug ]    conflicting stoptime or duration in show starting at 16/12/2020 05:00
-[  Debug ]    stoptime 16/12/2020 05:05               corrected to 16/12/2020 05:04
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -121,14 +115,6 @@
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 19/12/2020 19:55
-[  Debug ]    stoptime 19/12/2020 21:50               corrected to 19/12/2020 21:35
-[  Debug ]    conflicting stoptime or duration in show starting at 19/12/2020 21:35
-[  Debug ]    stoptime 19/12/2020 23:35               corrected to 19/12/2020 21:50
-[  Debug ]    skipped : fully overlapping show from 19/12/2020 23:35
-[  Debug ]                                       to 19/12/2020 00:30
-[  Debug ]    skipped : fully overlapping show from 20/12/2020 16:30
-[  Debug ]                                       to 20/12/2020 17:50
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -144,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 14/12/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 15/12/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -153,7 +139,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 14/12/2020 23:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/12/2020 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -266,9 +252,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14166 shows in 60 channels
-[  Debug ] 319 updated shows
-[  Debug ] 901 new shows added
+[  Debug ] 12569 shows in 60 channels
+[  Debug ] 322 updated shows
+[  Debug ] 328 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 15/12/2020 13:44:47 done in 5m 47s
+[        ] Job finished at 16/12/2020 00:25:09 done in 4m 51s
