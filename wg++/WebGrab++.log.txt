@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 18/12/2020 12:10:36
+[        ] Job started at 18/12/2020 13:19:27
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -95,9 +95,41 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 18/12/2020 23:52
+[  Debug ]    stoptime 19/12/2020 00:31               corrected to 19/12/2020 00:27
+[  Debug ]    skipped : fully overlapping show from 19/12/2020 00:31
+[  Debug ]                                       to 19/12/2020 01:52
+[  Debug ]    conflicting stoptime or duration in show starting at 19/12/2020 00:27
+[  Debug ]    stoptime 19/12/2020 01:55               corrected to 19/12/2020 01:52
+[  Debug ]    conflicting stoptime or duration in show starting at 20/12/2020 02:34
+[  Debug ]    stoptime 20/12/2020 05:45               corrected to 20/12/2020 05:36
+[  Debug ]    skipped : fully overlapping show from 20/12/2020 05:45
+[  Debug ]                                       to 20/12/2020 05:46
+[  Debug ]    conflicting stoptime or duration in show starting at 20/12/2020 05:36
+[  Debug ]    stoptime 20/12/2020 06:05               corrected to 20/12/2020 05:46
+[  Debug ]    skipped : fully overlapping show from 20/12/2020 07:43
+[  Debug ]                                       to 20/12/2020 07:45
+[  Debug ]    skipped : fully overlapping show from 20/12/2020 07:50
+[  Debug ]                                       to 20/12/2020 07:51
+[  Debug ]    skipped : fully overlapping show from 20/12/2020 08:12
+[  Debug ]                                       to 20/12/2020 08:13
+[  Debug ]    conflicting stoptime or duration in show starting at 20/12/2020 09:54
+[  Debug ]    stoptime 20/12/2020 11:06               corrected to 20/12/2020 11:05
+[  Debug ]    skipped : fully overlapping show from 20/12/2020 11:06
+[  Debug ]                                       to 20/12/2020 11:35
+[  Debug ]    skipped : fully overlapping show from 21/12/2020 04:35
+[  Debug ]                                       to 21/12/2020 04:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 21/12/2020 23:55
+[  Debug ]    stoptime 22/12/2020 00:45               corrected to 22/12/2020 00:00
+[  Debug ]    conflicting stoptime or duration in show starting at 22/12/2020 00:00
+[  Debug ]    stoptime 22/12/2020 00:50               corrected to 22/12/2020 00:45
+[  Debug ]    skipped : fully overlapping show from 22/12/2020 01:00
+[  Debug ]                                       to 22/12/2020 02:15
+[  Debug ]    conflicting stoptime or duration in show starting at 22/12/2020 00:55
+[  Debug ]    stoptime 22/12/2020 02:27               corrected to 22/12/2020 02:15
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
@@ -110,6 +142,22 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 19/12/2020 04:35
+[  Debug ]    stoptime 19/12/2020 05:30               corrected to 19/12/2020 05:00
+[  Debug ]    skipped : fully overlapping show from 19/12/2020 05:30
+[  Debug ]                                       to 19/12/2020 05:35
+[  Debug ]    conflicting stoptime or duration in show starting at 19/12/2020 05:00
+[  Debug ]    stoptime 19/12/2020 05:55               corrected to 19/12/2020 05:35
+[  Debug ]    conflicting stoptime or duration in show starting at 19/12/2020 06:20
+[  Debug ]    stoptime 19/12/2020 06:40               corrected to 19/12/2020 06:35
+[  Debug ]    conflicting stoptime or duration in show starting at 19/12/2020 06:35
+[  Debug ]    stoptime 19/12/2020 06:55               corrected to 19/12/2020 06:40
+[  Debug ]    conflicting stoptime or duration in show starting at 20/12/2020 02:20
+[  Debug ]    stoptime 20/12/2020 03:50               corrected to 20/12/2020 03:40
+[  Debug ]    conflicting stoptime or duration in show starting at 20/12/2020 03:40
+[  Debug ]    stoptime 20/12/2020 04:25               corrected to 20/12/2020 03:50
+[  Debug ]    conflicting stoptime or duration in show starting at 21/12/2020 03:45
+[  Debug ]    stoptime 21/12/2020 05:02               corrected to 21/12/2020 04:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
@@ -145,6 +193,20 @@
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 18/12/2020 05:55
+[  Debug ]                                       to 18/12/2020 06:00
+[  Debug ]    skipped : fully overlapping show from 18/12/2020 06:00
+[  Debug ]                                       to 18/12/2020 06:10
+[  Debug ]    skipped : fully overlapping show from 18/12/2020 07:55
+[  Debug ]                                       to 18/12/2020 08:05
+[  Debug ]    conflicting stoptime or duration in show starting at 18/12/2020 07:45
+[  Debug ]    stoptime 18/12/2020 08:15               corrected to 18/12/2020 08:05
+[  Debug ]    skipped : fully overlapping show from 18/12/2020 08:15
+[  Debug ]                                       to 18/12/2020 08:20
+[  Debug ]    conflicting stoptime or duration in show starting at 18/12/2020 11:40
+[  Debug ]    stoptime 18/12/2020 12:00               corrected to 18/12/2020 11:55
+[  Debug ]    conflicting stoptime or duration in show starting at 18/12/2020 11:55
+[  Debug ]    stoptime 18/12/2020 12:05               corrected to 18/12/2020 12:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
@@ -248,14 +310,13 @@
 [  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12276 shows in 60 channels
-[  Debug ] 0 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 12327 shows in 60 channels
+[  Debug ] 492 updated shows
+[  Debug ] 27 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 18/12/2020 12:15:10 done in 4m 33s
+[        ] Job finished at 18/12/2020 13:24:18 done in 4m 50s
