@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 23/12/2020 00:20:34
+[        ] Job started at 23/12/2020 12:26:38
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -110,8 +110,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 24/12/2020 23:30
-[  Debug ]                                       to 24/12/2020 02:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
@@ -255,9 +253,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12345 shows in 60 channels
-[  Debug ] 631 updated shows
-[  Debug ] 1236 new shows added
+[  Debug ] 12393 shows in 60 channels
+[  Debug ] 171 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 23/12/2020 00:25:33 done in 4m 59s
+[        ] Job finished at 23/12/2020 12:31:22 done in 4m 43s
