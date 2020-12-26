@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 26/12/2020 12:10:21
+[        ] Job started at 27/12/2020 00:25:06
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.9.1.50901
 [  Debug ] Environment: 4.0.30319.42000
@@ -130,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 25/12/2020 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 26/12/2020 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -144,6 +144,8 @@
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 28/12/2020 00:30
+[  Debug ]    stoptime 28/12/2020 01:20               corrected to 28/12/2020 00:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
@@ -239,7 +241,7 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 25/12/2020 21:59
+[  Debug ]    skipped : show that happened before 'today' @ 26/12/2020 21:22
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
@@ -252,9 +254,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12683 shows in 60 channels
-[  Debug ] 0 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 12521 shows in 60 channels
+[  Debug ] 16 updated shows
+[  Debug ] 1127 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 26/12/2020 12:15:08 done in 4m 47s
+[        ] Job finished at 27/12/2020 00:29:57 done in 4m 50s
