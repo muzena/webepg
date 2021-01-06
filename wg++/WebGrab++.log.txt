@@ -7,9 +7,9 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 04/01/2021 00:25:48
+[        ] Job started at 06/01/2021 22:44:56
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.10.4.51004
+[  Debug ] Running  on: Unix 5.10.5.51005
 [  Debug ] Environment: 4.0.30319.42000
 [  Debug ] Mono version: 6.12.0.107 (tarball Thu Dec 10 05:26:45 UTC 2020)
 [  Debug ] 
@@ -130,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 03/01/2021 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 05/01/2021 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -139,7 +139,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 03/01/2021 23:55
+[  Debug ]    skipped : show that happened before 'today' @ 05/01/2021 23:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -252,9 +252,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12610 shows in 60 channels
-[  Debug ] 0 updated shows
-[  Debug ] 1140 new shows added
+[  Debug ] 14560 shows in 60 channels
+[  Debug ] 959 updated shows
+[  Debug ] 3738 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 04/01/2021 00:30:22 done in 4m 33s
+[        ] Job finished at 06/01/2021 22:50:55 done in 5m 58s
