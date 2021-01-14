@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 12/01/2021 12:34:33
+[        ] Job started at 14/01/2021 21:47:19
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.10.5.51005
 [  Debug ] Environment: 4.0.30319.42000
@@ -92,15 +92,81 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 19/01/2021 14:51
+[  Debug ]                                       to 19/01/2021 15:05
+[  Debug ]    skipped : fully overlapping show from 19/01/2021 21:05
+[  Debug ]                                       to 19/01/2021 22:00
+[  Debug ]    conflicting stoptime or duration in show starting at 20/01/2021 04:18
+[  Debug ]    stoptime 20/01/2021 04:33               corrected to 20/01/2021 04:27
+[  Debug ]    conflicting stoptime or duration in show starting at 20/01/2021 04:27
+[  Debug ]    stoptime 20/01/2021 04:37               corrected to 20/01/2021 04:33
+[  Debug ]    skipped : fully overlapping show from 20/01/2021 15:40
+[  Debug ]                                       to 20/01/2021 15:53
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 17/01/2021 02:50
+[  Debug ]    stoptime 17/01/2021 05:30               corrected to 17/01/2021 04:38
+[  Debug ]    conflicting stoptime or duration in show starting at 17/01/2021 04:38
+[  Debug ]    stoptime 17/01/2021 05:33               corrected to 17/01/2021 05:30
+[  Debug ]    conflicting stoptime or duration in show starting at 18/01/2021 04:53
+[  Debug ]    stoptime 18/01/2021 05:53               corrected to 18/01/2021 05:00
+[  Debug ]    conflicting stoptime or duration in show starting at 18/01/2021 05:00
+[  Debug ]    stoptime 18/01/2021 06:00               corrected to 18/01/2021 05:53
+[  Debug ]    skipped : fully overlapping show from 18/01/2021 07:29
+[  Debug ]                                       to 18/01/2021 07:30
+[  Debug ]    skipped : fully overlapping show from 18/01/2021 07:30
+[  Debug ]                                       to 18/01/2021 07:31
+[  Debug ]    skipped : fully overlapping show from 18/01/2021 07:36
+[  Debug ]                                       to 18/01/2021 07:37
+[  Debug ]    skipped : fully overlapping show from 18/01/2021 08:46
+[  Debug ]                                       to 18/01/2021 08:47
+[  Debug ]    skipped : fully overlapping show from 18/01/2021 08:47
+[  Debug ]                                       to 18/01/2021 08:50
+[  Debug ]    skipped : fully overlapping show from 18/01/2021 09:34
+[  Debug ]                                       to 18/01/2021 09:35
+[  Debug ]    skipped : fully overlapping show from 18/01/2021 09:35
+[  Debug ]                                       to 18/01/2021 09:36
+[  Debug ]    conflicting stoptime or duration in show starting at 18/01/2021 17:42
+[  Debug ]    stoptime 18/01/2021 18:12               corrected to 18/01/2021 18:09
+[  Debug ]    skipped : fully overlapping show from 18/01/2021 18:12
+[  Debug ]                                       to 18/01/2021 18:20
+[  Debug ]    conflicting stoptime or duration in show starting at 18/01/2021 18:54
+[  Debug ]    stoptime 18/01/2021 19:02               corrected to 18/01/2021 18:55
+[  Debug ]    conflicting stoptime or duration in show starting at 18/01/2021 18:55
+[  Debug ]    stoptime 18/01/2021 19:05               corrected to 18/01/2021 19:02
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 18/01/2021 05:25
+[  Debug ]    stoptime 18/01/2021 06:24               corrected to 18/01/2021 06:20
+[  Debug ]    skipped : fully overlapping show from 18/01/2021 06:24
+[  Debug ]                                       to 18/01/2021 06:29
+[  Debug ]    conflicting stoptime or duration in show starting at 18/01/2021 06:20
+[  Debug ]    stoptime 18/01/2021 06:30               corrected to 18/01/2021 06:29
+[  Debug ]    conflicting stoptime or duration in show starting at 18/01/2021 21:00
+[  Debug ]    stoptime 18/01/2021 22:30               corrected to 18/01/2021 22:25
+[  Debug ]    conflicting stoptime or duration in show starting at 18/01/2021 22:25
+[  Debug ]    stoptime 18/01/2021 23:20               corrected to 18/01/2021 22:30
+[  Debug ]    conflicting stoptime or duration in show starting at 19/01/2021 00:55
+[  Debug ]    stoptime 19/01/2021 01:40               corrected to 19/01/2021 01:25
+[  Debug ]    conflicting stoptime or duration in show starting at 19/01/2021 01:25
+[  Debug ]    stoptime 19/01/2021 02:35               corrected to 19/01/2021 01:40
+[  Debug ]    skipped : fully overlapping show from 19/01/2021 03:25
+[  Debug ]                                       to 19/01/2021 03:35
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 14/01/2021 09:59
+[  Debug ]    stoptime 14/01/2021 10:02               corrected to 14/01/2021 10:00
+[  Debug ]    skipped : fully overlapping show from 14/01/2021 10:02
+[  Debug ]                                       to 14/01/2021 10:05
+[  Debug ]    skipped : fully overlapping show from 14/01/2021 10:05
+[  Debug ]                                       to 14/01/2021 10:08
+[  Debug ]    skipped : fully overlapping show from 14/01/2021 10:08
+[  Debug ]                                       to 14/01/2021 10:10
+[  Debug ]    skipped : fully overlapping show from 14/01/2021 13:00
+[  Debug ]                                       to 14/01/2021 13:10
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -115,6 +181,10 @@
 [  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 04:50
+[  Debug ]    stoptime 15/01/2021 05:20               corrected to 15/01/2021 05:15
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 05:15
+[  Debug ]    stoptime 15/01/2021 06:00               corrected to 15/01/2021 05:20
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -130,7 +200,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 11/01/2021 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 13/01/2021 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -144,6 +214,142 @@
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 05:15
+[  Debug ]                                       to 15/01/2021 05:35
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 05:40
+[  Debug ]                                       to 15/01/2021 05:55
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 05:55
+[  Debug ]                                       to 15/01/2021 06:05
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 06:45
+[  Debug ]    stoptime 15/01/2021 07:00               corrected to 15/01/2021 06:50
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 07:00
+[  Debug ]                                       to 15/01/2021 07:05
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 07:25
+[  Debug ]                                       to 15/01/2021 07:30
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 07:40
+[  Debug ]                                       to 15/01/2021 07:45
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 08:40
+[  Debug ]                                       to 15/01/2021 08:45
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 08:45
+[  Debug ]                                       to 15/01/2021 08:50
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 08:30
+[  Debug ]    stoptime 15/01/2021 08:55               corrected to 15/01/2021 08:50
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 08:50
+[  Debug ]    stoptime 15/01/2021 09:10               corrected to 15/01/2021 08:55
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 09:30
+[  Debug ]    stoptime 15/01/2021 09:40               corrected to 15/01/2021 09:35
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 09:35
+[  Debug ]    stoptime 15/01/2021 10:00               corrected to 15/01/2021 09:40
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 09:40
+[  Debug ]    stoptime 15/01/2021 10:05               corrected to 15/01/2021 10:00
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 10:00
+[  Debug ]    stoptime 15/01/2021 10:10               corrected to 15/01/2021 10:05
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 11:25
+[  Debug ]                                       to 15/01/2021 11:30
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 11:50
+[  Debug ]    stoptime 15/01/2021 12:00               corrected to 15/01/2021 11:55
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 11:55
+[  Debug ]    stoptime 15/01/2021 12:20               corrected to 15/01/2021 12:00
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 13:35
+[  Debug ]    stoptime 15/01/2021 13:50               corrected to 15/01/2021 13:40
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 13:40
+[  Debug ]    stoptime 15/01/2021 13:55               corrected to 15/01/2021 13:50
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 13:55
+[  Debug ]                                       to 15/01/2021 14:10
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 13:50
+[  Debug ]    stoptime 15/01/2021 14:15               corrected to 15/01/2021 14:10
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 14:15
+[  Debug ]                                       to 15/01/2021 14:25
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 14:10
+[  Debug ]    stoptime 15/01/2021 14:30               corrected to 15/01/2021 14:25
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 14:25
+[  Debug ]    stoptime 15/01/2021 14:40               corrected to 15/01/2021 14:30
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 14:45
+[  Debug ]    stoptime 15/01/2021 15:00               corrected to 15/01/2021 14:55
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 14:55
+[  Debug ]    stoptime 15/01/2021 15:05               corrected to 15/01/2021 15:00
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 15:00
+[  Debug ]    stoptime 15/01/2021 15:10               corrected to 15/01/2021 15:05
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 15:10
+[  Debug ]                                       to 15/01/2021 15:15
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 15:05
+[  Debug ]    stoptime 15/01/2021 15:20               corrected to 15/01/2021 15:15
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 15:20
+[  Debug ]                                       to 15/01/2021 15:25
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 15:40
+[  Debug ]                                       to 15/01/2021 15:45
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 15:45
+[  Debug ]                                       to 15/01/2021 15:50
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 15:55
+[  Debug ]                                       to 15/01/2021 16:00
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 16:00
+[  Debug ]                                       to 15/01/2021 16:05
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 15:50
+[  Debug ]    stoptime 15/01/2021 16:15               corrected to 15/01/2021 16:05
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 16:05
+[  Debug ]    stoptime 15/01/2021 16:25               corrected to 15/01/2021 16:15
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 16:25
+[  Debug ]                                       to 15/01/2021 16:35
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 16:50
+[  Debug ]    stoptime 15/01/2021 17:15               corrected to 15/01/2021 17:10
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 17:15
+[  Debug ]                                       to 15/01/2021 17:35
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 18:05
+[  Debug ]    stoptime 15/01/2021 18:30               corrected to 15/01/2021 18:25
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 18:25
+[  Debug ]    stoptime 15/01/2021 18:50               corrected to 15/01/2021 18:30
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 20:50
+[  Debug ]                                       to 15/01/2021 21:15
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 21:15
+[  Debug ]                                       to 15/01/2021 21:20
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 21:20
+[  Debug ]                                       to 15/01/2021 21:40
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 19:55
+[  Debug ]    stoptime 15/01/2021 21:55               corrected to 15/01/2021 21:40
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 21:40
+[  Debug ]    stoptime 15/01/2021 22:25               corrected to 15/01/2021 21:55
+[  Debug ]    skipped : fully overlapping show from 15/01/2021 22:25
+[  Debug ]                                       to 15/01/2021 22:45
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 21:55
+[  Debug ]    stoptime 15/01/2021 23:05               corrected to 15/01/2021 22:45
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 22:45
+[  Debug ]    stoptime 15/01/2021 23:10               corrected to 15/01/2021 23:05
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 23:05
+[  Debug ]    stoptime 15/01/2021 23:35               corrected to 15/01/2021 23:10
+[  Debug ]    conflicting stoptime or duration in show starting at 15/01/2021 23:45
+[  Debug ]    stoptime 16/01/2021 00:15               corrected to 16/01/2021 00:05
+[  Debug ]    skipped : fully overlapping show from 16/01/2021 00:15
+[  Debug ]                                       to 16/01/2021 00:30
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 00:05
+[  Debug ]    stoptime 16/01/2021 00:35               corrected to 16/01/2021 00:30
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 00:30
+[  Debug ]    stoptime 16/01/2021 00:48               corrected to 16/01/2021 00:35
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 00:35
+[  Debug ]    stoptime 16/01/2021 01:05               corrected to 16/01/2021 00:48
+[  Debug ]    skipped : fully overlapping show from 16/01/2021 01:05
+[  Debug ]                                       to 16/01/2021 01:35
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 00:48
+[  Debug ]    stoptime 16/01/2021 01:40               corrected to 16/01/2021 01:35
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 01:35
+[  Debug ]    stoptime 16/01/2021 01:55               corrected to 16/01/2021 01:40
+[  Debug ]    skipped : fully overlapping show from 16/01/2021 01:55
+[  Debug ]                                       to 16/01/2021 02:15
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 01:40
+[  Debug ]    stoptime 16/01/2021 02:30               corrected to 16/01/2021 02:15
+[  Debug ]    skipped : fully overlapping show from 16/01/2021 02:30
+[  Debug ]                                       to 16/01/2021 02:40
+[  Debug ]    skipped : fully overlapping show from 16/01/2021 02:40
+[  Debug ]                                       to 16/01/2021 03:00
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 02:15
+[  Debug ]    stoptime 16/01/2021 03:05               corrected to 16/01/2021 03:00
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 03:00
+[  Debug ]    stoptime 16/01/2021 03:15               corrected to 16/01/2021 03:05
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 03:05
+[  Debug ]    stoptime 16/01/2021 03:20               corrected to 16/01/2021 03:15
+[  Debug ]    skipped : fully overlapping show from 16/01/2021 03:20
+[  Debug ]                                       to 16/01/2021 03:35
+[  Debug ]    skipped : fully overlapping show from 16/01/2021 03:35
+[  Debug ]                                       to 16/01/2021 03:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
@@ -169,6 +375,10 @@
 [  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  30/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Life) -- mode Incremental
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 00:35
+[  Debug ]    stoptime 16/01/2021 01:35               corrected to 16/01/2021 00:45
+[  Debug ]    conflicting stoptime or duration in show starting at 16/01/2021 00:45
+[  Debug ]    stoptime 16/01/2021 01:40               corrected to 16/01/2021 01:35
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
@@ -251,9 +461,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12558 shows in 60 channels
-[  Debug ] 210 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 14618 shows in 60 channels
+[  Debug ] 948 updated shows
+[  Debug ] 3781 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 12/01/2021 12:39:02 done in 4m 29s
+[        ] Job finished at 14/01/2021 21:53:31 done in 6m 11s
