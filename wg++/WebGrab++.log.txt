@@ -7,9 +7,9 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 18/01/2021 00:19:32
+[        ] Job started at 18/01/2021 12:25:05
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.10.5.51005
+[  Debug ] Running  on: Unix 5.10.8.51008
 [  Debug ] Environment: 4.0.30319.42000
 [  Debug ] Mono version: 6.12.0.107 (tarball Thu Dec 10 05:26:45 UTC 2020)
 [  Debug ] 
@@ -19,192 +19,104 @@
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
 [  Debug ] 
-[  Info  ] found: /tmp/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
-[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
-[  Debug ] xmltv input file - /tmp/webepg/guide-iskon.xml - found
-[  Debug ] 0 superfluous shows removed
-[  Info  ] Found existing channel (xmltv_id=HRT 1) in the config file
-[  Info  ] Found existing channel (xmltv_id=HRT 2) in the config file
-[  Info  ] Found existing channel (xmltv_id=HRT 3) in the config file
-[  Info  ] Found existing channel (xmltv_id=HRT 4) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTL) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTL 2) in the config file
-[  Info  ] Found existing channel (xmltv_id=NOVA TV) in the config file
-[  Info  ] Found existing channel (xmltv_id=NOVA) in the config file
-[  Info  ] Found existing channel (xmltv_id=Doma TV) in the config file
-[  Info  ] Found existing channel (xmltv_id=Doma) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTL Living) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTLli) in the config file
-[  Info  ] Found existing channel (xmltv_id=Jabuka TV) in the config file
-[  Info  ] Found existing channel (xmltv_id=Jabuk) in the config file
-[  Info  ] Found existing channel (xmltv_id=Z1) in the config file
-[  Info  ] Found existing channel (xmltv_id=N1 HD) in the config file
-[  Info  ] Found existing channel (xmltv_id=N1) in the config file
-[  Info  ] Found existing channel (xmltv_id=Mreža TV) in the config file
-[  Info  ] Found existing channel (xmltv_id=Mreža) in the config file
-[  Info  ] Found existing channel (xmltv_id=Mini TV) in the config file
-[  Info  ] Found existing channel (xmltv_id=Mini) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTL Kockica) in the config file
-[  Info  ] Found existing channel (xmltv_id=RTLko) in the config file
-[  Info  ] Found existing channel (xmltv_id=CineStar  TV) in the config file
-[  Info  ] Found existing channel (xmltv_id=Cines) in the config file
-[  Info  ] Found existing channel (xmltv_id=CineStar TV Action) in the config file
-[  Info  ] Found existing channel (xmltv_id=CineA) in the config file
-[  Info  ] Found existing channel (xmltv_id=Comedy Central) in the config file
-[  Info  ] Found existing channel (xmltv_id=Comed) in the config file
-[  Info  ] Found existing channel (xmltv_id=Fox Life) in the config file
-[  Info  ] Found existing channel (xmltv_id=FoxLi) in the config file
-[  Info  ] Found existing channel (xmltv_id=Fox Crime) in the config file
-[  Info  ] Found existing channel (xmltv_id=Fox) in the config file
-[  Info  ] Found existing channel (xmltv_id=DIVA) in the config file
-[  Info  ] Found existing channel (xmltv_id=TV1000) in the config file
-[  Info  ] Found existing channel (xmltv_id=TV100) in the config file
-[  Info  ] Found existing channel (xmltv_id=Epic Drama) in the config file
-[  Info  ] Found existing channel (xmltv_id=EpicD) in the config file
-[  Info  ] Found existing channel (xmltv_id=N. Geographic) in the config file
-[  Info  ] Found existing channel (xmltv_id=NatGe) in the config file
-[  Info  ] Found existing channel (xmltv_id=Viasat Explore) in the config file
-[  Info  ] Found existing channel (xmltv_id=Explo) in the config file
-[  Info  ] Found existing channel (xmltv_id=Viasat History) in the config file
-[  Info  ] Found existing channel (xmltv_id=Histo) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sport Klub 1) in the config file
-[  Info  ] Found existing channel (xmltv_id=SK 1) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sport Klub 3) in the config file
-[  Info  ] Found existing channel (xmltv_id=SK 3) in the config file
-[  Info  ] Found existing channel (xmltv_id=Sportska TV) in the config file
-[  Info  ] Found existing channel (xmltv_id=SPTV) in the config file
-[  Info  ] Found existing channel (xmltv_id=Disney Channel) in the config file
-[  Info  ] Found existing channel (xmltv_id=Disne) in the config file
-[  Info  ] Found existing channel (xmltv_id=Nickelodeon HR) in the config file
-[  Info  ] Found existing channel (xmltv_id=Nicke) in the config file
-[  Info  ] Found existing channel (xmltv_id=CMC) in the config file
-[  Info  ] Found existing channel (xmltv_id=VH1) in the config file
-[  Info  ] Found existing channel (xmltv_id=Fine Living) in the config file
-[  Info  ] Found existing channel (xmltv_id=FineL) in the config file
-[  Info  ] Found existing channel (xmltv_id=Woman) in the config file
-[  Info  ] Found existing channel (xmltv_id=WOMAN) in the config file
-[  Info  ] 
-[  Info  ] 
-[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
-[  Info  ] 
-[  Info  ] 
-[  Info  ] Group (0) :
-[  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
-[  Debug ] 
-[  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel NOVA same as -- NOVA TV -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  11/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Living) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel RTLli same as -- RTL Living -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  13/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 17/01/2021 23:12
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 17/01/2021 23:55
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  22/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Kockica) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel RTLko same as -- RTL Kockica -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  24/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar  TV) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Cines same as -- CineStar  TV -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  26/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar TV Action) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel CineA same as -- CineStar TV Action -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  28/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Comedy Central) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  30/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Life) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel FoxLi same as -- Fox Life -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  32/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] (  35/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel TV100 same as -- TV1000 -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  37/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- mode Incremental
-[  Info  ] 
-[  Debug ] 
-[  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
-[  Debug ] 
-[  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
+[  Info  ] found: /tmp/webepg/wg++/a1.hr.ini -- Revision 03
+[  Info  ] encrypted in 'new (V3)' mode
+[  Debug ] xmltv input file - /tmp/webepg/guide-a1.xml - found
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  41/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
+[  Debug ] 0 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=HTV1 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=HRT 1) in the config file
+[  Info  ] Found existing channel (xmltv_id=HTV2 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=HRT 2) in the config file
+[  Info  ] Found existing channel (xmltv_id=HTV3 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=HRT 3) in the config file
+[  Info  ] Found existing channel (xmltv_id=HTV4 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=HRT 4) in the config file
+[  Info  ] Found existing channel (xmltv_id=NOVA TV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=NOVA) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL) in the config file
+[  Info  ] Found existing channel (xmltv_id=DOMA TV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Doma) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL2) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL 2) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL KOCKICA) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTLko) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL LIVING) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTLli) in the config file
+[  Info  ] Found existing channel (xmltv_id=CINESTAR TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cines) in the config file
+[  Info  ] Found existing channel (xmltv_id=CINESTAR ACTION & THRILLER) in the config file
+[  Info  ] Found existing channel (xmltv_id=CineA) in the config file
+[  Info  ] Found existing channel (xmltv_id=VIASAT TV1000) in the config file
+[  Info  ] Found existing channel (xmltv_id=Tv100) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fox) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX LIFE) in the config file
+[  Info  ] Found existing channel (xmltv_id=FoxLi) in the config file
+[  Info  ] Found existing channel (xmltv_id=EPIC DRAMA) in the config file
+[  Info  ] Found existing channel (xmltv_id=EpicD) in the config file
+[  Info  ] Found existing channel (xmltv_id=KLASIK TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=KINOTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=COMEDY CENTRAL EXTRA) in the config file
+[  Info  ] Found existing channel (xmltv_id=Comed) in the config file
+[  Info  ] Found existing channel (xmltv_id=DIVA) in the config file
+[  Info  ] Found existing channel (xmltv_id=DOKUTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=DokTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=NATIONAL GEOGRAPHIC) in the config file
+[  Info  ] Found existing channel (xmltv_id=NatGe) in the config file
+[  Info  ] Found existing channel (xmltv_id=VIASAT HISTORY) in the config file
+[  Info  ] Found existing channel (xmltv_id=Histo) in the config file
+[  Info  ] Found existing channel (xmltv_id=VIASAT EXPLORE) in the config file
+[  Info  ] Found existing channel (xmltv_id=Explo) in the config file
+[  Info  ] Found existing channel (xmltv_id=FINE LIVING) in the config file
+[  Info  ] Found existing channel (xmltv_id=FineL) in the config file
+[  Info  ] Found existing channel (xmltv_id=WNESS TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Wness) in the config file
+[  Info  ] Found existing channel (xmltv_id=WOMAN) in the config file
+[  Info  ] Found existing channel (xmltv_id=Z1) in the config file
+[  Info  ] Found existing channel (xmltv_id=JABUKA TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Jabuk) in the config file
+[  Info  ] Found existing channel (xmltv_id=MREŽAZG) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mreža) in the config file
+[  Info  ] Found existing channel (xmltv_id=N1) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORTSKA TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=INFO KANAL) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bnet) in the config file
+[  Info  ] Found existing channel (xmltv_id=SK 1) in the config file
+[  Info  ] Found existing channel (xmltv_id=SK 3) in the config file
+[  Info  ] Found existing channel (xmltv_id=CARTOON NETWORK) in the config file
+[  Info  ] Found existing channel (xmltv_id=CN) in the config file
+[  Info  ] Found existing channel (xmltv_id=NICKELODEON) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nicke) in the config file
+[  Info  ] Found existing channel (xmltv_id=DISNEY CHANNEL) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disne) in the config file
+[  Info  ] Found existing channel (xmltv_id=MINI TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mini) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=VH1) in the config file
+[  Info  ] Found existing channel (xmltv_id=CROATIAN MUSIC CHANNEL) in the config file
+[  Info  ] Found existing channel (xmltv_id=CMC) in the config file
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Explo same as -- Viasat Explore -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  43/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat History) -- mode Incremental
 [  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 73 - out of - 73 - channels for 11 day(s)
+[  Debug ] 
+[  Info  ] (   1/73  ) A1.HR -- chan. (xmltv_id=HTV1 HD) -- mode Incremental
+[  Info  ] 
+[  Debug ]    skipped : show that happened before 'today' @ 17/01/2021 22:38
 [  Debug ] 
 [  Info  ] channel Histo same as -- Viasat History -- time offset 0 hour(s)
 [  Debug ] 
@@ -229,12 +141,30 @@
 [  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
+[  Info  ] channel HRT 1 same as -- HTV1 HD -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (   3/73  ) A1.HR -- chan. (xmltv_id=HTV2 HD) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 17/01/2021 23:34
+[  Info  ] 
+[  Debug ] 
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel HRT 2 same as -- HTV2 HD -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (   5/73  ) A1.HR -- chan. (xmltv_id=HTV3 HD) -- mode Incremental
 [  Debug ] 
 [  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 17/01/2021 22:10
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel HRT 3 same as -- HTV3 HD -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (   7/73  ) A1.HR -- chan. (xmltv_id=HTV4 HD) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
+[  Debug ]    skipped : show that happened before 'today' @ 17/01/2021 23:59
 [  Debug ] 
 [  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
 [  Info  ] 
@@ -245,16 +175,32 @@
 [  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
+[  Info  ] channel HRT 4 same as -- HTV4 HD -- time offset 0 hour(s)
+[  Info  ] 
+[  Debug ] 
 [  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
+[  Debug ] 
+[  Info  ] (   9/73  ) A1.HR -- chan. (xmltv_id=NOVA TV HD) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 17/01/2021 22:20
 [  Debug ] 
 [  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
+[  Info  ] 
+[  Debug ] 
+[  Info  ] channel NOVA same as -- NOVA TV HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Debug ] 12654 shows in 60 channels
 [  Debug ] 0 updated shows
-[  Debug ] 1186 new shows added
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 18/01/2021 00:24:11 done in 4m 38s
+[        ] Job finished at 18/01/2021 12:26:48 done in 4m 38s
+[  Debug ] 
+[  Info  ] (  11/73  ) A1.HR -- chan. (xmltv_id=RTL) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 17/01/2021 22:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/73  ) A1.HR -- chan. (xmltv_id=DOMA TV HD) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 17/01/2021 23:40
