@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 22/01/2021 17:30:28
+[        ] Job started at 23/01/2021 00:09:38
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.10.9.51009
 [  Debug ] Environment: 4.0.30319.42000
@@ -95,8 +95,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 26/01/2021 05:00
-[  Debug ]                                       to 26/01/2021 05:05
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
@@ -132,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 21/01/2021 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 22/01/2021 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -141,6 +139,7 @@
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- mode Incremental
+[  Debug ]    skipped : show that happened before 'today' @ 22/01/2021 22:35
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mreža same as -- Mreža TV -- time offset 0 hour(s)
@@ -195,8 +194,6 @@
 [  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 26/01/2021 00:15
-[  Debug ]    stoptime 26/01/2021 01:05               corrected to 26/01/2021 00:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
@@ -255,9 +252,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14710 shows in 60 channels
-[  Debug ] 635 updated shows
-[  Debug ] 2593 new shows added
+[  Debug ] 12693 shows in 60 channels
+[  Debug ] 473 updated shows
+[  Debug ] 78 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 22/01/2021 17:36:48 done in 6m 19s
+[        ] Job finished at 23/01/2021 00:14:16 done in 4m 37s
