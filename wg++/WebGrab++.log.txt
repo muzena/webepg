@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 04/03/2021 12:35:05
+[        ] Job started at 05/03/2021 00:29:05
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.11.0.51100
 [  Debug ] Environment: 4.0.30319.42000
@@ -130,7 +130,7 @@
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 03/03/2021 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 04/03/2021 23:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
@@ -247,13 +247,14 @@
 [  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- mode Incremental
+[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12671 shows in 60 channels
-[  Debug ] 31 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 12725 shows in 60 channels
+[  Debug ] 252 updated shows
+[  Debug ] 1350 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 04/03/2021 12:39:19 done in 4m 14s
+[        ] Job finished at 05/03/2021 00:33:38 done in 4m 33s
