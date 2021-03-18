@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 18/03/2021 09:46:47
+[        ] Job started at 18/03/2021 11:18:58
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.11.6.51106
 [  Debug ] Environment: 4.0.30319.42000
@@ -154,8 +154,6 @@
 [  Info  ] channel RTLko same as -- RTL Kockica -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  24/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar  TV) -- mode Incremental
-[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
-[Warning ] pausing 1 of 4 times for 7 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Cines same as -- CineStar  TV -- time offset 0 hour(s)
@@ -258,4 +256,4 @@
 [  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 18/03/2021 09:51:44 done in 4m 57s
+[        ] Job finished at 18/03/2021 11:23:37 done in 4m 38s
