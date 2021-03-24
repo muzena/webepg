@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 24/03/2021 09:57:19
+[        ] Job started at 24/03/2021 15:32:36
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.11.8.51108
 [  Debug ] Environment: 4.0.30319.42000
@@ -93,8 +93,8 @@
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20210328031100 +0200
-[  Debug ] starting with show : Bratska osveta at local time 28/03/2021 03:11
+[  Debug ] time-offset change for all shows after stoptime 20210328031200 +0200
+[  Debug ] starting with show : Bratska osveta at local time 28/03/2021 03:12
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
@@ -111,8 +111,8 @@
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210324055700 +0100
-[  Debug ] starting with show : Bez komentara at local time 24/03/2021 05:57
+[  Debug ] time-offset change for all shows after starttime 20210324055800 +0100
+[  Debug ] starting with show : Bez komentara at local time 24/03/2021 05:58
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -123,8 +123,8 @@
 [  Debug ] 
 [  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210324055000 +0100
-[  Debug ] starting with show : K.T. 2 at local time 24/03/2021 05:50
+[  Debug ] time-offset change for all shows after starttime 20210325010000 +0100
+[  Debug ] starting with show : Cure bez love at local time 25/03/2021 01:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
@@ -348,9 +348,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12711 shows in 60 channels
-[  Debug ] 143 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 14634 shows in 60 channels
+[  Debug ] 257 updated shows
+[  Debug ] 1176 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 24/03/2021 10:02:49 done in 5m 30s
+[        ] Job finished at 24/03/2021 15:38:32 done in 5m 56s
