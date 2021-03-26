@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 26/03/2021 14:28:17
+[        ] Job started at 26/03/2021 18:48:09
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.11.8.51108
 [  Debug ] Environment: 4.0.30319.42000
@@ -105,8 +105,8 @@
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20210328030600 +0200
-[  Debug ] starting with show : Zakon Divljeg zapada at local time 28/03/2021 03:06
+[  Debug ] time-offset change for all shows after stoptime 20210328032500 +0200
+[  Debug ] starting with show : Zakon Divljeg zapada at local time 28/03/2021 03:25
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
@@ -208,8 +208,8 @@
 [  Debug ] 
 [  Info  ] (  26/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar TV Action) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20210328032200 +0200
-[  Debug ] starting with show : Neprijatelj pred vratima at local time 28/03/2021 03:22
+[  Debug ] time-offset change for all shows after stoptime 20210328042200 +0200
+[  Debug ] starting with show : Neprijatelj pred vratima at local time 28/03/2021 04:22
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel CineA same as -- CineStar TV Action -- time offset 0 hour(s)
@@ -238,8 +238,8 @@
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20210328030000 +0200
-[  Debug ] starting with show : Američki psiho at local time 28/03/2021 03:00
+[  Debug ] time-offset change for all shows after stoptime 20210328030500 +0200
+[  Debug ] starting with show : Američki psiho at local time 28/03/2021 03:05
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
@@ -266,8 +266,8 @@
 [  Debug ] 
 [  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after stoptime 20210328032500 +0200
-[  Debug ] starting with show : Smrtonosno kraljevstvo Afrike at local time 28/03/2021 03:25
+[  Debug ] time-offset change for all shows after stoptime 20210328031000 +0200
+[  Debug ] starting with show : Smrtonosno kraljevstvo Afrike at local time 28/03/2021 03:10
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
@@ -347,9 +347,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14759 shows in 60 channels
-[  Debug ] 526 updated shows
-[  Debug ] 1253 new shows added
+[  Debug ] 14753 shows in 60 channels
+[  Debug ] 423 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 26/03/2021 14:34:09 done in 5m 51s
+[        ] Job finished at 26/03/2021 18:54:10 done in 6m 1s
