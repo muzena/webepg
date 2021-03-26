@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 26/03/2021 12:29:20
+[        ] Job started at 26/03/2021 14:28:17
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.11.8.51108
 [  Debug ] Environment: 4.0.30319.42000
@@ -111,8 +111,8 @@
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210326055700 +0100
-[  Debug ] starting with show : Bez komentara at local time 26/03/2021 05:57
+[  Debug ] time-offset change for all shows after starttime 20210326055800 +0100
+[  Debug ] starting with show : Bez komentara at local time 26/03/2021 05:58
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -123,8 +123,8 @@
 [  Debug ] 
 [  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210326055000 +0100
-[  Debug ] starting with show : K.T. 2 at local time 26/03/2021 05:50
+[  Debug ] time-offset change for all shows after starttime 20210326054000 +0100
+[  Debug ] starting with show : K.T. 2 at local time 26/03/2021 05:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
@@ -137,8 +137,8 @@
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210326052500 +0100
-[  Debug ] starting with show : Arrow at local time 26/03/2021 05:25
+[  Debug ] time-offset change for all shows after starttime 20210326054500 +0100
+[  Debug ] starting with show : Arrow at local time 26/03/2021 05:45
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -347,9 +347,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 12689 shows in 60 channels
-[  Debug ] 199 updated shows
-[  Debug ] 76 new shows added
+[  Debug ] 14759 shows in 60 channels
+[  Debug ] 526 updated shows
+[  Debug ] 1253 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 26/03/2021 12:34:13 done in 4m 52s
+[        ] Job finished at 26/03/2021 14:34:09 done in 5m 51s
