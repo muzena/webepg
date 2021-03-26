@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 25/03/2021 14:53:42
+[        ] Job started at 26/03/2021 12:29:20
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.11.8.51108
 [  Debug ] Environment: 4.0.30319.42000
@@ -99,8 +99,8 @@
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325053500 +0100
-[  Debug ] starting with show : Regionalni dnevnik at local time 25/03/2021 05:35
+[  Debug ] time-offset change for all shows after starttime 20210326054100 +0100
+[  Debug ] starting with show : Regionalni dnevnik at local time 26/03/2021 05:41
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
@@ -111,8 +111,8 @@
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325054600 +0100
-[  Debug ] starting with show : Kulturna baština at local time 25/03/2021 05:46
+[  Debug ] time-offset change for all shows after starttime 20210326055700 +0100
+[  Debug ] starting with show : Bez komentara at local time 26/03/2021 05:57
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -123,8 +123,8 @@
 [  Debug ] 
 [  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325055000 +0100
-[  Debug ] starting with show : Krv nije voda at local time 25/03/2021 05:50
+[  Debug ] time-offset change for all shows after starttime 20210326055000 +0100
+[  Debug ] starting with show : K.T. 2 at local time 26/03/2021 05:50
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- mode Incremental
@@ -137,8 +137,8 @@
 [  Debug ] 
 [  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325053500 +0100
-[  Debug ] starting with show : Arrow at local time 25/03/2021 05:35
+[  Debug ] time-offset change for all shows after starttime 20210326052500 +0100
+[  Debug ] starting with show : Arrow at local time 26/03/2021 05:25
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Doma same as -- Doma TV -- time offset 0 hour(s)
@@ -153,14 +153,14 @@
 [  Debug ] 
 [  Info  ] (  13/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325023000 +0100
-[  Debug ] starting with show : Glazbeni kanal at local time 25/03/2021 02:30
+[  Debug ] time-offset change for all shows after starttime 20210326023000 +0100
+[  Debug ] starting with show : Glazbeni kanal at local time 26/03/2021 02:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Jabuk same as -- Jabuka TV -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- mode Incremental
-[  Debug ]    skipped : show that happened before 'today' @ 24/03/2021 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 25/03/2021 23:12
 [  Debug ] coming 'Day-Light-Saving-Time' change!
 [  Debug ] time-offset change for all shows after stoptime 20210328070000 +0200
 [  Debug ] starting with show : Infostranice at local time 28/03/2021 07:00
@@ -168,8 +168,8 @@
 [  Debug ] 
 [  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325053000 +0100
-[  Debug ] starting with show : DW Tomorrow Today at local time 25/03/2021 05:30
+[  Debug ] time-offset change for all shows after starttime 20210326053000 +0100
+[  Debug ] starting with show : DW Euromaxx at local time 26/03/2021 05:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel N1 same as -- N1 HD -- time offset 0 hour(s)
@@ -184,8 +184,8 @@
 [  Debug ] 
 [  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325054500 +0100
-[  Debug ] starting with show : Tobot at local time 25/03/2021 05:45
+[  Debug ] time-offset change for all shows after starttime 20210326055000 +0100
+[  Debug ] starting with show : Tobot at local time 26/03/2021 05:50
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Mini same as -- Mini TV -- time offset 0 hour(s)
@@ -200,8 +200,8 @@
 [  Debug ] 
 [  Info  ] (  24/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar  TV) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325040500 +0100
-[  Debug ] starting with show : Kolaž program at local time 25/03/2021 04:05
+[  Debug ] time-offset change for all shows after starttime 20210326044600 +0100
+[  Debug ] starting with show : Kolaž program at local time 26/03/2021 04:46
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Cines same as -- CineStar  TV -- time offset 0 hour(s)
@@ -216,8 +216,8 @@
 [  Debug ] 
 [  Info  ] (  28/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Comedy Central) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325054000 +0100
-[  Debug ] starting with show : Bez riječi at local time 25/03/2021 05:40
+[  Debug ] time-offset change for all shows after starttime 20210326054000 +0100
+[  Debug ] starting with show : Bez riječi at local time 26/03/2021 05:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Comed same as -- Comedy Central -- time offset 0 hour(s)
@@ -232,8 +232,8 @@
 [  Debug ] 
 [  Info  ] (  32/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325054000 +0100
-[  Debug ] starting with show : Posljednji čovjek na Zemlji at local time 25/03/2021 05:40
+[  Debug ] time-offset change for all shows after starttime 20210326054000 +0100
+[  Debug ] starting with show : Posljednji čovjek na Zemlji at local time 26/03/2021 05:40
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- mode Incremental
@@ -244,8 +244,8 @@
 [  Debug ] 
 [  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325050500 +0100
-[  Debug ] starting with show : Jean de Florette at local time 25/03/2021 05:05
+[  Debug ] time-offset change for all shows after starttime 20210326022500 +0100
+[  Debug ] starting with show : Pravila ne vrijede at local time 26/03/2021 02:25
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  35/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- mode Incremental
@@ -258,8 +258,8 @@
 [  Debug ] 
 [  Info  ] (  37/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325031900 +0100
-[  Debug ] starting with show : Kolaž program at local time 25/03/2021 03:19
+[  Debug ] time-offset change for all shows after starttime 20210326033000 +0100
+[  Debug ] starting with show : Kolaž program at local time 26/03/2021 03:30
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
@@ -274,8 +274,8 @@
 [  Debug ] 
 [  Info  ] (  41/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325050500 +0100
-[  Debug ] starting with show : Muzejske tajne at local time 25/03/2021 05:05
+[  Debug ] time-offset change for all shows after starttime 20210326050000 +0100
+[  Debug ] starting with show : Muzejske tajne at local time 26/03/2021 05:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Explo same as -- Viasat Explore -- time offset 0 hour(s)
@@ -308,8 +308,8 @@
 [  Debug ] 
 [  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325055000 +0100
-[  Debug ] starting with show : Taffy at local time 25/03/2021 05:50
+[  Debug ] time-offset change for all shows after starttime 20210326055000 +0100
+[  Debug ] starting with show : Taffy at local time 26/03/2021 05:50
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel Disne same as -- Disney Channel -- time offset 0 hour(s)
@@ -324,8 +324,8 @@
 [  Debug ] 
 [  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325000000 +0100
-[  Debug ] starting with show : Nesanica at local time 25/03/2021 00:00
+[  Debug ] time-offset change for all shows after starttime 20210326000000 +0100
+[  Debug ] starting with show : Nesanica at local time 26/03/2021 00:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
@@ -336,8 +336,8 @@
 [  Debug ] 
 [  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- mode Incremental
 [  Debug ] coming 'Day-Light-Saving-Time' change!
-[  Debug ] time-offset change for all shows after starttime 20210325055500 +0100
-[  Debug ] starting with show : F-Parties at local time 25/03/2021 05:55
+[  Debug ] time-offset change for all shows after starttime 20210326055500 +0100
+[  Debug ] starting with show : F-Parties at local time 26/03/2021 05:55
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel FineL same as -- Fine Living -- time offset 0 hour(s)
@@ -347,9 +347,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14792 shows in 60 channels
-[  Debug ] 245 updated shows
-[  Debug ] 1282 new shows added
+[  Debug ] 12689 shows in 60 channels
+[  Debug ] 199 updated shows
+[  Debug ] 76 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 25/03/2021 14:59:24 done in 5m 42s
+[        ] Job finished at 26/03/2021 12:34:13 done in 4m 52s
