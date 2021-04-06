@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 06/04/2021 17:38:02
+[        ] Job started at 06/04/2021 19:04:17
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.11.11.51111
 [  Debug ] Environment: 4.0.30319.42000
@@ -96,51 +96,15 @@
 [  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Debug ] 
 [  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 10/04/2021 02:18
-[  Debug ]    stoptime 10/04/2021 02:59               corrected to 10/04/2021 02:53
-[  Debug ]    conflicting stoptime or duration in show starting at 10/04/2021 02:53
-[  Debug ]    stoptime 10/04/2021 03:01               corrected to 10/04/2021 02:59
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 09/04/2021 07:29
-[  Debug ]                                       to 09/04/2021 07:30
-[  Debug ]    skipped : fully overlapping show from 09/04/2021 07:30
-[  Debug ]                                       to 09/04/2021 07:31
-[  Debug ]    skipped : fully overlapping show from 09/04/2021 07:41
-[  Debug ]                                       to 09/04/2021 07:42
-[  Debug ]    skipped : fully overlapping show from 09/04/2021 08:44
-[  Debug ]                                       to 09/04/2021 08:47
-[  Debug ]    skipped : fully overlapping show from 09/04/2021 09:35
-[  Debug ]                                       to 09/04/2021 09:36
-[  Debug ]    skipped : fully overlapping show from 09/04/2021 09:36
-[  Debug ]                                       to 09/04/2021 09:37
-[  Debug ]    skipped : fully overlapping show from 10/04/2021 06:57
-[  Debug ]                                       to 10/04/2021 06:58
-[  Debug ]    skipped : fully overlapping show from 10/04/2021 07:28
-[  Debug ]                                       to 10/04/2021 07:29
-[  Debug ]    conflicting stoptime or duration in show starting at 10/04/2021 09:11
-[  Debug ]    stoptime 10/04/2021 09:34               corrected to 10/04/2021 09:33
-[  Debug ]    conflicting stoptime or duration in show starting at 10/04/2021 09:33
-[  Debug ]    stoptime 10/04/2021 09:35               corrected to 10/04/2021 09:34
-[  Debug ]    skipped : fully overlapping show from 10/04/2021 09:35
-[  Debug ]                                       to 10/04/2021 09:36
-[  Debug ]    conflicting stoptime or duration in show starting at 10/04/2021 09:43
-[  Debug ]    stoptime 10/04/2021 09:53               corrected to 10/04/2021 09:44
-[  Debug ]    conflicting stoptime or duration in show starting at 10/04/2021 09:44
-[  Debug ]    stoptime 10/04/2021 09:54               corrected to 10/04/2021 09:53
-[  Debug ]    skipped : fully overlapping show from 10/04/2021 09:54
-[  Debug ]                                       to 10/04/2021 09:55
-[  Debug ]    skipped : fully overlapping show from 10/04/2021 09:55
-[  Debug ]                                       to 10/04/2021 09:56
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- mode Incremental
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- mode Incremental
-[  Debug ]    skipped : fully overlapping show from 06/04/2021 06:07
-[  Debug ]                                       to 06/04/2021 06:09
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- mode Incremental
@@ -233,22 +197,6 @@
 [  Info  ] channel EpicD same as -- Epic Drama -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- mode Incremental
-[  Debug ]    conflicting stoptime or duration in show starting at 07/04/2021 06:00
-[  Debug ]    stoptime 07/04/2021 06:25               corrected to 07/04/2021 06:20
-[  Debug ]    conflicting stoptime or duration in show starting at 08/04/2021 03:35
-[  Debug ]    stoptime 08/04/2021 04:25               corrected to 08/04/2021 03:55
-[  Debug ]    conflicting stoptime or duration in show starting at 08/04/2021 03:55
-[  Debug ]    stoptime 08/04/2021 04:45               corrected to 08/04/2021 04:25
-[  Debug ]    conflicting stoptime or duration in show starting at 08/04/2021 04:25
-[  Debug ]    stoptime 08/04/2021 04:50               corrected to 08/04/2021 04:45
-[  Debug ]    skipped : fully overlapping show from 08/04/2021 04:50
-[  Debug ]                                       to 08/04/2021 05:15
-[  Debug ]    conflicting stoptime or duration in show starting at 08/04/2021 04:45
-[  Debug ]    stoptime 08/04/2021 05:35               corrected to 08/04/2021 05:15
-[  Debug ]    conflicting stoptime or duration in show starting at 08/04/2021 05:15
-[  Debug ]    stoptime 08/04/2021 05:40               corrected to 08/04/2021 05:35
-[  Debug ]    skipped : fully overlapping show from 08/04/2021 05:40
-[  Debug ]                                       to 08/04/2021 06:00
 [  Info  ] 
 [  Debug ] 
 [  Info  ] channel NatGe same as -- N. Geographic -- time offset 0 hour(s)
@@ -307,9 +255,9 @@
 [  Debug ] 
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
-[  Debug ] 14288 shows in 60 channels
-[  Debug ] 438 updated shows
-[  Debug ] 0 new shows added
+[  Debug ] 14381 shows in 60 channels
+[  Debug ] 21 updated shows
+[  Debug ] 67 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 06/04/2021 17:44:04 done in 6m 2s
+[        ] Job finished at 06/04/2021 19:10:10 done in 5m 53s
