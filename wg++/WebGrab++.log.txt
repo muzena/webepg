@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 14/04/2021 11:16:03
+[        ] Job started at 14/04/2021 12:13:23
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.11.11.51111
 [  Debug ] Environment: 4.0.30319.42000
@@ -241,8 +241,6 @@
 [  Info  ] channel Nicke same as -- Nickelodeon HR -- time offset 0 hour(s)
 [  Debug ] 
 [  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- mode Incremental
-[Warning ] error downloading page: Error getting response stream (ReadDoneAsync2): ReceiveFailure
-[Warning ] pausing 1 of 4 times for 7 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- mode Incremental
@@ -259,8 +257,8 @@
 [  Info  ] channel WOMAN same as -- Woman -- time offset 0 hour(s)
 [  Debug ] 
 [  Debug ] 12701 shows in 60 channels
-[  Debug ] 195 updated shows
-[  Debug ] 154 new shows added
+[  Debug ] 0 updated shows
+[  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 14/04/2021 11:21:13 done in 5m 10s
+[        ] Job finished at 14/04/2021 12:18:14 done in 4m 50s
