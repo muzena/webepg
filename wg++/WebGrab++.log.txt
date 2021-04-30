@@ -7,9 +7,9 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 30/04/2021 12:37:14
+[        ] Job started at 30/04/2021 15:46:09
 [  Debug ] 
-[  Debug ] Running  on: Unix 5.11.11.51111
+[  Debug ] Running  on: Unix 5.12.0.51200
 [  Debug ] Environment: 4.0.30319.42000
 [  Debug ] Mono version: 6.12.0.122 (tarball Mon Feb 22 17:33:28 UTC 2021)
 [  Debug ] 
@@ -18,14 +18,14 @@
 [  Debug ] Reading config file: /tmp/webepg/wg++/WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[Warning ] The total channel count :20 exceeds the number 20 allowed for license 'un_registered_user'
-[Warning ] The total channel count set to :20
 [  Debug ] 
 [  Info  ] found: /tmp/webepg/wg++/tv.iskon.hr.EK.ini -- Revision 01
-[  Info  ] encrypted in 'new (V3)' mode
-[Warning ] License 'un_registered_user' can not decrypt this siteini !!
-[Warning ] Consult WGLicense.log.txt for detail of the various license options
-[Warning ] tv.iskon.hr.EK skipped
+[  Info  ] encrypted with userkey and expiry date in 'new (V3)' mode
+[Warning ] Unable to decrypt!!
+[Error   ] tv.iskon.hr.EK.ini expiry period ended on 15/04/2021
+[Error   ] and cannot be used for grabbing anymore
+[Error   ] A request for an expiry period renewal can be posted on http://www.webgrabplus.com/forum 
+
 [  Debug ] xmltv input file - /tmp/webepg/guide-iskon.xml - found
 [  Debug ] 0 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=HRT 1) in the config file
@@ -90,77 +90,195 @@
 [  Info  ] Found existing channel (xmltv_id=WOMAN) in the config file
 [  Info  ] 
 [  Info  ] 
-[  Info  ] 
 [  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
 [  Info  ] 
 [  Info  ] 
 [  Info  ] Group (0) :
-[  Info  ] update requested for - 60 - out of - 20 - channels for 11 day(s)
+[  Info  ] update requested for - 60 - out of - 60 - channels for 11 day(s)
 [  Info  ] 
-[  Info  ] (   1/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- skipped --> encrypted SiteIni
-[  Info  ] 
-[  Info  ] 
-[  Info  ] (   2/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- skipped --> encrypted SiteIni
+[  Info  ] (   1/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 1) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (   3/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- skipped --> encrypted SiteIni
+[  Info  ] (   2/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 2) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (   4/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- skipped --> encrypted SiteIni
+[  Info  ] (   3/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 3) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (   5/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- skipped --> encrypted SiteIni
+[  Info  ] (   4/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=HRT 4) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (   6/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- skipped --> encrypted SiteIni
+[  Info  ] (   5/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (   7/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- skipped --> encrypted SiteIni
+[  Info  ] (   6/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL 2) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (   8/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA) -- skipped --> encrypted SiteIni
+[  Info  ] (   7/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA TV) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (   9/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- skipped --> encrypted SiteIni
+[  Info  ] (   8/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NOVA) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  10/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma) -- skipped --> encrypted SiteIni
+[  Info  ] (   9/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma TV) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  11/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Living) -- skipped --> encrypted SiteIni
+[  Info  ] (  10/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Doma) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  12/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTLli) -- skipped --> encrypted SiteIni
+[  Info  ] (  11/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Living) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  13/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- skipped --> encrypted SiteIni
+[  Info  ] (  12/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTLli) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  14/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuk) -- skipped --> encrypted SiteIni
+[  Info  ] (  13/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuka TV) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  15/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- skipped --> encrypted SiteIni
+[  Info  ] (  14/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Jabuk) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  16/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- skipped --> encrypted SiteIni
+[  Info  ] (  15/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Z1) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  17/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1) -- skipped --> encrypted SiteIni
+[  Info  ] (  16/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1 HD) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  18/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- skipped --> encrypted SiteIni
+[  Info  ] (  17/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N1) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  19/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža) -- skipped --> encrypted SiteIni
+[  Info  ] (  18/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža TV) -- skipped --> encrypted SiteIni
 [  Info  ] 
 [  Info  ] 
-[  Info  ] (  20/20  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- skipped --> encrypted SiteIni
+[  Info  ] (  19/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mreža) -- skipped --> encrypted SiteIni
 [  Info  ] 
-[  Info  ] Maximum number of allowed channels 20 reached!
+[  Info  ] 
+[  Info  ] (  20/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini TV) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  21/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Mini) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  22/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTL Kockica) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  23/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=RTLko) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  24/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar  TV) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  25/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Cines) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  26/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineStar TV Action) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  27/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CineA) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  28/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Comedy Central) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  29/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Comed) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  30/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Life) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  31/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=FoxLi) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  32/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox Crime) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  33/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fox) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  34/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=DIVA) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  35/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV1000) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  36/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=TV100) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  37/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Epic Drama) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  38/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=EpicD) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  39/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=N. Geographic) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  40/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=NatGe) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  41/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat Explore) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  42/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Explo) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  43/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Viasat History) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  44/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Histo) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  45/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 1) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  46/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=SK 1) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  47/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sport Klub 3) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  48/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=SK 3) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  49/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Sportska TV) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  50/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=SPTV) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  51/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disney Channel) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  52/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Disne) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  53/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nickelodeon HR) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  54/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Nicke) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  55/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=CMC) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  56/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=VH1) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  57/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Fine Living) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  58/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=FineL) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  59/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=Woman) -- skipped --> encrypted SiteIni
+[  Info  ] 
+[  Info  ] 
+[  Info  ] (  60/60  ) TV.ISKON.HR.EK -- chan. (xmltv_id=WOMAN) -- skipped --> encrypted SiteIni
+[  Info  ] 
 [  Debug ] 
 [  Debug ] 0 shows in 60 channels
 [  Debug ] 0 updated shows
 [  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 30/04/2021 12:37:16 done in 2s
+[        ] Job finished at 30/04/2021 15:46:10 done in 0s
