@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 06/05/2021 00:27:42
+[        ] Job started at 06/05/2021 12:08:22
 [  Debug ] 
 [  Debug ] Running  on: Unix 5.12.0.51200
 [  Debug ] Environment: 4.0.30319.42000
@@ -281,4 +281,35 @@
 [  Debug ] 0 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 06/05/2021 00:27:43 done in 0s
+[        ] Job finished at 06/05/2021 12:08:23 done in 0s
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/58  ) MOJTV.HR -- chan. (xmltv_id=Doma TV) -- mode Incremental
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 06/05/2021 10:00:00 stop = 06/05/2021 10:35:00 title = Azra - nastavak
+[  Info  ]       Replaces ----- start = 06/05/2021 10:00:00 stop = 06/05/2021 10:35:00 title = Azra
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 07/05/2021 06:30:00 stop = 07/05/2021 07:15:00 title = Velečasni Brown
+[  Info  ]       Replaces ----- start = 07/05/2021 06:30:00 stop = 07/05/2021 07:15:00 title = Larin izbor
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 07/05/2021 14:15:00 stop = 07/05/2021 15:05:00 title = Inspektor Rex
+[  Info  ]       Replaces ----- start = 07/05/2021 14:15:00 stop = 07/05/2021 15:00:00 title = Inspektor Rex
+[  Info  ]       Replaces ----- start = 07/05/2021 15:00:00 stop = 07/05/2021 15:45:00 title = Castle
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 07/05/2021 15:05:00 stop = 07/05/2021 15:50:00 title = NCIS L.A.
+[  Info  ]       Replaces ----- start = 07/05/2021 15:00:00 stop = 07/05/2021 15:45:00 title = Castle
+[  Info  ]       Replaces ----- start = 07/05/2021 15:45:00 stop = 07/05/2021 16:35:00 title = Castle
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 07/05/2021 15:50:00 stop = 07/05/2021 16:40:00 title = NCIS L.A.
+[  Info  ]       Replaces ----- start = 07/05/2021 15:45:00 stop = 07/05/2021 16:35:00 title = Castle
+[  Info  ]       Replaces ----- start = 07/05/2021 16:35:00 stop = 07/05/2021 17:20:00 title = Tijelo je dokaz
+[  Info  ]    epg correction : 
+[  Info  ]  CHANGED show corrected,
+[  Info  ]       show with ---- start = 07/05/2021 16:40:00 stop = 07/05/2021 17:30:00 title = Specijalci
+[  Info  ]       Replaces ----- start = 07/05/2021 16:35:00 stop = 07/05/2021 17:20:00 title = Tijelo je dokaz
+[  Info  ]       Replaces ----- start = 07/05/2021 17:20:00 stop = 07/05/2021 18:10:00 title = Tijelo je dokaz
